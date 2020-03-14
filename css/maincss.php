@@ -160,6 +160,7 @@ max-height: 294px;
 
 .slickimage2 {
     max-height: 320px;
+    margin: auto;
 }
 
 .internshiplogo {

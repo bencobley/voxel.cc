@@ -250,9 +250,9 @@
             </div>
             <div class="slickcarousel">
                 <div style="width: 200px">
-                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH18.png" class="slickimage2">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH33.png" class="slickimage2">
                     <br>
-                    <div style="margin: 30px;">
+                    <div style="margin: 35px;">
                         <h4>Software</h4>
                         <p>Program with custom Voxel Block Code,<br> or code in Python or C++.</p>
                         <ul>
@@ -270,7 +270,7 @@
                 <div style="width: 200px">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH18.png" class="slickimage2">
                     <br>
-                    <div style="margin: 30px;">
+                    <div style="margin: 35px;">
                         <h4>Brain Module</h4>
                         <ul>
                             <li>3 x Magic Magnetic Voxel I2C connectors</li>
@@ -288,7 +288,7 @@
                 <div style="width: 200px">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH19.png" class="slickimage2">
                     <br>
-                    <div style="margin: 30px;">
+                    <div style="margin: 35px;">
                         <h4>Brain Smart Plug Module</h4>
                         <ul>
                             <li>1 x Magic Magnetic Voxel I2C connector</li>
@@ -304,7 +304,7 @@
                 <div style="width: 200px">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH21.png" class="slickimage2">
                     <br>
-                    <div style="margin: 30px;">
+                    <div style="margin: 35px;">
                         <h4>Environment Module</h4>
                         <p>DHT22 Temperature and Humidity Sensor</p>
                         <p>MAX44009 Ambient Light Sensor</p>
@@ -316,7 +316,7 @@
                 <div style="width: 200px">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH20.png" class="slickimage2">
                     <br>
-                    <div style="margin: 30px;">
+                    <div style="margin: 35px;">
                         <h4>Multi Input Module</h4>
                         <p>Rotary Encoder</p>
                         <p>3 x Tactile Buttons</p>
@@ -328,7 +328,7 @@
                 <div style="width: 200px">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH22.png" class="slickimage2">
                     <br>
-                    <div style="margin: 30px;">
+                    <div style="margin: 35px;">
                         <h4>Environment Module</h4>
                         <p>DHT22 Temperature and Humidity Sensor</p>
                         <p>MAX44009 Ambient Light Sensor</p>
