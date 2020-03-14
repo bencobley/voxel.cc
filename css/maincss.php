@@ -158,6 +158,10 @@ max-width: 700px;
 max-height: 294px;
 }
 
+.slickimage2 {
+    max-height: 320px;
+}
+
 .internshiplogo {
 margin: auto;
 max-width: 50%;

@@ -87,7 +87,12 @@
     margin-bottom: 30px !important;
 }
 
-.slickcarousel p {
+.slickimagetext p {
     padding: 10px;
     text-align: center;
+}
+
+.slickcarousel p {
+    padding: 0px;
+    text-align: left;
 }
