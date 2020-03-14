@@ -18,8 +18,7 @@
 }
 
 .collapsible {
-  background-color: #eee;
-  color: #444;
+  background-color: <?php echo $tertiary_colour ?>;
   cursor: pointer;
   padding: 18px;
   width: 100%;
@@ -29,18 +28,16 @@
   font-size: 16px;
 }
 
-/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
 .active, .collapsible:hover {
 }
 
-/* Style the collapsible content. Note: hidden by default */
 .content {
   padding: 10px;
   padding-left: 40px;
   display: none;
   overflow: hidden;
   background-color: white;
-  font-size: 14px;
+  font-size: 10px;
 }
 
 

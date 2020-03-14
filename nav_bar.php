@@ -5,6 +5,7 @@
     <h3><a href="hub#communityvibes">Hub</a></h3>
     <h4><a href="starterpack#techspecs">Tech&nbsp;Specs</a></h4>
     <h4><a href="starterpack#upcoming">Upcoming&nbsp;Releases</a></h4>
+    <h4><a href="starterpack#faq">FAQ</a></h4>
     <h4><a href="about">About&nbsp;us</a></h4>
     <div class="socialmediaimagesidenavcontainer">
         <a href="https://www.facebook.com/Voxelcc-102399501326664/" style="padding: 0px"><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/facebook.svg" class="socialmediaimagesidenav"></a>
