@@ -17,6 +17,7 @@
         <h3><a href="hub#communityvibes">Hub</a></h3>
         <h4><a href="starterpack#techspecs">Tech&nbsp;Specs</a></h4>
         <h4><a href="starterpack#upcoming">Upcoming&nbsp;Releases</a></h4>
+        <h4><a href="starterpack#faq">FAQ</a></h4>
         <h4><a href="about">About&nbsp;us</a></h4>
         <div class="socialmediaimagesidenavcontainer">
             <a href="https://www.facebook.com/Voxelcc-102399501326664/" style="padding: 0px"><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/facebook.svg" class="socialmediaimagesidenav"></a>
@@ -339,8 +340,9 @@
                 </div>
             </div>
         </div>
+        <a class="anchor" id="faq"></a>
         <br>
-        <div class="container flex-shrink-0" id="faq">
+        <div class="container flex-shrink-0">
             <h3 class="pb-5" style="margin: 0px;">FAQs</h3>
             <button type="button" class="collapsible">What protocols does Voxel use?<h4 style="float:right; margin: 0px; ">+</h4></button>
             <div class="content">
