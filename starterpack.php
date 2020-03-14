@@ -499,12 +499,18 @@
                 </div>
 
                 <div class="card">
+                    <img class="card-img-top" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH24.png">
                     <div class="card-body">
-                        <h5 class="card-title">We need you!</h5>
-                        <p class="card-text">Help us decide what to develop next. We're working alongide our community to design the next releases. Have your say:</p>
-                        <a class="btn btn-secondary" style="color: black" href="hub">Join forum ></a>
-
+                        <h5 class="card-title">Retro Gaming Pack</h5>
+                        <p class="card-text">Fun retro gaming style gaming inputs, joystick and 4 tactile buttons. </p>
+                        <p class="card-text"><small class="text-muted">Coming soon</small></p>
                     </div>
+                </div>
+                <div>
+                <div class="card-body">
+                    <h5 class="card-title">We need you!</h5>
+                    <p class="card-text">Help us decide what to develop next. We're working alongide our community to design the next releases. Have your say:</p>
+                    <a class="btn btn-secondary" style="color: black" href="hub">Join forum ></a>
                 </div>
             </div>
         </div>
