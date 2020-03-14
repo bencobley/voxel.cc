@@ -6830,7 +6830,7 @@ a.bg-primary:hover,
 a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-    background-color: #0062cc !important;
+    background-color: #0062 !important;
 }
 
 .bg-secondary {

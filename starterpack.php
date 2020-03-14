@@ -248,88 +248,98 @@
             <div class="container flex-shrink-0">
                 <h3 class="pb-5">Tech specs</h3>
             </div>
-            <div class="slickcarousel mx-auto pt-5" style="max-width: 1470px;">
-                <div style="padding: 30px; word-wrap: break-word;">
+            <div class="slickcarousel">
+                <div style="width: 200px">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH18.png" class="slickimage2">
                     <br>
-                    <h4>Software</h4>
-                    <p>Program with custom Voxel Block Code,<br> or code in Python or C++.</p>
-                    <ul>
-                        <li>Programmable over USB type-C with<br> Windows, Mac and Linux</li>
-                        <li">ESP-8266 functionality available <br>as normal</li>
-                        <li>Code straight in Arduino IDE</li>
-                    </ul>
-                    <p>Integrates with top Smart Home platforms</p>
-                    <ul>
-                        <li>Google Home / Alexa / HomeKit</li>
-                        <li>IFTTT / Tasmota / Home Assistant /<br> OpenHAB / MQTT</li>
-                    </ul>
+                    <div style="margin: 30px;">
+                        <h4>Software</h4>
+                        <p>Program with custom Voxel Block Code,<br> or code in Python or C++.</p>
+                        <ul>
+                            <li>Programmable over USB type-C with<br> Windows, Mac and Linux</li>
+                            <li">ESP-8266 functionality available <br>as normal</li>
+                                <li>Code straight in Arduino IDE</li>
+                        </ul>
+                        <p>Integrates with top Smart Home platforms</p>
+                        <ul>
+                            <li>Google Home / Alexa / HomeKit</li>
+                            <li>IFTTT / Tasmota / Home Assistant /<br> OpenHAB / MQTT</li>
+                        </ul>
+                    </div>
                 </div>
-                <div style="padding: 30px; text-align: left;">
+                <div style="width: 200px">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH18.png" class="slickimage2">
                     <br>
-                    <h4>Brain Module</h4>
-                    <ul>
-                        <li>3 x Magic Magnetic Voxel I2C connectors</li>
-                        <li>USB Type-C PD</li>
-                    </ul>
-                    <p>ESP-8266 WiFi microcontroller</p>
-                    <ul>
-                        <li>4mb of flash / 80 MHz clock speed</li>
-                        <li>11 x GPIO pins / 1 x Analog input ADC pin</li>
-                        <li>Hardware SPI, UART and I2C</li>
-                    </ul>
-                    <p>Vibrant 16 x 16 LED dot-matrix display with SPI</p>
+                    <div style="margin: 30px;">
+                        <h4>Brain Module</h4>
+                        <ul>
+                            <li>3 x Magic Magnetic Voxel I2C connectors</li>
+                            <li>USB Type-C PD</li>
+                        </ul>
+                        <p>ESP-8266 WiFi microcontroller</p>
+                        <ul>
+                            <li>4mb of flash / 80 MHz clock speed</li>
+                            <li>11 x GPIO pins / 1 x Analog input ADC pin</li>
+                            <li>Hardware SPI, UART and I2C</li>
+                        </ul>
+                        <p>Vibrant 16 x 16 LED dot-matrix display with SPI</p>
+                    </div>
                 </div>
-                <div style="padding: 30px;">
+                <div style="width: 200px">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH19.png" class="slickimage2">
                     <br>
-                    <h4>Brain Smart Plug Module</h4>
-                    <ul>
-                        <li >1 x Magic Magnetic Voxel I2C connector</li>
-                    </ul>
-                    <p>ESP-8266 WiFi microcontroller</p>
-                    <ul>
-                        <li >4mb of flash / 80 MHz clock speed</li>
-                        <li >Pins not accessible - shock risk!</li>
-                    </ul>
-                    <p>13A Relay / Reprogrammable tactile button </p>
+                    <div style="margin: 30px;">
+                        <h4>Brain Smart Plug Module</h4>
+                        <ul>
+                            <li>1 x Magic Magnetic Voxel I2C connector</li>
+                        </ul>
+                        <p>ESP-8266 WiFi microcontroller</p>
+                        <ul>
+                            <li>4mb of flash / 80 MHz clock speed</li>
+                            <li>Pins not accessible - shock risk!</li>
+                        </ul>
+                        <p>13A Relay / Reprogrammable tactile button </p>
+                    </div>
                 </div>
-                <div style="padding: 30px;">
+                <div style="width: 200px">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH21.png" class="slickimage2">
                     <br>
-                    <h4>Environment Module</h4>
-                    <p>DHT22 Temperature and Humidity Sensor</p>
-                    <p>MAX44009 Ambient Light Sensor</p>
-                    <ul>
-                        <li style="text-align: left">2 x Magic Magnetic Voxel I2C <br>connectors</li>
-                    </ul>
+                    <div style="margin: 30px;">
+                        <h4>Environment Module</h4>
+                        <p>DHT22 Temperature and Humidity Sensor</p>
+                        <p>MAX44009 Ambient Light Sensor</p>
+                        <ul>
+                            <li style="text-align: left">2 x Magic Magnetic Voxel I2C <br>connectors</li>
+                        </ul>
+                    </div>
                 </div>
-                <div style="padding: 20px;">
+                <div style="width: 200px">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH20.png" class="slickimage2">
                     <br>
-                    <h4>Multi Input Module</h4>
-                    <p>Rotary Encoder</p>
-                    <p>3 x Tactile Buttons</p>
-                    <ul>
-                        <li>1 x Magic Magnetic Voxel I2C connectors</li>
-                    </ul>
+                    <div style="margin: 30px;">
+                        <h4>Multi Input Module</h4>
+                        <p>Rotary Encoder</p>
+                        <p>3 x Tactile Buttons</p>
+                        <ul>
+                            <li>1 x Magic Magnetic Voxel I2C connectors</li>
+                        </ul>
+                    </div>
                 </div>
-                <div">
+                <div style="width: 200px">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH22.png" class="slickimage2">
                     <br>
+                    <div style="margin: 30px;">
                         <h4>Environment Module</h4>
                         <p>DHT22 Temperature and Humidity Sensor</p>
                         <p>MAX44009 Ambient Light Sensor</p>
                         <ul>
                             <li>2 x Magic Magnetic Voxel I2C connectors</li>
                         </ul>
-                        <div>
-                        </div>
                     </div>
                 </div>
             </div>
-            <!-- <div class="container flex-shrink-0 pt-5 pb-5">
+        </div>
+        <!-- <div class="container flex-shrink-0 pt-5 pb-5">
                 <h3 class="pb-5">Tech specs</h3>
                 <div class="row">
                     <div class="col-sm">
