@@ -343,7 +343,7 @@
         <a class="anchor" id="faq"></a>
         <br>
         <div class="container flex-shrink-0">
-            <h3 class="pb-5" style="margin: 0px;">FAQs</h3>
+            <h3 class="pb-5" style="margin: 0px;">FAQ</h3>
             <button type="button" class="collapsible">What protocols does Voxel use?<h4 style="float:right; margin: 0px; ">+</h4></button>
             <div class="content">
                 <p>Voxel uses I2C to connect sensors and inputs and is able to subscribe to MQTT topics.</p>
