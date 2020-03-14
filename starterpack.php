@@ -350,17 +350,17 @@
             <div class="content">
                 <p>We intend to release a battery pack that is compatible with out Voxel connectors as soon as possible. In the meantime Voxel is can be powered through any power bank over USB. </p>
             </div>
-            <button type="button" class="collapsible">How are we different to Home Assisant/Open HAB?<h4 style="float:right; margin: 0px; ">+</h4></button>
+            <button type="button" class="collapsible">How are we different to Home Assisant/OpenHAB?<h4 style="float:right; margin: 0px; ">+</h4></button>
             <div class="content">
-                <p>Lorem ipsum...</p>
+                <p>We are focusing on providing quality hardware as well as open source software, wheras Home Assistant and OpenHAB both focus purely on software.</p>
             </div>
             <button type="button" class="collapsible">How will we maintain our open source code?<h4 style="float:right; margin: 0px; ">+</h4></button>
             <div class="content">
-                <p>Lorem ipsum...</p>
+                <p>We will pay full-time developers to contribute to our source code.</p>
             </div>
             <button type="button" class="collapsible">Is Voxel the greatest thing ever?<h4 style="float:right; margin: 0px; ">+</h4></button>
             <div class="content">
-                <p>Lorem ipsum...</p>
+                <p>Yes</p>
             </div>
         </div>
         <br>

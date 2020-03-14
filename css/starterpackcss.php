@@ -4,7 +4,6 @@
 ?>
 
 .techspecs {
-    background-color: black;
     color: white;
 
 }
@@ -32,7 +31,6 @@
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
 .active, .collapsible:hover {
-  background-color: #ccc;
 }
 
 /* Style the collapsible content. Note: hidden by default */
@@ -49,7 +47,6 @@
 @media (max-width: 767px) {
 
     .carousel-inner {
-        /*        background-color: var(--secondary-colour);*/
         padding-bottom: 70%
     }
 
