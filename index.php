@@ -94,7 +94,7 @@ function test_input($data)
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/HP/HP2.gif" class="d-block d-lg-none h-100 w-100" style="object-fit: cover; max-height: 500px">
 
                     <div class="kickstarter-box mt-5">
-                        <h4>Sign up for for <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/HP/kickstarter.png" style="height: 25px"> updates: </h4>
+                        <h4>Sign up for <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/HP/kickstarter.png" style="height: 25px"> updates: </h4>
                         <form method="POST" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>">
                             <div class="input-group pt-3">
                                 <div class="form-label-group w-75">
