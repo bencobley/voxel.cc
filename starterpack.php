@@ -246,10 +246,10 @@
         <div class="techspecs mt-5 mb-5" id="techspecs" style="background-color: #111111">
             <br>
             <div class="container flex-shrink-0">
-                <h3 class="pb-5">Tech specs</h3>
+                <h3 class="pb-5" style="margin: 0px;">Tech specs</h3>
             </div>
             <div class="slickcarousel">
-                <div style="width: 200px">
+                <div style="width: 180px">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH33.png" class="slickimage2">
                     <br>
                     <div style="margin: 35px;">
@@ -267,7 +267,7 @@
                         </ul>
                     </div>
                 </div>
-                <div style="width: 200px">
+                <div style="width: 180px">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH18.png" class="slickimage2">
                     <br>
                     <div style="margin: 35px;">
@@ -285,7 +285,7 @@
                         <p>Vibrant 16 x 16 LED dot-matrix display with SPI</p>
                     </div>
                 </div>
-                <div style="width: 200px">
+                <div style="width: 180px">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH19.png" class="slickimage2">
                     <br>
                     <div style="margin: 35px;">
@@ -301,7 +301,7 @@
                         <p>13A Relay / Reprogrammable tactile button </p>
                     </div>
                 </div>
-                <div style="width: 200px">
+                <div style="width: 180px">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH21.png" class="slickimage2">
                     <br>
                     <div style="margin: 35px;">
@@ -313,7 +313,7 @@
                         </ul>
                     </div>
                 </div>
-                <div style="width: 200px">
+                <div style="width: 180px">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH20.png" class="slickimage2">
                     <br>
                     <div style="margin: 35px;">
@@ -325,7 +325,7 @@
                         </ul>
                     </div>
                 </div>
-                <div style="width: 200px">
+                <div style="width: 180px">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH22.png" class="slickimage2">
                     <br>
                     <div style="margin: 35px;">
@@ -339,110 +339,35 @@
                 </div>
             </div>
         </div>
-        <!-- <div class="container flex-shrink-0 pt-5 pb-5">
-                <h3 class="pb-5">Tech specs</h3>
-                <div class="row">
-                    <div class="col-sm">
-                        <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH33.png" style="max-width: 70%; padding: 20px;" class="w-100 mx-auto">
-                    </div>
-                    <div class="col-sm">
-                        <h4 class="pt-3">Software</h4>
-                        <p>Program with custom Voxel Block Code, or code in Python or C++.</p>
-                        <ul>
-                            <li>Programmable over USB type-C with Windows, Mac and Linux</li>
-                            <li>ESP-8266 functionality available as normal</li>
-                            <li>Code straight in Arduino IDE</li>
-                        </ul>
-                        <p>Integrates with top Smart Home platforms</p>
-                        <ul>
-                            <li>Google Home / Alexa / HomeKit</li>
-                            <li>IFTTT / Tasmota / Home Assistant / OpenHAB / MQTT</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md">
-                        <h4 class="pt-3">Brain Module</h4>
-                        <ul>
-                            <li>3 x Magic Magnetic Voxel I2C connectors</li>
-                            <li>USB Type-C PD</li>
-                        </ul>
-                        <p>ESP-8266 WiFi microcontroller</p>
-                        <ul>
-                            <li>4mb of flash / 80 MHz clock speed</li>
-                            <li>11 x GPIO pins / 1 x Analog input ADC pin</li>
-                            <li>Hardware SPI, UART and I2C</li>
-                        </ul>
-                        <p>Vibrant 16 x 16 LED dot-matrix display with SPI</p>
-                    </div>
-
-                    <div class="col-md">
-                        <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH18.png" style="max-width: 60%; padding: 20px;" class="w-100 mx-auto">
-                    </div>
-
-                </div>
-                <div class="row">
-                    <div class="col-md">
-                        <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH19.png" style="max-width: 60%; padding: 20px;" class="w-100 mx-auto">
-                    </div>
-                    <div class="col-md">
-                        <h4 class="pt-3">Brain Smart Plug Module</h4>
-                        <ul>
-                            <li>1 x Magic Magnetic Voxel I2C connector</li>
-                        </ul>
-                        <p>ESP-8266 WiFi microcontroller</p>
-                        <ul>
-                            <li>4mb of flash / 80 MHz clock speed</li>
-                            <li>Pins not accessible - shock risk!</li>
-                        </ul>
-                        <p>13A Relay / Reprogrammable tactile button </p>
-                    </div>
-
-                </div>
-
-                <div class="row mt-5">
-
-                    <div class="col-md">
-                        <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH21.png" style="padding: 20px;" class="w-100 mx-auto">
-                        <h4 class="pt-3">Environment Module</h4>
-                        <p>DHT22 Temperature and Humidity Sensor</p>
-                        <p>MAX44009 Ambient Light Sensor</p>
-                        <ul>
-                            <li>2 x Magic Magnetic Voxel I2C connectors</li>
-                        </ul>
-                    </div>
-
-                    <div class="w-100 d-block d-lg-none"></div>
-
-                    <div class="col-md">
-                        <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH22.png" style="padding: 20px;" class="w-100 mx-auto">
-                        <br>
-                        <br>
-                        <h4 class="pt-3">Motion Sensor Module</h4>
-                        <p>PAJ7620 Motion and Gesture Sensor</p>
-                        <ul>
-                            <li>2 x Magic Magnetic Voxel I2C connectors</li>
-                        </ul>
-                    </div>
-
-                    <div class="col-md">
-                        <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH20.png" style="padding: 20px;" class="w-100 mx-auto">
-                        <br>
-                        <br>
-
-                        <h4 class="pt-3">Multi Input Module</h4>
-                        <p>Rotary Encoder</p>
-                        <p>3 x Tactile Buttons</p>
-                        <ul>
-                            <li>1 x Magic Magnetic Voxel I2C connectors</li>
-                        </ul>
-                    </div>
-                </div>
-            </div> -->
+        <br>
+        <div class="container flex-shrink-0" id="faq">
+            <h3 class="pb-5" style="margin: 0px;">FAQs</h3>
+            <button type="button" class="collapsible">What Protocols does Voxel use?<h4 style="float:right; margin: 0px; ">+</h4></button>
+            <div class="content">
+                <p>Voxel uses I2C to connect sensors and inputs and is able to subscribe to MQTT topics.</p>
+            </div>
+            <button type="button" class="collapsible">Can it be battery powered?<h4 style="float:right; margin: 0px; ">+</h4></button>
+            <div class="content">
+                <p>We intend to release a battery pack that is compatible with out Voxel connectors as soon as possible. In the meantime Voxel is can be powered through any power bank over USB. </p>
+            </div>
+            <button type="button" class="collapsible">How are we different to Home Assisant/Open HAB?<h4 style="float:right; margin: 0px; ">+</h4></button>
+            <div class="content">
+                <p>Lorem ipsum...</p>
+            </div>
+            <button type="button" class="collapsible">How will we maintain our open source code?<h4 style="float:right; margin: 0px; ">+</h4></button>
+            <div class="content">
+                <p>Lorem ipsum...</p>
+            </div>
+            <button type="button" class="collapsible">Is Voxel the greatest thing ever?<h4 style="float:right; margin: 0px; ">+</h4></button>
+            <div class="content">
+                <p>Lorem ipsum...</p>
+            </div>
         </div>
+        <br>
+        <br>
+
 
         <a class="anchor" id="upcoming"></a>
-
         <div class="container flex-shrink-0 pt-5 pb-5">
             <h3>Upcoming releases</h3>
             <div class="card-deck pt-3">
@@ -459,7 +384,6 @@
                             </ul>
                         </p>
                         <a href="buy_shop" style="color: black" class="btn btn-secondary">Buy ></a>
-
                     </div>
                 </div>
 
@@ -507,13 +431,13 @@
                     </div>
                 </div>
                 <div>
-                <div class="card-body">
-                    <h5 class="card-title">We need you!</h5>
-                    <p class="card-text">Help us decide what to develop next. We're working alongide our community to design the next releases. Have your say:</p>
-                    <a class="btn btn-secondary" style="color: black" href="hub">Join forum ></a>
+                    <div class="card-body">
+                        <h5 class="card-title">We need you!</h5>
+                        <p class="card-text">Help us decide what to develop next. We're working alongide our community to design the next releases. Have your say:</p>
+                        <a class="btn btn-secondary" style="color: black" href="hub">Join forum ></a>
+                    </div>
                 </div>
             </div>
-        </div>
     </main>
 
     <?php require_once('footer.php'); ?>
@@ -525,6 +449,7 @@
     <script src="javascript/bootstrap.bundle.js"></script>
     <script src="slick/slick.js"></script>
     <script src="javascript/main.js"></script>
+    <script src="javascript/collapsible.js"></script>
 
 
 </body>
