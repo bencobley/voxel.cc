@@ -71,7 +71,7 @@ function test_input($data)
 
             <div class="row pt-5 pb-5">
                 <div class="col-lg-7">
-                    <h2 class="text-break pb-3">The smart home for <span class="replace-me1">freedom.<span style="display:none">,community,privacy.</span></span>
+                    <h2 class="text-break pb-3">The smart home for <span class="replace-me1">freedom.<span style="display:none">,community.,privacy.</span></span>
                     </h2>
 
 
