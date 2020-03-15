@@ -55,44 +55,16 @@ function test_input($data)
 
     <main role="main">
         <div class="container flex-shrink-0 pt-5">
-            <header class="mb-5">
-                <div class="overlay"></div>
-                <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/HP/HP1.mp4" type="video/mp4">
-                </video>
-                <div class="container h-100">
-                    <div class="d-flex h-100 text-center align-items-center">
-                        <div class="w-100 text-white">
-                            <h1>Own your<br> smart home</h1>
-                        </div>
-                    </div>
-                </div>
-            </header>
-
-            <div class="row pt-5 pb-5">
+            <div class="row pb-5">
                 <div class="col-lg-7">
                     <h2 class="text-break pb-3">The smart home for <span class="replace-me1">freedom.<span style="display:none">,community.,privacy.</span></span>
                     </h2>
-
-
-
-                    <!--                    <div class="row">-->
-                    <!--                        <div class="col">-->
-
                     <h5>Not <span class="replace-me2">closed doors.<span style="display:none">,big tech.,big data.</span></span>
                     </h5>
                     <p>
                         From beginner to expert, our magnetic modules and intuitive software give you the tools and flexibility to create whatever you want. Compatible with all your favourite devices.
                     </p>
-                    <!--                        </div>-->
-                    <!--                        <div class="col">-->
-                    <!-- <p>We’re designing our latest products around you; the crazy inventors, smart home wizards and new makers. We’re on a mission to bring open source smart homes to the world, powered by our amazing community. Join the movement.
-                    </p> -->
-                    <!--                        </div>-->
-                    <!--                    </div>-->
-
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/HP/HP2.gif" class="d-block d-lg-none h-100 w-100" style="object-fit: cover; max-height: 500px">
-
                     <div class="kickstarter-box mt-5">
                         <h4>Sign up for <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/HP/kickstarter.png" style="height: 25px"> updates: </h4>
                         <form method="POST" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>">
@@ -122,46 +94,54 @@ function test_input($data)
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/HP/HP2.gif" class="d-block h-100 w-100" style="object-fit: cover; max-height: 500px">
                 </div>
             </div>
+            <header class="mb-5">
+                <div class="overlay"></div>
+                <video preload="auto" autoplay="autoplay" muted="muted" loop="loop">
+                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/HP/HP1.mp4" type="video/mp4">
+                </video>
+            </header>
 
             <br>
             <br>
 
-            <div class="row mt-5" style="background-color: <?php echo($starter_pack_background); ?>">
+            <div class="row mt-5" style="background-color: <?php echo ($starter_pack_background); ?>">
                 <div class="col-lg-6 p-0">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/HP/HP5.png" class="d-block h-100 w-100" style="object-fit: cover">
                 </div>
                 <div class="col-lg-6 mb-3 p-5">
                     <h6 style="color: white">Coming soon:</h6>
-                    <h2 style ="color: white;" class="pb-4">Starter pack</h2>
-                    <h6 style ="color: white;" >Voxel’s first module pack: a powerful smart home controller, open-sourced. </h6>
-                    <p style ="color: white;" >Augment your smart home with handy environment sensors, brilliant dot matrix displays and tactile inputs. Compatible with most of your favourite devices. </p>
+                    <h2 style="color: white;" class="pb-4">Starter pack</h2>
+                    <h6 style="color: white;">Voxel’s first module pack: a powerful smart home controller, open-sourced. </h6>
+                    <p style="color: white;">Augment your smart home with handy environment sensors, brilliant dot matrix displays and tactile inputs. Compatible with most of your favourite devices. </p>
                     <a class="btn btn-secondary" href="starterpack">Explore ></a>
                 </div>
             </div>
         </div>
+        
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
 
-        <br>
-        <br>
-        <br>
-
-        <div style="background-color: <?php echo($why_voxel_background) ?>">
+        <div style="background-color: <?php echo ($why_voxel_background) ?>">
 
             <div class="container mt-5">
 
                 <div class="row">
                     <div class="col-lg-5 mb-3">
                         <div class="pt-5 pb-5">
-                            <h2 style ="color: white;">Why Voxel?</h2>
-                            <h4 style ="color: white;" class="pt-3">Complete freedom to create</h4>
-                            <p style ="color: white;">Build whatever you can dream up. Completely open source and customisable.</p>
+                            <h2 style="color: white;">Why Voxel?</h2>
+                            <h4 style="color: white;" class="pt-3">Complete freedom to create</h4>
+                            <p style="color: white;">Build whatever you can dream up. Completely open source and customisable.</p>
                             <a class="btn btn-secondary" href="hub#tutorials">Tutorials ></a>
 
-                            <h4 style ="color: white;" class="pt-5">Built with privacy first</h4>
-                            <p style ="color: white;">Our business model is about selling great hardware, not your data. Find out more about us:</p>
+                            <h4 style="color: white;" class="pt-5">Built with privacy first</h4>
+                            <p style="color: white;">Our business model is about selling great hardware, not your data. Find out more about us:</p>
                             <a class="btn btn-secondary" href="about">About us ></a>
 
-                            <h4 style ="color: white;" class="pt-5">Join a growing movement</h4>
-                            <p style ="color: white;">Get ideas and support from the wonderful Voxel community. Share your creations with 1 click.
+                            <h4 style="color: white;" class="pt-5">Join a growing movement</h4>
+                            <p style="color: white;">Get ideas and support from the wonderful Voxel community. Share your creations with 1 click.
                             </p>
                             <a class="btn btn-secondary" href="hub#communityvibes">Voxel Hub ></a>
                         </div>
@@ -173,12 +153,17 @@ function test_input($data)
             </div>
         </div>
         <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
         <div class="container flex-shrink-0 pt-5">
             <h3>Feed</h3>
             <!-- LightWidget WIDGET -->
             <script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script>
             <iframe src="https://cdn.lightwidget.com/widgets/93d269bd9e305556bfe48e18c0e2711e.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
-            </div>
+        </div>
     </main>
 
     <div class="container-fluid">
@@ -199,8 +184,13 @@ function test_input($data)
                 </div>
             </div>
         </div>
-
     </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
 
     <?php require_once('footer.php'); ?>
 
@@ -225,7 +215,6 @@ function test_input($data)
             onChange: false, // Function
             onComplete: false // Function
         });
-
     </script>
     <script>
         var replace = new ReplaceMe(document.querySelector('.replace-me2'), {
@@ -240,7 +229,6 @@ function test_input($data)
             onChange: false, // Function
             onComplete: false // Function
         });
-
     </script>
 </body>
 
