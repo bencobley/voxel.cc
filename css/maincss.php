@@ -164,7 +164,7 @@ max-height: 294px;
 }
 
 .slickimage3 {
-    max-width: 400px;
+    max-width: 500px;
     padding: 0 10px;
     margin: auto;
 }

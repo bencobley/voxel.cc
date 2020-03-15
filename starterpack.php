@@ -298,7 +298,7 @@
                         <h4>Brain Smart Plug Module</h4>
                         <h6>Measurements</h6>
                         <ul>
-                            <li>60mm x 60mm x 60mm, 45g</li>
+                            <li>60mm x 60mm x 88mm, 60g</li>
                         </ul>
                         <h6>Connectivity</h6>
                         <ul>
@@ -319,7 +319,7 @@
                         <h4>Environment Module</h4>
                         <h6>Measurements</h6>
                         <ul>
-                            <li>60mm x 60mm x 60mm, 45g</li>
+                            <li>60mm x 60mm x 15mm, 12g</li>
                         </ul>
                         <p>DHT22 Temperature and Humidity Sensor</p>
                         <p>MAX44009 Ambient Light Sensor</p>
@@ -336,7 +336,7 @@
                         <h4>Multi Input Module</h4>
                         <h6>Measurements</h6>
                         <ul>
-                            <li>60mm x 60mm x 60mm, 45g</li>
+                            <li>60mm x 60mm x 20mm, 15g</li>
                         </ul>
                         <p>Rotary Encoder</p>
                         <p>3 x Tactile Buttons</p>
@@ -353,7 +353,7 @@
                         <h4>Environment Module</h4>
                         <h6>Measurements</h6>
                         <ul>
-                            <li>60mm x 60mm x 60mm, 45g</li>
+                            <li>60mm x 60mm x 15mm, 12g</li>
                         </ul>
                         <p>DHT22 Temperature and Humidity Sensor</p>
                         <p>MAX44009 Ambient Light Sensor</p>
@@ -371,7 +371,7 @@
             <h3 class="pb-5" style="margin: 0px;">FAQ</h3>
             <button type="button" class="collapsible">What protocols does Voxel use?<h4 style="float:right; margin: 0px; ">+</h4></button>
             <div class="content">
-                <p>Voxel uses I2C to connect sensors and inputs and is able to subscribe to MQTT topics.</p>
+                <p>Voxel uses I2C to connect sensors and inputs and is able to subscribe to MQTT topics. It can also emulate some smart home products to allow control through Alexa or Google Home</p>
             </div>
             <button type="button" class="collapsible">Can it be battery powered?<h4 style="float:right; margin: 0px; ">+</h4></button>
             <div class="content">
@@ -384,10 +384,6 @@
             <button type="button" class="collapsible">How will we maintain our open source code?<h4 style="float:right; margin: 0px; ">+</h4></button>
             <div class="content">
                 <p>We will pay full-time developers to contribute to our source code.</p>
-            </div>
-            <button type="button" class="collapsible">Is Voxel the greatest thing ever?<h4 style="float:right; margin: 0px; ">+</h4></button>
-            <div class="content">
-                <p>Yes</p>
             </div>
         </div>
         <br>

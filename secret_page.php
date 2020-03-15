@@ -30,7 +30,7 @@
             <div class="container flex-shrink-0">
                 <h4>Online User Feedback</h4>
                 <br>
-                <p>General positive comments</p>
+                <p>General comments</p>
             </div>
             <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/1.jpg" class="slickimage3">
@@ -120,7 +120,9 @@
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/5.jpg" class="slickimage3">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/6.jpg" class="slickimage3">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/7.jpg" class="slickimage3">
-
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/8.jpg" class="slickimage3">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/9.jpg" class="slickimage3">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/10.jpg" class="slickimage3">
             </div>
             <!-- <div class="container flex-shrink-0">
                 <h6>Price</h6>
