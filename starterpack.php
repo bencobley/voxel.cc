@@ -255,7 +255,7 @@
                     <br>
                     <div style="margin: 35px;">
                         <h4>Software</h4>
-                        <p>Program with custom Voxel Block Code,<br> or code in Python or C++.</p>
+                        <p>Program with custom Voxel Block Code,or <br>code in Python or C++.</p>
                         <ul>
                             <li>Programmable over USB type-C with<br> Windows, Mac and Linux</li>
                             <li">ESP-8266 functionality available <br>as normal</li>
@@ -273,6 +273,11 @@
                     <br>
                     <div style="margin: 35px;">
                         <h4>Brain Module</h4>
+                        <h6>Measurements</h6>
+                        <ul>
+                            <li>60mm x 60mm x 60mm, 45g</li>
+                        </ul>
+                        <h6>Connectivity</h6>
                         <ul>
                             <li>3 x Magic Magnetic Voxel I2C connectors</li>
                             <li>USB Type-C PD</li>
@@ -291,6 +296,11 @@
                     <br>
                     <div style="margin: 35px;">
                         <h4>Brain Smart Plug Module</h4>
+                        <h6>Measurements</h6>
+                        <ul>
+                            <li>60mm x 60mm x 60mm, 45g</li>
+                        </ul>
+                        <h6>Connectivity</h6>
                         <ul>
                             <li>1 x Magic Magnetic Voxel I2C connector</li>
                         </ul>
@@ -307,10 +317,15 @@
                     <br>
                     <div style="margin: 35px;">
                         <h4>Environment Module</h4>
+                        <h6>Measurements</h6>
+                        <ul>
+                            <li>60mm x 60mm x 60mm, 45g</li>
+                        </ul>
                         <p>DHT22 Temperature and Humidity Sensor</p>
                         <p>MAX44009 Ambient Light Sensor</p>
+                        <h6>Connectivity</h6>
                         <ul>
-                            <li style="text-align: left">2 x Magic Magnetic Voxel I2C <br>connectors</li>
+                            <li>2 x Magic Magnetic Voxel I2C <br>connectors</li>
                         </ul>
                     </div>
                 </div>
@@ -319,8 +334,13 @@
                     <br>
                     <div style="margin: 35px;">
                         <h4>Multi Input Module</h4>
+                        <h6>Measurements</h6>
+                        <ul>
+                            <li>60mm x 60mm x 60mm, 45g</li>
+                        </ul>
                         <p>Rotary Encoder</p>
                         <p>3 x Tactile Buttons</p>
+                        <h6>Connectivity</h6>
                         <ul>
                             <li>1 x Magic Magnetic Voxel I2C connectors</li>
                         </ul>
@@ -331,8 +351,13 @@
                     <br>
                     <div style="margin: 35px;">
                         <h4>Environment Module</h4>
+                        <h6>Measurements</h6>
+                        <ul>
+                            <li>60mm x 60mm x 60mm, 45g</li>
+                        </ul>
                         <p>DHT22 Temperature and Humidity Sensor</p>
                         <p>MAX44009 Ambient Light Sensor</p>
+                        <h6>Connectivity</h6>
                         <ul>
                             <li>2 x Magic Magnetic Voxel I2C connectors</li>
                         </ul>

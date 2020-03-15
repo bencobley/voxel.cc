@@ -163,6 +163,12 @@ max-height: 294px;
     margin: auto;
 }
 
+.slickimage3 {
+    max-width: 400px;
+    padding: 0 10px;
+    margin: auto;
+}
+
 .internshiplogo {
 margin: auto;
 max-width: 50%;

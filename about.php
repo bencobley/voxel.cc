@@ -43,43 +43,40 @@
                 <div><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU2.png" class="slickimage">
                     <div class="aboutuscontainer">
                         <p style="padding: 10px; text-align: center;">Ben - CEO</p>
-                        <p>Oli is a keen smart home enthusiast and has professional experience developing consumer facing IOT tech from his time at Magic Of Things Ltd.</p>
+                        <p>A former engineer at Google X and Dyson, Ben has both leadership experience and extensive engineering skills spanning hardware and software. </p>
                         <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU7.jpg" class="internshiplogo">
                     </div>
                 </div>
                 <div><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU3.png" class="slickimage">
                     <div class="aboutuscontainer">
                         <p style="padding: 10px; text-align: center;">Ellie - COO</p>
-                        <p>Oli is a keen smart home enthusiast and has professional experience developing consumer facing IOT tech from his time at Magic Of Things Ltd.</p>
+                        <p>Ellie is passionate about user driven technology, and has professional experience of developing user focused installations at Jason Bruges Studio.</p>
                         <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU8.png" class="internshiplogo" style="padding-top: 20px;">
                     </div>
                 </div>
                 <div><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU4.png" class="slickimage" >
                     <div class="aboutuscontainer">
                         <p style="padding: 10px; text-align: center;">Gabi - CCO</p>
-                        <p>Oli is a keen smart home enthusiast and has professional experience developing consumer facing IOT tech from his time at Magic Of Things Ltd.</p>
+                        <p>Gabi loves quick prototypes, but hates wiring things up and coding. Working at Apple made him realise the importance of designing user-friendly, powerful tools that allow people to focus just on creating.</p>
                         <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU9.jpg" class="internshiplogo">
                     </div>
                 </div>
                 <div><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU5.png" class="slickimage">
                     <div class="aboutuscontainer">
                         <p style="padding: 10px; text-align: center;">Melisa - CMO</p>
-                        <p>Oli is a keen smart home enthusiast and has professional experience developing consumer facing IOT tech from his time at Magic Of Things Ltd.</p>
+                        <p>Melisa is an expert in graphic design and user experience. She has professional experience designing marketing material and graphics at CD Projekt. </p>
                         <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU10.png" class="internshiplogo">
                     </div>
                 </div>
                 <div><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU6.png" class="slickimage">
                     <div class="aboutuscontainer">
                         <p style="padding: 10px; text-align: center;">Oli - CTO</p>
-                        <p>Oli is a keen smart home enthusiast and has professional experience developing consumer facing IOT tech from his time at Magic Of Things Ltd.</p>
+                        <p>Oli is our hardware expert, he is a keen smart home enthusiast and has professional experience developing consumer facing IOT tech from working at Magic Of Things Ltd.</p>
                         <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU11.png" class="internshiplogo">
                     </div>
                 </div>
             </div>
         </div>
-
-        </div>
-
         <br>
         <br>
         <br>
