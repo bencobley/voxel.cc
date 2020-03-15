@@ -350,7 +350,7 @@
             </div>
             <button type="button" class="collapsible">Can it be battery powered?<h4 style="float:right; margin: 0px; ">+</h4></button>
             <div class="content">
-                <p>We intend to release a battery pack that is compatible with out Voxel connectors as soon as possible. In the meantime Voxel is can be powered through any power bank over USB. </p>
+                <p>We intend to release a battery pack that is compatible with our Voxel connectors as soon as possible. In the meantime Voxels can be powered through any power bank over USB. </p>
             </div>
             <button type="button" class="collapsible">How are we different to Home Assisant/OpenHAB?<h4 style="float:right; margin: 0px; ">+</h4></button>
             <div class="content">
