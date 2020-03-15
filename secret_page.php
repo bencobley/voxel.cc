@@ -29,7 +29,8 @@
         <div style="background-color: <?php echo $tertiary_colour; ?>; padding: 20px 0;">
             <div class="container flex-shrink-0">
                 <h4>Online User Feedback</h4>
-                <h6>General positive comments</h6>
+                <br>
+                <p>General positive comments</p>
             </div>
             <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/1.jpg" class="slickimage3">
@@ -69,7 +70,7 @@
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/35.jpg" class="slickimage3">
             </div>
             <div class="container flex-shrink-0">
-                <h6>Specific Tech Questions</h6>
+                <p>Specific Tech Questions</p>
             </div>
             <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/1.jpg" class="slickimage3">
@@ -106,15 +107,22 @@
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/32.jpg" class="slickimage3">
             </div>
             <div class="container flex-shrink-0">
-                <h6>Contributers</h6>
+                <p>Contributers & Price</p>
             </div>
             <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cont/1.jpg" class="slickimage3">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cont/2.jpg" class="slickimage3">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cont/3.jpg" class="slickimage3">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/1.jpg" class="slickimage3">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/2.jpg" class="slickimage3">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/3.jpg" class="slickimage3">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/4.jpg" class="slickimage3">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/5.jpg" class="slickimage3">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/6.jpg" class="slickimage3">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/7.jpg" class="slickimage3">
 
             </div>
-            <div class="container flex-shrink-0">
+            <!-- <div class="container flex-shrink-0">
                 <h6>Price</h6>
             </div>
             <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
@@ -122,7 +130,7 @@
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/2.jpg" class="slickimage3">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/3.jpg" class="slickimage3">
 
-            </div>
+            </div> -->
         </div>
         <div class="container flex-shrink-0">
             <br>
