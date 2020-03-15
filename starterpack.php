@@ -13,7 +13,7 @@
     <div id="mySidenav" class="sidenav">
         <a href="javascript:void(0)" class="closebtn" onclick="closeSideNav()">&times;</a>
         <h3><a href="index">Home</a></h3>
-        <h3><a href="starterpack">Shop</a></h3>
+        <h3><a href="starterpack">Products</a></h3>
         <h3><a href="hub#communityvibes">Hub</a></h3>
         <h4><a href="starterpack#techspecs">Tech&nbsp;Specs</a></h4>
         <h4><a href="starterpack#upcoming">Upcoming&nbsp;Releases</a></h4>

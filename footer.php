@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-lg">
                 <h3><a href="index">Home</a></h3>
-                <h3><a href="starterpack">Shop</a></h3>
+                <h3><a href="starterpack">Products</a></h3>
                 <h3><a href="hub#communityvibes">Hub</a></h3>
             </div>
             <div class="col-lg-5">
