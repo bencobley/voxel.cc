@@ -220,7 +220,7 @@ function test_input($data)
     </script>
     <script>
         var replace = new ReplaceMe(document.querySelector('.replace-me2'), {
-            animation: 'animated faster flipInX', // Animation class or classes
+            animation: 'animated fast flipInX', // Animation class or classes
             speed: 2000, // Delay between each phrase in miliseconds
             separator: ',', // Phrases separator
             hoverStop: false, // Stop rotator on phrase hover
