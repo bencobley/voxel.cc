@@ -32,21 +32,18 @@ h1 {
 font-weight: 700;
 /* font-size: 100px;*/
 font-size: 80px;
-line-height: 1.5;
 }
 
 h2 {
 font-weight: 700;
 /* font-size: 80px;*/
 font-size: 60px;
-line-height: 1.5;
 }
 
 h3 {
 font-weight: 700;
 /* font-size: 60px;*/
 font-size: 40px;
-line-height: 1.5;
 }
 
 h4 {
@@ -72,6 +69,12 @@ line-height: 1.5;
 }
 
 p {
+font-weight: 500;
+font-size: 16px;
+line-height: 1.7;
+}
+
+li {
 font-weight: 500;
 font-size: 16px;
 line-height: 1.7;

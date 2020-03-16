@@ -266,12 +266,12 @@
         <br>
         <br>
         <a class="anchor" id="techspecs"></a>
-        <div class="techspecs mt-5 mb-5" id="techspecs" style="background-color: #111111">
+        <div class="techspecs mt-5 mb-5 pb-5" id="techspecs" style="background-color: #111111">
             <br>
             <div class="container flex-shrink-0 mt-5">
                 <h3 class="pb-5" style="margin: 0px;">Tech specs</h3>
             </div>
-            <div class="slickcarousel mb-5">
+            <div class="slickcarousel">
                 <div style="width: 180px">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH33.png" class="slickimage2">
                     <br>
