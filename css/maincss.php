@@ -11,6 +11,7 @@ scroll-behavior: smooth;
 
 body {
 font-family: aktiv-grotesk-extended, sans-serif;
+line-height: 1.6;
 }
 
 .anchor {
@@ -67,6 +68,7 @@ font-size: 20px;
 p {
 font-weight: 500;
 font-size: 16px;
+line-height: 1.7;
 }
 
 @media (max-width: 767px) {
