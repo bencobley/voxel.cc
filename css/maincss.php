@@ -32,24 +32,28 @@ h1 {
 font-weight: 700;
 /* font-size: 100px;*/
 font-size: 80px;
+line-height: 1.5;
 }
 
 h2 {
 font-weight: 700;
 /* font-size: 80px;*/
 font-size: 60px;
+line-height: 1.5;
 }
 
 h3 {
 font-weight: 700;
 /* font-size: 60px;*/
 font-size: 40px;
+line-height: 1.5;
 }
 
 h4 {
 font-weight: 500;
 /* font-size: 30px;*/
 font-size: 25px;
+line-height: 1.5;
 }
 
 h5 {
@@ -57,12 +61,14 @@ font-weight: 500;
 font-style: italic;
 /* font-size: 25px;*/
 font-size: 25px;
+line-height: 1.5;
 }
 
 h6 {
 font-weight: 500;
 font-size: 20px;
 /* font-size: 25px;*/
+line-height: 1.5;
 }
 
 p {
