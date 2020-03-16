@@ -65,7 +65,7 @@ font-size: 20px;
 }
 
 p {
-font-weight: 300;
+font-weight: 500;
 font-size: 16px;
 }
 
