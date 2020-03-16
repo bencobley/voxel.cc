@@ -103,8 +103,6 @@ function test_input($data)
                     <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/HP/HP1.mp4" type="video/mp4">
                 </video>
             </header>
-
-            <br>
             <br>
 
             <div class="row mt-5" style="background-color: <?php echo ($starter_pack_background); ?>">
