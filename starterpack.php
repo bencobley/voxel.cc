@@ -487,7 +487,7 @@
                     <div class="card-body">
                         <h5 class="card-title">We need you!</h5>
                         <p class="card-text">Help us decide what to develop next. We're working alongide our community to design the next releases. Have your say:</p>
-                        <a class="btn btn-primary" style="color: black" href="hub">Join forum</a>
+                        <a class="btn btn-primary" href="hub">Join forum</a>
                     </div>
                 </div>
             </div>
