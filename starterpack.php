@@ -13,7 +13,7 @@
     <div id="mySidenav" class="sidenav">
         <a href="javascript:void(0)" class="closebtn" onclick="closeSideNav()">&times;</a>
         <h3><a href="index">Home</a></h3>
-        <h3><a href="starterpack">Shop</a></h3>
+        <h3><a href="starterpack">Products</a></h3>
         <h3><a href="hub#communityvibes">Hub</a></h3>
         <h4><a href="starterpack#techspecs">Tech&nbsp;Specs</a></h4>
         <h4><a href="starterpack#upcoming">Upcoming&nbsp;Releases</a></h4>
@@ -67,6 +67,7 @@
                 <div class="col text-center">
                     <h1 class="text-break">Starter Pack</h1>
                 </div>
+                <br>
 
             </div>
 
@@ -91,7 +92,7 @@
                 <p style="text-align: center; padding: 10px;">Brain Module</p>
             </div>
             <div><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH5.png" class="slickimage">
-                <p>Brain Smart Plug Module</p>
+                <p style="text-align: center; padding: 10px;">Brain Smart Plug Module</p>
             </div>
             <div><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH7.png" class="slickimage">
                 <p style="text-align: center; padding: 10px;">Environment Module</p>
@@ -103,6 +104,10 @@
                 <p style="text-align: center; padding: 10px;">Multi-input Module</p>
             </div>
         </div>
+        <br>
+        <br>
+        <br>
+        <br>
 
 
         <div class="container flex-shrink-0 pt-5">
@@ -119,16 +124,13 @@
                     <h3 style="color: white;" class="pt-4">Designed for Makers, by Makers</h3>
                     <p style="color: white;" class="pt-2">We believe smart homes should be a joy to work with and maker tech should be easy to get up and running.<br> Our new open smart home controller is built on principles of freedom, transparency and privacy.</p>
                     <a href="about" class="btn btn-secondary">Privacy ></a>
-
                 </div>
-
-
             </div>
-
+            <br>
+            <br>
+            <br>
 
             <!-- START THE FEATURETTES -->
-
-
             <div class="row featurette pt-5">
                 <div class="col-md-6">
                     <h2 class="featurette-heading">Idea to Invention in Record Time</h2>
@@ -139,7 +141,8 @@
                     <img class="featurette-image img-fluid mx-auto float-md-right" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH11.gif">
                 </div>
             </div>
-
+            <br>
+            <br>
             <hr class="featurette-divider">
 
             <div class="row featurette pb-5">
@@ -156,6 +159,10 @@
         </div>
         <br>
         <br>
+        <br>
+        <br>
+        <br>
+        <br>
 
         <div id="featuresCarousel" class="carousel slide pt-5 pb-5 mx-auto" data-ride="carousel" data-interval="7500" style="max-width: 1470px; background-color: <?php echo ($effortless_monitoring_background) ?>">
             <ol class="carousel-indicators">
@@ -165,6 +172,7 @@
                 <li data-target="#featuresCarousel" data-slide-to="3"></li>
 
             </ol>
+
             <div class="carousel-inner">
 
                 <div class="carousel-item active">
@@ -174,7 +182,9 @@
                         <p style="color: white;">Show data from around the home. Beautifully visualised on the dot&hyphen;matrix display. Right at home, at home. </p>
                     </div>
                 </div>
-
+                <br>
+                <br>
+                <br>
 
                 <div class="carousel-item">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH17.png" class="d-block">
@@ -210,7 +220,11 @@
                 <span class="sr-only">Next</span>
             </a>
         </div>
-
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
         <div class="container flex-shrink-0">
 
 
@@ -224,12 +238,17 @@
                             Hub.</a> All completely free and open source. Modify and customise, then share your new creation with just one click.
                     </p>
                 </div>
+
                 <div class="col-md-6">
                     <img class="featurette-image img-fluid mx-auto float-md-right" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH10.gif">
                 </div>
             </div>
 
+            <br>
+            <br>
             <hr class="featurette-divider">
+            <br>
+            <br>
 
             <div class="row featurette pb-5">
                 <div class="col-md-6 order-md-2">
@@ -242,7 +261,10 @@
             </div>
 
         </div>
-
+        <br>
+        <br>
+        <br>
+        <br>
         <a class="anchor" id="techspecs"></a>
         <div class="techspecs mt-5 mb-5" id="techspecs" style="background-color: #111111">
             <br>
@@ -255,7 +277,7 @@
                     <br>
                     <div style="margin: 35px;">
                         <h4>Software</h4>
-                        <p>Program with custom Voxel Block Code,<br> or code in Python or C++.</p>
+                        <p>Program with custom Voxel Block Code,or <br>code in Python or C++.</p>
                         <ul>
                             <li>Programmable over USB type-C with<br> Windows, Mac and Linux</li>
                             <li>ESP-8266 functionality available <br>as normal</li>
@@ -273,6 +295,11 @@
                     <br>
                     <div style="margin: 35px;">
                         <h4>Brain Module</h4>
+                        <h6>Measurements</h6>
+                        <ul>
+                            <li>60mm x 60mm x 60mm, 45g</li>
+                        </ul>
+                        <h6>Connectivity</h6>
                         <ul>
                             <li>3 x Magic Magnetic Voxel I2C connectors</li>
                             <li>USB Type-C PD</li>
@@ -291,6 +318,11 @@
                     <br>
                     <div style="margin: 35px;">
                         <h4>Brain Smart Plug Module</h4>
+                        <h6>Measurements</h6>
+                        <ul>
+                            <li>60mm x 60mm x 88mm, 60g</li>
+                        </ul>
+                        <h6>Connectivity</h6>
                         <ul>
                             <li>1 x Magic Magnetic Voxel I2C connector</li>
                         </ul>
@@ -307,10 +339,15 @@
                     <br>
                     <div style="margin: 35px;">
                         <h4>Environment Module</h4>
+                        <h6>Measurements</h6>
+                        <ul>
+                            <li>60mm x 60mm x 15mm, 12g</li>
+                        </ul>
                         <p>DHT22 Temperature and Humidity Sensor</p>
                         <p>MAX44009 Ambient Light Sensor</p>
+                        <h6>Connectivity</h6>
                         <ul>
-                            <li style="text-align: left">2 x Magic Magnetic Voxel I2C <br>connectors</li>
+                            <li>2 x Magic Magnetic Voxel I2C <br>connectors</li>
                         </ul>
                     </div>
                 </div>
@@ -319,8 +356,13 @@
                     <br>
                     <div style="margin: 35px;">
                         <h4>Multi Input Module</h4>
+                        <h6>Measurements</h6>
+                        <ul>
+                            <li>60mm x 60mm x 20mm, 15g</li>
+                        </ul>
                         <p>Rotary Encoder</p>
                         <p>3 x Tactile Buttons</p>
+                        <h6>Connectivity</h6>
                         <ul>
                             <li>1 x Magic Magnetic Voxel I2C connectors</li>
                         </ul>
@@ -331,8 +373,13 @@
                     <br>
                     <div style="margin: 35px;">
                         <h4>Environment Module</h4>
+                        <h6>Measurements</h6>
+                        <ul>
+                            <li>60mm x 60mm x 15mm, 12g</li>
+                        </ul>
                         <p>DHT22 Temperature and Humidity Sensor</p>
                         <p>MAX44009 Ambient Light Sensor</p>
+                        <h6>Connectivity</h6>
                         <ul>
                             <li>2 x Magic Magnetic Voxel I2C connectors</li>
                         </ul>
@@ -340,13 +387,17 @@
                 </div>
             </div>
         </div>
+        <br>
+        <br>
+        <br>
+        <br>
         <a class="anchor" id="faq"></a>
         <br>
         <div class="container flex-shrink-0">
             <h3 class="pb-5" style="margin: 0px;">FAQs</h3>
             <button type="button" class="collapsible">What protocols does Voxel use?<h4 style="float:right; margin: 0px; ">+</h4></button>
             <div class="content">
-                <p>Voxel uses I2C to connect sensors and inputs and is able to subscribe to MQTT topics.</p>
+                <p>Voxel uses I2C to connect sensors and inputs and is able to subscribe to MQTT topics. It can also emulate some smart home products to allow control through Alexa or Google Home</p>
             </div>
             <button type="button" class="collapsible">Can it be battery powered?<h4 style="float:right; margin: 0px; ">+</h4></button>
             <div class="content">
@@ -360,15 +411,12 @@
             <div class="content">
                 <p>We will pay full-time developers to contribute to our source code.</p>
             </div>
-            <button type="button" class="collapsible">Is Voxel the greatest thing ever?<h4 style="float:right; margin: 0px; ">+</h4></button>
-            <div class="content">
-                <p>Yes</p>
-            </div>
         </div>
         <br>
         <br>
-
-
+        <br>
+        <br>
+        <br>
         <a class="anchor" id="upcoming"></a>
         <div class="container flex-shrink-0 pt-5 pb-5">
             <h3>Upcoming releases</h3>
@@ -433,6 +481,9 @@
                     </div>
                 </div>
                 <div>
+
+                    <br>
+                    <br>
                     <div class="card-body">
                         <h5 class="card-title">We need you!</h5>
                         <p class="card-text">Help us decide what to develop next. We're working alongide our community to design the next releases. Have your say:</p>
@@ -440,6 +491,38 @@
                     </div>
                 </div>
             </div>
+
+        </div>
+        <div style="background-color: <?php echo ($why_voxel_background) ?>">
+
+            <div class="container mt-5">
+
+                <div class="row">
+                    <div class="col-lg-5 mb-3">
+                        <div class="pt-5 pb-5">
+                            <h2 style="color: white;">Why Voxel?</h2>
+                            <h4 style="color: white;" class="pt-3">Complete freedom to create</h4>
+                            <p style="color: white;">Build whatever you can dream up. Completely open source and customisable.</p>
+                            <a class="btn btn-secondary" href="hub#tutorials">Tutorials ></a>
+
+                            <h4 style="color: white;" class="pt-5">Built with privacy first</h4>
+                            <p style="color: white;">Our business model is about selling great hardware, not your data. Find out more about us:</p>
+                            <a class="btn btn-secondary" href="about">About us ></a>
+
+                            <h4 style="color: white;" class="pt-5">Join a growing movement</h4>
+                            <p style="color: white;">Get ideas and support from the wonderful Voxel community. Share your creations with 1 click.
+                            </p>
+                            <a class="btn btn-secondary" href="hub#communityvibes">Voxel Hub ></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-7">
+                        <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/BA/BA1.png" class="d-block h-100 w-100" style="object-fit: cover">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br>
+        <br>
     </main>
 
     <?php require_once('footer.php'); ?>

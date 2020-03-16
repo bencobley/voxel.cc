@@ -78,7 +78,7 @@ if (isset($_POST['password']) && isset($_POST['email'])) {
                 </div>
 
             </div>
-
+            <br>
             <div class="row mt-3">
                 <div class="col-md">
                     <h4>The powerful, modular smart home controller, open-sourced. </h4>
@@ -100,7 +100,7 @@ if (isset($_POST['password']) && isset($_POST['email'])) {
                     <li data-target="#featuresCarousel" data-slide-to="0" class="active"></li>
                     <li data-target="#featuresCarousel" data-slide-to="1"></li>
                     <li data-target="#featuresCarousel" data-slide-to="2"></li>
-<!--                    <li data-target="#featuresCarousel" data-slide-to="3"></li>-->
+                    <!--                    <li data-target="#featuresCarousel" data-slide-to="3"></li>-->
 
                 </ol>
                 <div class="carousel-inner">
@@ -136,9 +136,10 @@ if (isset($_POST['password']) && isset($_POST['email'])) {
                     <span class="sr-only">Next</span>
                 </a>
             </div>
-
-
-
+            <br>
+            <br>
+            <br>
+            <br>
             <h3 id="tutorials" name="tutorials" class="pt-5 pb-3">Tutorials</h3>
             <div class="card-deck">
                 <div class="card">
@@ -167,7 +168,10 @@ if (isset($_POST['password']) && isset($_POST['email'])) {
                     </div>
                 </div>
             </div>
-
+            <br>
+            <br>
+            <br>
+            <br>
             <h3 class="pt-5 pb-3">Projects</h3>
             <div class="card-deck">
                 <div class="card">
@@ -195,7 +199,10 @@ if (isset($_POST['password']) && isset($_POST['email'])) {
                     </div>
                 </div>
             </div>
-
+            <br>
+            <br>
+            <br>
+            <br>
             <h3 class="pt-5 pb-3">News</h3>
             <div class="card-deck">
                 <div class="card">
@@ -223,7 +230,10 @@ if (isset($_POST['password']) && isset($_POST['email'])) {
                     </div>
                 </div>
             </div>
-
+            <br>
+            <br>
+            <br>
+            <br>
 
 
         </div>
