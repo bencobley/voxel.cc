@@ -5,8 +5,9 @@
 
 .techspecs {
     color: white;
-
+    font-weight: 400;
 }
+
 
 .carousel a {
     z-index: 1000;

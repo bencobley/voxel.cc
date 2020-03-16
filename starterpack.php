@@ -122,7 +122,7 @@
 
                 <div class="col-lg-6 mb-3 p-5">
                     <h3 style="color: white;" class="pt-4">Designed for Makers, by Makers</h3>
-                    <p style="color: white;" class="pt-2">Smart homes should be a joy to work with and maker tech should be easy to get up and running.<br /> Our new smart home controller, built on principles of transparency and privacy combines the best of both these worlds.</p>
+                    <p style="color: white;" class="pt-2">We believe smart homes should be a joy to work with and maker tech should be easy to get up and running.<br> Our new open smart home controller is built on principles of freedom, transparency and privacy.</p>
                     <a href="about" class="btn btn-secondary">Privacy ></a>
                 </div>
             </div>
@@ -280,7 +280,7 @@
                         <p>Program with custom Voxel Block Code,or <br>code in Python or C++.</p>
                         <ul>
                             <li>Programmable over USB type-C with<br> Windows, Mac and Linux</li>
-                            <li">ESP-8266 functionality available <br>as normal</li>
+                            <li>ESP-8266 functionality available <br>as normal</li>
                                 <li>Code straight in Arduino IDE</li>
                         </ul>
                         <p>Integrates with top Smart Home platforms</p>
@@ -394,7 +394,7 @@
         <a class="anchor" id="faq"></a>
         <br>
         <div class="container flex-shrink-0">
-            <h3 class="pb-5" style="margin: 0px;">FAQ</h3>
+            <h3 class="pb-5" style="margin: 0px;">FAQs</h3>
             <button type="button" class="collapsible">What protocols does Voxel use?<h4 style="float:right; margin: 0px; ">+</h4></button>
             <div class="content">
                 <p>Voxel uses I2C to connect sensors and inputs and is able to subscribe to MQTT topics. It can also emulate some smart home products to allow control through Alexa or Google Home</p>
@@ -487,7 +487,7 @@
                     <div class="card-body">
                         <h5 class="card-title">We need you!</h5>
                         <p class="card-text">Help us decide what to develop next. We're working alongide our community to design the next releases. Have your say:</p>
-                        <a class="btn btn-secondary" style="color: black" href="hub">Join forum ></a>
+                        <a class="btn btn-primary" href="hub">Join forum</a>
                     </div>
                 </div>
             </div>
