@@ -493,6 +493,9 @@
             </div>
 
         </div>
+        <br>
+        <br>
+        <br>
         <div style="background-color: <?php echo ($why_voxel_background) ?>">
 
             <div class="container mt-5">
@@ -521,6 +524,7 @@
                 </div>
             </div>
         </div>
+        <br>
         <br>
         <br>
     </main>
