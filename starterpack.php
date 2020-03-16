@@ -138,7 +138,7 @@
                     </p>
                 </div>
                 <div class="col-md-6">
-                    <img class="featurette-image img-fluid mx-auto float-md-right" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH11.gif">
+                    <img class="featurette-image img-fluid mx-auto float-md-right" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH11.mp4">
                 </div>
             </div>
             <br>
@@ -152,7 +152,7 @@
                     <a href="https://developers.google.com/blockly"><img src="media/blockly.png" style="height: 50px;" class="float-right"></a>
                 </div>
                 <div class="col-md-6 order-md-1">
-                    <img class="featurette-image img-fluid mx-auto" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH12.gif" alt="Generic placeholder image">
+                    <img class="featurette-image img-fluid mx-auto" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH12.mp4" alt="Generic placeholder image">
                 </div>
             </div>
 
@@ -256,7 +256,7 @@
                     <p class="text-right">Proudly open source. Yours to hack, tinker and upgrade. So modular that it arrives dissasembled: the ESP-8266 chip and dot-matrix display are yours to integrate into anything. </p>
                 </div>
                 <div class="col-md-6 order-md-1">
-                    <img class="featurette-image img-fluid mx-auto" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.gif" alt="Generic placeholder image">
+                    <img class="featurette-image img-fluid mx-auto" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.mp4" alt="Generic placeholder image">
                 </div>
             </div>
 
