@@ -122,7 +122,7 @@
 
                 <div class="col-lg-6 mb-3 p-5">
                     <h3 style="color: white;" class="pt-4">Designed for Makers, by Makers</h3>
-                    <p style="color: white;" class="pt-2">We believe smart homes should be a joy to work with and maker tech should be easy to get up and running.<br> Our new open smart home controller is built on principles of freedom, transparency and privacy.</p>
+                    <p style="color: white;" class="pt-2">We believe smart homes should be a joy to work with and maker tech should be easy to get up and running. Our new open smart home controller is built on principles of freedom, transparency and privacy.</p>
                     <a href="about" class="btn btn-secondary">Privacy ></a>
                 </div>
             </div>
@@ -266,9 +266,9 @@
         <br>
         <br>
         <a class="anchor" id="techspecs"></a>
-        <div class="techspecs mt-5 mb-5" id="techspecs" style="background-color: #111111">
+        <div class="techspecs mt-5 mb-5 pb-5" id="techspecs" style="background-color: #111111">
             <br>
-            <div class="container flex-shrink-0">
+            <div class="container flex-shrink-0 mt-5">
                 <h3 class="pb-5" style="margin: 0px;">Tech specs</h3>
             </div>
             <div class="slickcarousel">

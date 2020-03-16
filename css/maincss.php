@@ -50,6 +50,7 @@ h4 {
 font-weight: 500;
 /* font-size: 30px;*/
 font-size: 25px;
+line-height: 1.5;
 }
 
 h5 {
@@ -57,15 +58,23 @@ font-weight: 500;
 font-style: italic;
 /* font-size: 25px;*/
 font-size: 25px;
+line-height: 1.5;
 }
 
 h6 {
 font-weight: 500;
 font-size: 20px;
 /* font-size: 25px;*/
+line-height: 1.5;
 }
 
 p {
+font-weight: 500;
+font-size: 16px;
+line-height: 1.7;
+}
+
+li {
 font-weight: 500;
 font-size: 16px;
 line-height: 1.7;
