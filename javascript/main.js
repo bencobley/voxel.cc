@@ -30,7 +30,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
     $('.slickcarousel').slick({
-//        dots: false,
+        dots: true,
         infinite: false,
         arrows: false,
         autoplay: false,
