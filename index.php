@@ -98,7 +98,6 @@ function test_input($data)
             <br>
             <br>
             <br>
-            <br>
             <header class="mb-5">
                 <video preload="auto" autoplay="autoplay" muted="muted" loop="loop">
                     <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/HP/HP1.mp4" type="video/mp4">
