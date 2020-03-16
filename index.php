@@ -94,8 +94,11 @@ function test_input($data)
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/HP/HP2.gif" class="d-block h-100 w-100" style="object-fit: cover; max-height: 500px">
                 </div>
             </div>
+            <br>
+            <br>
+            <br>
+            <br>
             <header class="mb-5">
-                <div class="overlay"></div>
                 <video preload="auto" autoplay="autoplay" muted="muted" loop="loop">
                     <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/HP/HP1.mp4" type="video/mp4">
                 </video>
@@ -117,7 +120,6 @@ function test_input($data)
                 </div>
             </div>
         </div>
-        
         <br>
         <br>
         <br>
