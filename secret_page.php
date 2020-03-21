@@ -16,14 +16,100 @@
 
     <main role="main">
         <div class="container flex-shrink-0">
-            <h3>Secret Page</h3>
-            <br>
-            Vivamus at augue eget arcu dictum varius. In eu mi bibendum neque egestas congue quisque egestas diam. Risus pretium quam vulputate dignissim suspendisse in est. Nunc congue nisi vitae suscipit. Fusce id velit ut tortor. Dictum sit amet justo donec enim diam vulputate ut. Mauris in aliquam sem fringilla. Accumsan in nisl nisi scelerisque eu ultrices. Dui faucibus in ornare quam viverra orci sagittis eu. Sed sed risus pretium quam vulputate dignissim suspendisse in. Semper feugiat nibh sed pulvinar proin gravida hendrerit lectus. Platea dictumst quisque sagittis purus sit amet volutpat consequat mauris. At urna condimentum mattis pellentesque. Lorem mollis aliquam ut porttitor leo a diam.<br><br>
+            <div class="horizontal_nav">
+                <ul>
+                    <li><a href="secret_page#company_summary">Company Summary</a></li>
+                    <li><a href="secret_page#market_analysis">Market and Competitor Analysis</a></li>
+                    <li><a href="secret_page#customer_base">Customer Base</a></li>
+                    <li><a href="secret_page#concept_development">Concept Development</a></li>
+                    <li><a href="secret_page#validation">Validation</a></li>
+                    <li><a href="secret_page#business">Business Model and Strategy</a></li>
+                </ul>
+                <h3>Investor Information Page</h3>
+                <br>
+                <p>This page provides investors with a brief overview of Voxel’s internal development, including market analysis, product development, user testing, business development and our future plans.</p>
+                <br>
+                <a id="company_summary"></a>
+                <h4>Company Summary</h4>
+                <br>
+                <h6>Business</h6>
+                <ul>
+                    <li>Voxel’s goal is to spread creative, privacy focused, smart home technology by becoming the first smart home hardware platform that uses open source software. Voxel taps several strong veins: privacy, smart home customisation and community generated content.</li><br>
+                    <li>Our target users struggle to create smart home experiences that fit their specific needs: Existing products are tied to cloud services operated by big tech companies and are designed to lock users into specific ecosystems with deliberately limited integrations. Devices are often difficult to set up, have unintuitive software and generate profit from user data analysis.</li><br>
+                    <li>Voxel has created a line of modular, magnetic smart home hardware that allows users to start creating useful experiences in seconds. Voxel hardware is easy to expand or reconfigure, and our wide range of sensors, screens and smart plugs encourage returning customers. </li><br>
+                    <li>The online platform hosts the Voxel community where users can receive support, upload, share and download creations. We encourage users to reprogram, tinker and hack our hardware and to contribute to our open source software, adding value to our business and expanding the reach and functionality of our platform.</li><br>
+                </ul>
+                <h6>Market</h6>
+                <ul>
+                    <li>In an expanding smart home market, Voxel targets makers (technology and DIY enthusiasts), tech savvy users and home improvers. Voxel is suitable for all ability levels. Users with no electronics or programming knowledge can download projects from our community hub, those looking for greater control can use our graphical ‘drag and drop’ coding system and users with advanced technical knowledge can code in c++ and flash firmware directly to the device.</li><br>
+                    <li>We have received interest across vertical market opportunities such as mass market electronics consumers and as an educational tool to teach electronics and programming in schools or makerspaces. </li><br>
+                    <li>Key competitors include:<br>
+                        - Sonoff; a company who develop smart home hardware that can be reprogrammed relatively
+                        easily (although they do not officially support this).<br>
+                        - Arduino; open source hardware and software company that produce microcontroller boards
+                        - Big tech companies such as google and amazon, who use their smart home products as part of
+                        a wider business strategy.<br>
+                        - Home Assistant; Open source freeware designed to run on a Raspberry Pi. Acts as a server to
+                        control other smart home devices.</li>
+                </ul>
+                <br>
+                <br>
+                <br>
+                <a id="market_analysis"></a>
+                <h4>Our Vision</h4>
+                <p>In 2020, the smart homes market is estimated to reach $40 billion and by 2023, it's expected to penetrate almost 54% of households around the world.<br>
 
-            Eget sit amet tellus cras adipiscing enim eu turpis. Turpis massa tincidunt dui ut ornare lectus sit amet. Ultricies mi eget mauris pharetra et ultrices neque ornare aenean. Elementum integer enim neque volutpat ac. Tincidunt lobortis feugiat vivamus at. Odio facilisis mauris sit amet. Porttitor rhoncus dolor purus non enim. Cursus risus at ultrices mi tempus imperdiet. Enim neque volutpat ac tincidunt vitae semper quis lectus. Tortor pretium viverra suspendisse potenti nullam ac tortor. Enim blandit volutpat maecenas volutpat blandit aliquam etiam erat velit. Porttitor rhoncus dolor purus non enim. Eget felis eget nunc lobortis mattis aliquam faucibus. Bibendum neque egestas congue quisque egestas diam in arcu cursus. Fames ac turpis egestas sed tempus urna et. Vulputate dignissim suspendisse in est ante in nibh mauris cursus. Dignissim diam quis enim lobortis scelerisque fermentum. In iaculis nunc sed augue lacus viverra. Sed ullamcorper morbi tincidunt ornare massa eget egestas purus. Semper quis lectus nulla at.<br>
+                    There are a number of pitfalls when setting up a Smart Home: People struggle to create smart home experiences that fit their specific needs: Existing products are tied to cloud services operated by big tech companies and are designed to lock users into specific ecosystems with deliberately limited integrations. Devices are often difficult to set up, have unintuitive software and generate profit from user data analysis.<br>
 
-            Enim ut sem viverra aliquet eget sit amet tellus. In fermentum posuere urna nec tincidunt praesent semper feugiat. Eu mi bibendum neque egestas congue. Dui ut ornare lectus sit amet est placerat in egestas. Pretium vulputate sapien nec sagittis aliquam. Commodo quis imperdiet massa tincidunt nunc pulvinar. Adipiscing bibendum est ultricies integer quis auctor elit. Sodales neque sodales ut etiam sit. Etiam erat velit scelerisque in dictum. Id ornare arcu odio ut sem nulla. Sit amet aliquam id diam maecenas ultricies. Lorem sed risus ultricies tristique nulla. Sit amet massa vitae tortor. Nulla facilisi morbi tempus iaculis. Elementum curabitur vitae nunc sed velit dignissim sodales.<br><br>
-            </p>
+                    As avid techies and makers ourselves, we have been frustrated by the lack of configurability and customisation possible with existing solutions and we value complete control over the products we own.<br>
+
+                    There is a market need for a smart home product that puts creativity, exploration and privacy first; an expandable system that allows makers, techies and home-improvers to go from idea to implementation in seconds.<br>
+                </p>
+                <br>
+                <br>
+                <br>
+                <h4>Customer Base</h4>
+                <p>Following a first round of user investigation interviews conducted around Imperial College London and White City Advanced Hackspace, we segmented our customer base into 3 key sections.</p>
+                <br>
+                <div>
+                    <div style="float: left; max-width: 50%">
+                        <b>The Tech Junkie</b><br>
+                        <p>The tech junkie loves using smart home technology and integrating it into their home; even if the interactions are not that useful, it is all about the novelty factor. They buy products that are fun, quirky, cheap and easy to set up. They jump on the latest tech trends and enjoy showing off their smart home tech.
+                        </p>
+                    </div>
+                    <br>
+                    <br>
+                    <br>
+
+                    <div style="float: right; max-width: 50%">
+                        <b>The Home Improver</b><br>
+                        <p>The home improver enjoys optimising their home and automating their devices. They are looking for tech that will provide useful experiences and are willing to pay for high quality devices. They may be concerned about privacy issues but they lack the technical knowledge to develop their own systems. They value a reliable product that is easy to set up and fits in well with their home.
+                        </p>
+                    </div>
+
+                    <div style="float: left; max-width: 50%">
+                        <b>The Maker</b><br>
+                        <p>The maker enjoys the challenge, learning experience and satisfaction of creating something useful. They love to share their creations and learn from like minded people. Makers typically have a high level of technical knowledge and are privacy conscious. Therefore they place a lot of value on open source software. Maker’s will pay a premium for hardware that allows maximum ‘hackability’ but that is also reliable and easy to set up.
+                        </p>
+                    </div>
+                    <div style="clear: both"></div>
+                </div>
+                <br>
+                <br>
+                <p>From primary and secondary research (detailed below), Voxel has decided to focus on the makers market. The lack of current products suited to this privacy aware demographic, its favourable spending power, receptivity to less developed products and the fact that we are makers ourselves has also helped to inform this decision. <br>
+                    In addition to this, makers love to contribute to open source software which is an important facet of our business model; as Voxel grows we will rely on a dedicated and engaged user base to populate our community hub with tutorials, projects and contributions to our source code.<br>
+                    A core value of our business is accessibility, whilst we target makers we also aim to excite smart home customers of all levels of expertise through a freely available open source programming platform that does not require pre-existing knowledge. Voxel aims to speak to all branches of the smart home market and expand laterally to meet the needs of an expanding user base.<br>
+                </p>
+                <br>
+                <h4>Market and Competitor Analysis</h4>
+                <br>
+                <a id="customer_base"></a>
+                <h6>Market</h6>
+                <p>The Global Smart Home Market was valued at USD 64.33 billion in 2017 and is projected to reach USD 176.59 billion by 2025, growing at a CAGR of 13.5% from 2018 to 2025.<br>
+                    The growth in the smart home market is driven by a number of factors. These include technological advancements, energy saving and monitoring, the need to monitor the home remotely, rapid proliferation of smart technologies and media systems. There is a growing concern and consideration for privacy and safety issues with many devices proven vulnerable to hacking and others sending non encrypted personal information to remote overseas servers.<br>
+                    The smart home market can be segmented by application into lighting control, security & access control, entertainment systems, HVAC control, home healthcare, smart kitchen, and home appliances. Voxel primarily focuses on lighting control, entertainment systems and home appliances but is designed to allow integration across these segments in future, in keeping with our company values.<br>
+                </p>
+            </div>
         </div>
 
         <div style="background-color: <?php echo $tertiary_colour; ?>; padding: 20px 0;">
