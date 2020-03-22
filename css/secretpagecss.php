@@ -10,6 +10,7 @@ require("cssvariables.php")
     position: -webkit-sticky; /* Safari */
     position: sticky !important;
     top: 0px !important;
+    z-index: 1;
 
 }
 
@@ -53,8 +54,12 @@ color: white !important;
 
 .background1 {
     padding: 30px;
-    color: white;
-    background-color: <?php echo  $why_voxel_background; ?>;
+    color: black;
+    background-color: <?php echo  $tertiary_colour; ?>;
+}
+
+.btn {
+    margin-left: 35px;
 }
 
 
@@ -68,6 +73,7 @@ width: 500px;
 margin: 0.25em 0;
 padding: 0.35em 40px;
 line-height: 1.45;
+position: relative;
 }
 
 blockquote:before {

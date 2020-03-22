@@ -37,34 +37,33 @@
                 <br>
                 <p>This page provides investors with a brief overview of Voxel’s internal development, including market analysis, product development, user testing, business development and our future plans.</p>
                 <br>
+                <br>
+                <br>
                 <h4>Company Summary</h4>
-                <br>
-                <div class="background1">
-                    <h6>Team</h6>
-                    <ul>
-                        <li><b>Gabriele</b> loves quick prototypes, but hates wiring things up and coding. Working at Apple made him realise the importance of designing user-friendly, powerful tools that allow people to focus just on creating. </li><br>
-                        <li><b>Oli</b> is a keen smart home enthusiast and has professional experience designing, making and testing consumer facing IOT tech from his time at Magic of Things Ltd.</li><br>
-                        <li><b>Ben</b> A former engineer at Google X and Dyson, Ben has both leadership experience and extensive engineering skills spanning hardware and software.</li><br>
-                        <li><b>Ellie</b> is passionate about user driven technology, and has professional experience of developing user focused installations at Jason Bruges Studio.</li><br>
-                        <li><b>Melisa</b> is an expert in graphic design and user experience. She has professional experience designing marketing material and graphics at CD Projekt Red.</li><br>
+                <p>We are searching for investment - see investor summary here</p>
+                        <br>
+                        <div class="background1">
+                            <h6>Team</h6>
+                            <ul>
+                                <li><b>Gabriele</b> loves quick prototypes, but hates wiring things up and coding. Working at Apple made him realise the importance of designing user-friendly, powerful tools that allow people to focus just on creating. </li><br>
+                                <li><b>Oli</b> is a keen smart home enthusiast and has professional experience designing, making and testing consumer facing IOT tech from his time at Magic of Things Ltd.</li><br>
+                                <li><b>Ben</b> A former engineer at Google X and Dyson, Ben has both leadership experience and extensive engineering skills spanning hardware and software.</li><br>
+                                <li><b>Ellie</b> is passionate about user driven technology, and has professional experience of developing user focused installations at Jason Bruges Studio.</li><br>
+                                <li><b>Melisa</b> is an expert in graphic design and user experience. She has professional experience designing marketing material and graphics at CD Projekt Red.</li><br>
 
-                    </ul>
-                </div>
-                <br>
-                <br>
-                <h6>Company Values</h6>
-                <ul>
-                    <li>In an expanding smart home market, Voxel targets makers (technology and DIY enthusiasts), tech savvy users and home improvers. Voxel is suitable for all ability levels. Users with no electronics or programming knowledge can download projects from our community hub, those looking for greater control can use our graphical ‘drag and drop’ coding system and users with advanced technical knowledge can code in c++ and flash firmware directly to the device.</li><br>
-                    <li>We have received interest across vertical market opportunities such as mass market electronics consumers and as an educational tool to teach electronics and programming in schools or makerspaces. </li><br>
-                    <li>Key competitors include:<br>
-                        - Sonoff; a company who develop smart home hardware that can be reprogrammed relatively
-                        easily (although they do not officially support this).<br>
-                        - Arduino; open source hardware and software company that produce microcontroller boards
-                        - Big tech companies such as google and amazon, who use their smart home products as part of
-                        a wider business strategy.<br>
-                        - Home Assistant; Open source freeware designed to run on a Raspberry Pi. Acts as a server to
-                        control other smart home devices.</li>
-                </ul>
+                            </ul>
+                        </div>
+                        <br>
+                        <br>
+                        <h6>Core Company Values</h6>
+                        <ul>
+                            <li>Privacy</li>
+                            <li>Community</li>
+                            <li>Wide Integrations</li>
+                            <li>Freedom</li>
+                            <li>Accessibility</li>
+                            <li>Ease of use</li>
+                        </ul>
             </section>
             <br>
             <br>
@@ -234,10 +233,11 @@
                 <br>
                 <div style="max-width: 50%; margin: auto;">
                     <blockquote class="blockquote">
-                        <p>Depends on what goes in it I suppose. My suggestion is use a SMB for a server (if required), as it's a pain to run openhab sometimes. I would say, for a starter pack between $50-100, again depending on what goes in it.</p>
+                        <p>My suggestion is use a SMB for a server (if required), as it's a pain to run openhab sometimes. I would say, for a starter pack between $50-100, again depending on what goes in it.</p>
                     </blockquote>
                     <button class="btn btn-primary" onclick="hide3()">Show All Comments</button>
-                </div> <br>
+                </div>
+                <br>
             </div>
             <div class="slickcarousel mx-auto" style="display: none; max-width: 2000px; padding: 10px;" id="carousel3">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/1.jpg" class="slickimage3">

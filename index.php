@@ -59,13 +59,13 @@ function test_input($data)
                 <header class="mb-5" style="min-height: 630px;">
                     <div class="overlay"></div>
                     <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                        <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/HP/video.mp4" type="video/mp4">
+                        <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/HP/short.mp4" type="video/mp4">
                     </video>
                     <div class="container h-100">
                         <div class="d-flex h-100 text-center align-items-center">
                             <div class="w-100 text-white">
                                 <h1>Own your<br> smart home</h1>
-                                <a class="btn btn-lg btn-primary" href="shop.html">Video coming soon</a>
+                                <a class="btn btn-lg btn-primary" href="shop.html">VWatch Our Video!</a>
 
                             </div>
                         </div>
