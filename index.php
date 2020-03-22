@@ -56,9 +56,21 @@ function test_input($data)
     <main role="main">
         <div class="container flex-shrink-0 pt-5">
             <div class="row pb-5">
-                    <video style="max-width: 100%; padding-bottom: 90px;"preload="auto" autoplay="autoplay" loop="loop" controls>
+                <header class="mb-5" style="min-height: 630px;">
+                    <div class="overlay"></div>
+                    <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
                         <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/HP/video.mp4" type="video/mp4">
                     </video>
+                    <div class="container h-100">
+                        <div class="d-flex h-100 text-center align-items-center">
+                            <div class="w-100 text-white">
+                                <h1>Own your<br> smart home</h1>
+                                <a class="btn btn-lg btn-primary" href="shop.html">Video coming soon</a>
+
+                            </div>
+                        </div>
+                    </div>
+                </header>
 
                 <div class="col-lg-7">
 
@@ -175,7 +187,6 @@ function test_input($data)
                         <button type="button" class="close text-white" data-dismiss="modal">&times;</button>
                     </div>
                     <div class="modal-body p-0">
-                        <!-- BS4 Responsive Embed (https://parrot-tutorial.com/bootstrap4/util_embed) -->
                         <div class="embed-responsive embed-responsive-16by9">
                             <iframe class="embed-responsive-item" allowfullscreen></iframe>
                         </div>
@@ -183,7 +194,9 @@ function test_input($data)
                 </div>
             </div>
         </div>
+
     </div>
+
     <br>
     <br>
     <br>

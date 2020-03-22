@@ -5,10 +5,11 @@ require("cssvariables.php")
 
 
 .horizontal_nav {
-    padding: 20px;
+    padding-bottom: 30px;
     background-color: white;
-    position: sticky;
-    top: 0px;
+    position: -webkit-sticky; /* Safari */
+    position: sticky !important;
+    top: 0px !important;
 
 }
 
@@ -44,8 +45,18 @@ background-color: <?php echo $secondary_colour; ?>;
 
 .active {
 background-color: <?php echo $for_makers_background; ?>;
-a {color: white;}
 }
+
+.active a{
+color: white !important;
+}
+
+.background1 {
+    padding: 30px;
+    color: white;
+    background-color: <?php echo  $why_voxel_background; ?>;
+}
+
 
 
 
@@ -57,7 +68,6 @@ width: 500px;
 margin: 0.25em 0;
 padding: 0.35em 40px;
 line-height: 1.45;
-position: relative;
 }
 
 blockquote:before {
@@ -70,3 +80,4 @@ left: -10px;
 top: -15px;
 color: #7a7a7a;
 }
+

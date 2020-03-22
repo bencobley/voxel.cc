@@ -9,22 +9,27 @@
     <title>Secret Page</title>
 </head>
 
-<body class="d-flex flex-column h-100">
+<body class="d-flex flex-column h-100" id="company_summary">
     <!-- Navbar -->
     <?php require_once('nav_bar.php'); ?>
     <?php require_once('css/cssvariables.php'); ?>
+    <br>
 
     <main role="main">
-        <div class="container flex-shrink-0">
-            <nav class="horizontal_nav">
-                <ul id="mainNav">
+        <nav class="horizontal_nav">
+
+            <ul id="mainNav">
+                <div id="company_summary" class="container flex-shrink-0">
                     <li class="active"><a href="#company_summary">Company Summary</a></li>
                     <li><a href="#customer_base">Customer Base</a></li>
                     <li><a href="#competitor_analysis">Competitor Analysis</a></li>
                     <li><a href="#concept_development">Concept Development & Feedback</a></li>
                     <li><a href="#validation">Validation</a></li>
-                </ul>
-            </nav>
+                </div>
+            </ul>
+        </nav>
+        <div class="container flex-shrink-0">
+
             <section id="company_summary">
                 <br>
                 <br>
@@ -34,14 +39,20 @@
                 <br>
                 <h4>Company Summary</h4>
                 <br>
-                <h6>Business</h6>
-                <ul>
-                    <li>Voxel’s goal is to spread creative, privacy focused, smart home technology by becoming the first smart home hardware platform that uses open source software. Voxel taps several strong veins: privacy, smart home customisation and community generated content.</li><br>
-                    <li>Our target users struggle to create smart home experiences that fit their specific needs: Existing products are tied to cloud services operated by big tech companies and are designed to lock users into specific ecosystems with deliberately limited integrations. Devices are often difficult to set up, have unintuitive software and generate profit from user data analysis.</li><br>
-                    <li>Voxel has created a line of modular, magnetic smart home hardware that allows users to start creating useful experiences in seconds. Voxel hardware is easy to expand or reconfigure, and our wide range of sensors, screens and smart plugs encourage returning customers. </li><br>
-                    <li>The online platform hosts the Voxel community where users can receive support, upload, share and download creations. We encourage users to reprogram, tinker and hack our hardware and to contribute to our open source software, adding value to our business and expanding the reach and functionality of our platform.</li><br>
-                </ul>
-                <h6>Market</h6>
+                <div class="background1">
+                    <h6>Team</h6>
+                    <ul>
+                        <li><b>Gabriele</b> loves quick prototypes, but hates wiring things up and coding. Working at Apple made him realise the importance of designing user-friendly, powerful tools that allow people to focus just on creating. </li><br>
+                        <li><b>Oli</b> is a keen smart home enthusiast and has professional experience designing, making and testing consumer facing IOT tech from his time at Magic of Things Ltd.</li><br>
+                        <li><b>Ben</b> A former engineer at Google X and Dyson, Ben has both leadership experience and extensive engineering skills spanning hardware and software.</li><br>
+                        <li><b>Ellie</b> is passionate about user driven technology, and has professional experience of developing user focused installations at Jason Bruges Studio.</li><br>
+                        <li><b>Melisa</b> is an expert in graphic design and user experience. She has professional experience designing marketing material and graphics at CD Projekt Red.</li><br>
+
+                    </ul>
+                </div>
+                <br>
+                <br>
+                <h6>Company Values</h6>
                 <ul>
                     <li>In an expanding smart home market, Voxel targets makers (technology and DIY enthusiasts), tech savvy users and home improvers. Voxel is suitable for all ability levels. Users with no electronics or programming knowledge can download projects from our community hub, those looking for greater control can use our graphical ‘drag and drop’ coding system and users with advanced technical knowledge can code in c++ and flash firmware directly to the device.</li><br>
                     <li>We have received interest across vertical market opportunities such as mass market electronics consumers and as an educational tool to teach electronics and programming in schools or makerspaces. </li><br>
