@@ -124,7 +124,7 @@
                 <br>
                 <div style="max-width: 50%; margin: auto;">
                     <p>"Awesome prototype and concept! I'm constantly thinking that I would love in my lounge a simple setup that shows time, weather, tides, today's calendar, a pre-defined list of music playlists and some basic light control. There may be some creativity required for things that require more textual detail (i.e. calendar) but I like the low-res vibe for everything else."</p>
-                    <button class="btn btn-primary" onclick="hide1()">Show More</button>
+                    <button class="btn btn-primary" onclick="hide1()">Show All Comments</button>
                 </div>
                 <br>
             </div>
@@ -173,7 +173,7 @@
                 <br>
                 <div style="max-width: 50%; margin: auto;">
                     <p>"The best feature is probably that it integrates with those other platforms. I think integration is probably the key to success in this field. Home automation and IoT in general are just starting to get past the stage where personal computers were in the mid-80s, when we had Apple, IBM, Commodore, Amiga and a host of others, each in its own silo."</p>
-                    <button class="btn btn-primary" onclick="hide2()">Show More</button>
+                    <button class="btn btn-primary" onclick="hide2()">Show All Comments</button>
                 </div> <br>
             </div>
             <div class="slickcarousel mx-auto" style="display: none; max-width: 2000px; padding: 10px;" id="carousel2">
@@ -218,7 +218,7 @@
                 <br>
                 <div style="max-width: 50%; margin: auto;">
                     <p>"Depends on what goes in it I suppose. My suggestion is use a SMB for a server (if required), as it's a pain to run openhab sometimes. I would say, for a starter pack between $50-100, again depending on what goes in it."</p>
-                    <button class="btn btn-primary" onclick="hide3()">Show More</button>
+                    <button class="btn btn-primary" onclick="hide3()">Show All Comments</button>
                 </div> <br>
             </div>
             <div class="slickcarousel mx-auto" style="display: none; max-width: 2000px; padding: 10px;" id="carousel3">
@@ -250,7 +250,7 @@
                     <p>"I think one of the main things missing from what's out there at the moment, is plug and play hardware combined with a decent reporting interface. That someone non - techie but interested in automating/monitoring their homes, would enjoy looking at and derive value and insight from.
 
 Where are you based? Are you looking for collaborators?"</p>
-                    <button class="btn btn-primary" onclick="hide4()">Show More</button>
+                    <button class="btn btn-primary" onclick="hide4()">Show All Comments</button>
                 </div>
                 <br>
             </div>
