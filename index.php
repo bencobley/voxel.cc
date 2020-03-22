@@ -56,7 +56,7 @@ function test_input($data)
     <main role="main">
         <div class="container flex-shrink-0 pt-5">
             <div class="row pb-5">
-                    <video style="max-width: 100%; padding-bottom: 90px;"preload="auto" autoplay="autoplay" muted="muted" loop="loop">
+                    <video style="max-width: 100%; padding-bottom: 90px;"preload="auto" autoplay="autoplay" loop="loop" controls>
                         <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/HP/video.mp4" type="video/mp4">
                     </video>
 
