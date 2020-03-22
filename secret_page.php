@@ -111,13 +111,21 @@
                 </p>
             </div>
         </div>
-
+    <br>
+    <br>
+    <br>
         <div style="background-color: <?php echo $tertiary_colour; ?>; padding: 20px 0;">
             <div class="container flex-shrink-0">
                 <h4>Online User Feedback</h4>
                 <br>
-                <p>General comments</p>
-                <button onclick="hide1()">Show All</button>
+                <b>General comments</b>
+                <br>
+                <br>
+                <br>
+                <div style="max-width: 50%; margin: auto;">
+                    <p>"Awesome prototype and concept! I'm constantly thinking that I would love in my lounge a simple setup that shows time, weather, tides, today's calendar, a pre-defined list of music playlists and some basic light control. There may be some creativity required for things that require more textual detail (i.e. calendar) but I like the low-res vibe for everything else."</p>
+                    <button class="btn btn-primary" onclick="hide1()">Show More</button>
+                </div>
                 <br>
             </div>
             <div class="slickcarousel mx-auto" style="display: none; max-width: 2000px; padding: 10px;" id="carousel1">
@@ -159,9 +167,14 @@
             </div>
             <div class="container flex-shrink-0">
                 <br>
-                <p>Specific Tech Questions</p>
-                <button onclick="hide2()">Show All</button>
+                <b>Specific Tech Questions</b>
                 <br>
+                <br>
+                <br>
+                <div style="max-width: 50%; margin: auto;">
+                    <p>"The best feature is probably that it integrates with those other platforms. I think integration is probably the key to success in this field. Home automation and IoT in general are just starting to get past the stage where personal computers were in the mid-80s, when we had Apple, IBM, Commodore, Amiga and a host of others, each in its own silo."</p>
+                    <button class="btn btn-primary" onclick="hide2()">Show More</button>
+                </div> <br>
             </div>
             <div class="slickcarousel mx-auto" style="display: none; max-width: 2000px; padding: 10px;" id="carousel2">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/1.jpg" class="slickimage3">
@@ -199,9 +212,14 @@
             </div>
             <div class="container flex-shrink-0">
                 <br>
-                <p>Price</p>
-                <button onclick="hide3()">Show All</button>
+                <b>Price</b>
                 <br>
+                <br>
+                <br>
+                <div style="max-width: 50%; margin: auto;">
+                    <p>"Depends on what goes in it I suppose. My suggestion is use a SMB for a server (if required), as it's a pain to run openhab sometimes. I would say, for a starter pack between $50-100, again depending on what goes in it."</p>
+                    <button class="btn btn-primary" onclick="hide3()">Show More</button>
+                </div> <br>
             </div>
             <div class="slickcarousel mx-auto" style="display: none; max-width: 2000px; padding: 10px;" id="carousel3">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/1.jpg" class="slickimage3">
@@ -224,8 +242,16 @@
             <div class="container flex-shrink-0">
 
                 <br>
-                <p>Contributers</p>
-                <button onclick="hide4()">Show All</button>
+                <b>Contributers</b>
+                <br>
+                <br>
+                <br>
+                <div style="max-width: 50%; margin: auto;">
+                    <p>"I think one of the main things missing from what's out there at the moment, is plug and play hardware combined with a decent reporting interface. That someone non - techie but interested in automating/monitoring their homes, would enjoy looking at and derive value and insight from.
+
+Where are you based? Are you looking for collaborators?"</p>
+                    <button class="btn btn-primary" onclick="hide4()">Show More</button>
+                </div>
                 <br>
             </div>
             <div class="slickcarousel mx-auto" style="display: none; max-width: 2000px; padding: 10px;" id="carousel4">
