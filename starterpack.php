@@ -244,7 +244,7 @@
                 </div>
 
                 <div class="col-md-6">
-                    <img class="featurette-image img-fluid mx-auto float-md-right" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH10.gif">
+                    <img class="featurette-image img-fluid mx-auto float-md-right" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH10.mp4">
                 </div>
             </div>
 
