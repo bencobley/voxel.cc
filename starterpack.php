@@ -244,7 +244,9 @@
                 </div>
 
                 <div class="col-md-6">
-                    <img class="featurette-image img-fluid mx-auto float-md-right" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH10.mp4">
+                    <video class="featurette-image img-fluid mx-auto float-md-right" preload="auto" autoplay="autoplay" muted="muted" loop="loop">
+                        <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH10.mp4" type="video/mp4">
+                    </video>
                 </div>
             </div>
 
