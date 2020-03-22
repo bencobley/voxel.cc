@@ -17,12 +17,10 @@
     <main role="main">
         <div class="container flex-shrink-0">
             <nav class="horizontal_nav">
-                <br>
-                <br>
-                <ul>
-                    <li><a class="active" href="secret_page#company_summary">Company Summary</a></li>
+                <ul id="mainNav">
+                    <li class="active"><a href="secret_page#company_summary">Company Summary</a></li>
                     <li><a href="secret_page#customer_base">Customer Base</a></li>
-                    <li><a href="secret_page#competitor_analyais">Competitor Analysis</a></li>
+                    <li><a href="secret_page#competitor_analysis">Competitor Analysis</a></li>
                     <li><a href="secret_page#concept_development">Concept Development & Feedback</a></li>
                     <li><a href="secret_page#validation">Validation</a></li>
                 </ul>
@@ -290,10 +288,18 @@
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="javascript/bootstrap.bundle.js"></script>
     <script src="slick/slick.js"></script>
-
     <script src="javascript/main.js"></script>
     <script src="replaceme.min.js"></script>
+    <script src="scripts/jquery-1.4.2.min.js" type="text/javascript"></script>
+    <script src="scripts/jquery-scrolltofixed-min.js" type="text/javascript"></script>
 
+    <script>
+        $(document).ready(function() {
+            $('horizontal_nav').scrollToFixed({
+                marginTop: 250
+            });
+        });
+    </script>
     <script>
         function hide1() {
             var x = document.getElementById("carousel1");
@@ -330,6 +336,55 @@
                 x.style.display = "none";
             }
         }
+
+
+        // Cache selectors
+        var lastId,
+            topMenu = $("#mainNav"),
+            topMenuHeight = topMenu.outerHeight() + 1,
+            // All list items
+            menuItems = topMenu.find("a"),
+            // Anchors corresponding to menu items
+            scrollItems = menuItems.map(function() {
+                var item = $($(this).attr("href"));
+                if (item.length) {
+                    return item;
+                }
+            });
+
+        // Bind click handler to menu items
+        // so we can get a fancy scroll animation
+        menuItems.click(function(e) {
+            var href = $(this).attr("href"),
+                offsetTop = href === "#" ? 0 : $(href).offset().top - topMenuHeight + 1;
+            $('html, body').stop().animate({
+                scrollTop: offsetTop
+            }, 850);
+            e.preventDefault();
+        });
+
+        // Bind to scroll
+        $(window).scroll(function() {
+            // Get container scroll position
+            var fromTop = $(this).scrollTop() + topMenuHeight;
+
+            // Get id of current scroll item
+            var cur = scrollItems.map(function() {
+                if ($(this).offset().top < fromTop)
+                    return this;
+            });
+            // Get the id of the current element
+            cur = cur[cur.length - 1];
+            var id = cur && cur.length ? cur[0].id : "";
+
+            if (lastId !== id) {
+                lastId = id;
+                // Set/remove active class
+                menuItems
+                    .parent().removeClass("active")
+                    .end().filter("[href=#" + id + "]").parent().addClass("active");
+            }
+        });
     </script>
 
 
