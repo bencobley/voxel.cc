@@ -117,8 +117,10 @@
                 <h4>Online User Feedback</h4>
                 <br>
                 <p>General comments</p>
+                <button onclick="hide1()">Show All</button>
+                <br>
             </div>
-            <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
+            <div class="slickcarousel mx-auto" style="display: none; max-width: 2000px; padding: 10px;" id="carousel1">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/1.jpg" class="slickimage3">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/2.jpg" class="slickimage3">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/3.jpg" class="slickimage3">
@@ -156,9 +158,12 @@
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/35.jpg" class="slickimage3">
             </div>
             <div class="container flex-shrink-0">
+                <br>
                 <p>Specific Tech Questions</p>
+                <button onclick="hide2()">Show All</button>
+                <br>
             </div>
-            <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
+            <div class="slickcarousel mx-auto" style="display: none; max-width: 2000px; padding: 10px;" id="carousel2">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/1.jpg" class="slickimage3">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/2.jpg" class="slickimage3">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/3.jpg" class="slickimage3">
@@ -193,12 +198,12 @@
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/32.jpg" class="slickimage3">
             </div>
             <div class="container flex-shrink-0">
-                <p>Contributers & Price</p>
+                <br>
+                <p>Price</p>
+                <button onclick="hide3()">Show All</button>
+                <br>
             </div>
-            <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cont/1.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cont/2.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cont/3.jpg" class="slickimage3">
+            <div class="slickcarousel mx-auto" style="display: none; max-width: 2000px; padding: 10px;" id="carousel3">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/1.jpg" class="slickimage3">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/2.jpg" class="slickimage3">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/3.jpg" class="slickimage3">
@@ -209,25 +214,34 @@
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/8.jpg" class="slickimage3">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/9.jpg" class="slickimage3">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/10.jpg" class="slickimage3">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/11.jpg" class="slickimage3">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/12.jpg" class="slickimage3">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/13.jpg" class="slickimage3">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/14.jpg" class="slickimage3">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/15.jpg" class="slickimage3">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/16.jpg" class="slickimage3">
             </div>
-            <!-- <div class="container flex-shrink-0">
-                <h6>Price</h6>
+            <div class="container flex-shrink-0">
+
+                <br>
+                <p>Contributers</p>
+                <button onclick="hide4()">Show All</button>
+                <br>
             </div>
-            <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/1.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/2.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/3.jpg" class="slickimage3">
+            <div class="slickcarousel mx-auto" style="display: none; max-width: 2000px; padding: 10px;" id="carousel4">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cont/1.jpg" class="slickimage3">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cont/2.jpg" class="slickimage3">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cont/3.jpg" class="slickimage3">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cont/4.jpg" class="slickimage3">
+            </div>
+            <div class="container flex-shrink-0">
+                <br>
+                <BR>
+                <p>
+                    Enim nunc faucibus a pellentesque sit. Elementum facilisis leo vel fringilla est ullamcorper eget nulla. Tellus at urna condimentum mattis pellentesque id nibh tortor. Nunc mattis enim ut tellus elementum sagittis. Quam pellentesque nec nam aliquam sem et. Viverra aliquet eget sit amet tellus cras adipiscing enim eu. Curabitur gravida arcu ac tortor dignissim convallis. Urna et pharetra pharetra massa massa ultricies mi. At in tellus integer feugiat. Metus vulputate eu scelerisque felis. Elit pellentesque habitant morbi tristique senectus et netus et malesuada. Blandit volutpat maecenas volutpat blandit aliquam. Faucibus scelerisque eleifend donec pretium vulputate sapien. Libero volutpat sed cras ornare arcu dui vivamus arcu felis. Ut tortor pretium viverra suspendisse. Sit amet venenatis urna cursus. Dictum at tempor commodo ullamcorper a lacus.<br>
 
-            </div> -->
-        </div>
-        <div class="container flex-shrink-0">
-            <br>
-            <BR>
-            <p>
-                Enim nunc faucibus a pellentesque sit. Elementum facilisis leo vel fringilla est ullamcorper eget nulla. Tellus at urna condimentum mattis pellentesque id nibh tortor. Nunc mattis enim ut tellus elementum sagittis. Quam pellentesque nec nam aliquam sem et. Viverra aliquet eget sit amet tellus cras adipiscing enim eu. Curabitur gravida arcu ac tortor dignissim convallis. Urna et pharetra pharetra massa massa ultricies mi. At in tellus integer feugiat. Metus vulputate eu scelerisque felis. Elit pellentesque habitant morbi tristique senectus et netus et malesuada. Blandit volutpat maecenas volutpat blandit aliquam. Faucibus scelerisque eleifend donec pretium vulputate sapien. Libero volutpat sed cras ornare arcu dui vivamus arcu felis. Ut tortor pretium viverra suspendisse. Sit amet venenatis urna cursus. Dictum at tempor commodo ullamcorper a lacus.<br>
-
-                Convallis a cras semper auctor neque vitae tempus quam. In cursus turpis massa tincidunt. Urna et pharetra pharetra massa massa ultricies mi quis hendrerit. Malesuada fames ac turpis egestas sed tempus. Neque sodales ut etiam sit amet nisl purus. Facilisis volutpat est velit egestas. Risus nullam eget felis eget. In nisl nisi scelerisque eu ultrices vitae. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt. Diam sit amet nisl suscipit adipiscing bibendum est. At in tellus integer feugiat scelerisque varius morbi enim. Donec et odio pellentesque diam volutpat commodo. Tellus orci ac auctor augue mauris augue. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper sit. At augue eget arcu dictum varius duis. Accumsan sit amet nulla facilisi morbi tempus. Diam vel quam elementum pulvinar etiam non quam lacus. Bibendum neque egestas congue quisque egestas diam in. Nec ullamcorper sit amet risus nullam eget felis eget. Consectetur purus ut faucibus pulvinar elementum integer enim.</p>
-        </div>
+                    Convallis a cras semper auctor neque vitae tempus quam. In cursus turpis massa tincidunt. Urna et pharetra pharetra massa massa ultricies mi quis hendrerit. Malesuada fames ac turpis egestas sed tempus. Neque sodales ut etiam sit amet nisl purus. Facilisis volutpat est velit egestas. Risus nullam eget felis eget. In nisl nisi scelerisque eu ultrices vitae. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt. Diam sit amet nisl suscipit adipiscing bibendum est. At in tellus integer feugiat scelerisque varius morbi enim. Donec et odio pellentesque diam volutpat commodo. Tellus orci ac auctor augue mauris augue. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper sit. At augue eget arcu dictum varius duis. Accumsan sit amet nulla facilisi morbi tempus. Diam vel quam elementum pulvinar etiam non quam lacus. Bibendum neque egestas congue quisque egestas diam in. Nec ullamcorper sit amet risus nullam eget felis eget. Consectetur purus ut faucibus pulvinar elementum integer enim.</p>
+            </div>
     </main>
 
     <?php require_once('footer.php'); ?>
@@ -243,8 +257,43 @@
 
     <script src="replaceme.min.js"></script>
 
+    <script>
+        function hide1() {
+            var x = document.getElementById("carousel1");
+            if (x.style.display === "none") {
+                x.style.display = "block";
+            } else {
+                x.style.display = "none";
+            }
+        }
+
+        function hide2() {
+            var x = document.getElementById("carousel2");
+            if (x.style.display === "none") {
+                x.style.display = "block";
+            } else {
+                x.style.display = "none";
+            }
+        }
+
+        function hide3() {
+            var x = document.getElementById("carousel3");
+            if (x.style.display === "none") {
+                x.style.display = "block";
+            } else {
+                x.style.display = "none";
+            }
+        }
+
+        function hide4() {
+            var x = document.getElementById("carousel4");
+            if (x.style.display === "none") {
+                x.style.display = "block";
+            } else {
+                x.style.display = "none";
+            }
+        }
+    </script>
 
 
-</body>
-
-</html>
+    < /body> < /html>
