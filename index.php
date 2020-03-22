@@ -56,12 +56,12 @@ function test_input($data)
     <main role="main">
         <div class="container flex-shrink-0 pt-5">
             <div class="row pb-5">
-                <header class="mb-5">
-                    <video preload="auto" autoplay="autoplay" muted="muted" loop="loop">
-                        <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/HP/HP1.mp4" type="video/mp4">
+                    <video style="max-width: 100%; padding-bottom: 90px;"preload="auto" autoplay="autoplay" muted="muted" loop="loop">
+                        <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/HP/video.mp4" type="video/mp4">
                     </video>
-                </header>
+
                 <div class="col-lg-7">
+
                     <h2 class="text-break pb-3">The smart home for <span class="replace-me1">freedom.<span style="display:none">,community.,privacy.</span></span>
                     </h2>
                     <h5>Not <span class="replace-me2">closed doors.<span style="display:none">,big tech.,big data.</span></span>
