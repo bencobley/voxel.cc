@@ -4,8 +4,8 @@
 <html lang="en" class="h-100">
 
 <head>
-    <!-- Google Analytics -->
     <?php require_once('head.php'); ?>
+    <link rel="stylesheet" href="css/secretpagecss.php">
     <title>Secret Page</title>
 </head>
 
@@ -16,20 +16,24 @@
 
     <main role="main">
         <div class="container flex-shrink-0">
-            <div class="horizontal_nav">
+            <nav class="horizontal_nav">
+                <br>
+                <br>
                 <ul>
-                    <li><a href="secret_page#company_summary">Company Summary</a></li>
-                    <li><a href="secret_page#market_analysis">Market and Competitor Analysis</a></li>
+                    <li><a class="active" href="secret_page#company_summary">Company Summary</a></li>
                     <li><a href="secret_page#customer_base">Customer Base</a></li>
-                    <li><a href="secret_page#concept_development">Concept Development</a></li>
+                    <li><a href="secret_page#competitor_analyais">Competitor Analysis</a></li>
+                    <li><a href="secret_page#concept_development">Concept Development & Feedback</a></li>
                     <li><a href="secret_page#validation">Validation</a></li>
-                    <li><a href="secret_page#business">Business Model and Strategy</a></li>
                 </ul>
-                <h3>Investor Information Page</h3>
-                <br>
-                <p>This page provides investors with a brief overview of Voxel’s internal development, including market analysis, product development, user testing, business development and our future plans.</p>
-                <br>
-                <a id="company_summary"></a>
+            </nav>
+            <br>
+            <br>
+            <h3>Investor Information Page</h3>
+            <br>
+            <p>This page provides investors with a brief overview of Voxel’s internal development, including market analysis, product development, user testing, business development and our future plans.</p>
+            <br>
+            <section id="company_summary">
                 <h4>Company Summary</h4>
                 <br>
                 <h6>Business</h6>
@@ -52,22 +56,11 @@
                         - Home Assistant; Open source freeware designed to run on a Raspberry Pi. Acts as a server to
                         control other smart home devices.</li>
                 </ul>
-                <br>
-                <br>
-                <br>
-                <a id="market_analysis"></a>
-                <h4>Our Vision</h4>
-                <p>In 2020, the smart homes market is estimated to reach $40 billion and by 2023, it's expected to penetrate almost 54% of households around the world.<br>
-
-                    There are a number of pitfalls when setting up a Smart Home: People struggle to create smart home experiences that fit their specific needs: Existing products are tied to cloud services operated by big tech companies and are designed to lock users into specific ecosystems with deliberately limited integrations. Devices are often difficult to set up, have unintuitive software and generate profit from user data analysis.<br>
-
-                    As avid techies and makers ourselves, we have been frustrated by the lack of configurability and customisation possible with existing solutions and we value complete control over the products we own.<br>
-
-                    There is a market need for a smart home product that puts creativity, exploration and privacy first; an expandable system that allows makers, techies and home-improvers to go from idea to implementation in seconds.<br>
-                </p>
-                <br>
-                <br>
-                <br>
+            </section>
+            <br>
+            <br>
+            <br>
+            <section id="customer_base">
                 <h4>Customer Base</h4>
                 <p>Following a first round of user investigation interviews conducted around Imperial College London and White City Advanced Hackspace, we segmented our customer base into 3 key sections.</p>
                 <br>
@@ -100,21 +93,30 @@
                     In addition to this, makers love to contribute to open source software which is an important facet of our business model; as Voxel grows we will rely on a dedicated and engaged user base to populate our community hub with tutorials, projects and contributions to our source code.<br>
                     A core value of our business is accessibility, whilst we target makers we also aim to excite smart home customers of all levels of expertise through a freely available open source programming platform that does not require pre-existing knowledge. Voxel aims to speak to all branches of the smart home market and expand laterally to meet the needs of an expanding user base.<br>
                 </p>
-                <br>
+            </section>
+            <br>
+            <br>
+            <br>
+            <section id="competitor_analyais">
                 <h4>Market and Competitor Analysis</h4>
                 <br>
-                <a id="customer_base"></a>
                 <h6>Market</h6>
                 <p>The Global Smart Home Market was valued at USD 64.33 billion in 2017 and is projected to reach USD 176.59 billion by 2025, growing at a CAGR of 13.5% from 2018 to 2025.<br>
                     The growth in the smart home market is driven by a number of factors. These include technological advancements, energy saving and monitoring, the need to monitor the home remotely, rapid proliferation of smart technologies and media systems. There is a growing concern and consideration for privacy and safety issues with many devices proven vulnerable to hacking and others sending non encrypted personal information to remote overseas servers.<br>
                     The smart home market can be segmented by application into lighting control, security & access control, entertainment systems, HVAC control, home healthcare, smart kitchen, and home appliances. Voxel primarily focuses on lighting control, entertainment systems and home appliances but is designed to allow integration across these segments in future, in keeping with our company values.<br>
                 </p>
-            </div>
+            </section>
+            <br>
+            <br>
+            <br>
+            <section id="concept_development">
+
+            </section>
+            <br>
+            <br>
+            <br>
         </div>
-    <br>
-    <br>
-    <br>
-        <div style="background-color: <?php echo $tertiary_colour; ?>; padding: 20px 0;">
+        <section id="validation" style="background-color: <?php echo $tertiary_colour; ?>; padding: 20px 0;">
             <div class="container flex-shrink-0">
                 <h4>Online User Feedback</h4>
                 <br>
@@ -123,7 +125,9 @@
                 <br>
                 <br>
                 <div style="max-width: 50%; margin: auto;">
-                    <p>"Awesome prototype and concept! I'm constantly thinking that I would love in my lounge a simple setup that shows time, weather, tides, today's calendar, a pre-defined list of music playlists and some basic light control. There may be some creativity required for things that require more textual detail (i.e. calendar) but I like the low-res vibe for everything else."</p>
+                    <blockquote class="blockquote">
+                        <p>Awesome prototype and concept! I'm constantly thinking that I would love in my lounge a simple setup that shows time, weather, tides, today's calendar, a pre-defined list of music playlists and some basic light control. There may be some creativity required for things that require more textual detail (i.e. calendar) but I like the low-res vibe for everything else.</p>
+                    </blockquote>
                     <button class="btn btn-primary" onclick="hide1()">Show All Comments</button>
                 </div>
                 <br>
@@ -172,9 +176,12 @@
                 <br>
                 <br>
                 <div style="max-width: 50%; margin: auto;">
-                    <p>"The best feature is probably that it integrates with those other platforms. I think integration is probably the key to success in this field. Home automation and IoT in general are just starting to get past the stage where personal computers were in the mid-80s, when we had Apple, IBM, Commodore, Amiga and a host of others, each in its own silo."</p>
+                    <blockquote class="blockquote">
+                        <p>The best feature is probably that it integrates with those other platforms. I think integration is probably the key to success in this field. Home automation and IoT in general are just starting to get past the stage where personal computers were in the mid-80s, when we had Apple, IBM, Commodore, Amiga and a host of others, each in its own silo.</p>
+                    </blockquote>
                     <button class="btn btn-primary" onclick="hide2()">Show All Comments</button>
-                </div> <br>
+                </div>
+                <br>
             </div>
             <div class="slickcarousel mx-auto" style="display: none; max-width: 2000px; padding: 10px;" id="carousel2">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/1.jpg" class="slickimage3">
@@ -217,7 +224,9 @@
                 <br>
                 <br>
                 <div style="max-width: 50%; margin: auto;">
-                    <p>"Depends on what goes in it I suppose. My suggestion is use a SMB for a server (if required), as it's a pain to run openhab sometimes. I would say, for a starter pack between $50-100, again depending on what goes in it."</p>
+                    <blockquote class="blockquote">
+                        <p>Depends on what goes in it I suppose. My suggestion is use a SMB for a server (if required), as it's a pain to run openhab sometimes. I would say, for a starter pack between $50-100, again depending on what goes in it.</p>
+                    </blockquote>
                     <button class="btn btn-primary" onclick="hide3()">Show All Comments</button>
                 </div> <br>
             </div>
@@ -247,9 +256,11 @@
                 <br>
                 <br>
                 <div style="max-width: 50%; margin: auto;">
-                    <p>"I think one of the main things missing from what's out there at the moment, is plug and play hardware combined with a decent reporting interface. That someone non - techie but interested in automating/monitoring their homes, would enjoy looking at and derive value and insight from.
+                    <blockquote class="blockquote">
+                        <p>I think one of the main things missing from what's out there at the moment, is plug and play hardware combined with a decent reporting interface. That someone non - techie but interested in automating/monitoring their homes, would enjoy looking at and derive value and insight from.
 
-Where are you based? Are you looking for collaborators?"</p>
+                            Where are you based? Are you looking for collaborators?</p>
+                    </blockquote>
                     <button class="btn btn-primary" onclick="hide4()">Show All Comments</button>
                 </div>
                 <br>
@@ -260,14 +271,15 @@ Where are you based? Are you looking for collaborators?"</p>
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cont/3.jpg" class="slickimage3">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cont/4.jpg" class="slickimage3">
             </div>
-            <div class="container flex-shrink-0">
-                <br>
-                <BR>
-                <p>
-                    Enim nunc faucibus a pellentesque sit. Elementum facilisis leo vel fringilla est ullamcorper eget nulla. Tellus at urna condimentum mattis pellentesque id nibh tortor. Nunc mattis enim ut tellus elementum sagittis. Quam pellentesque nec nam aliquam sem et. Viverra aliquet eget sit amet tellus cras adipiscing enim eu. Curabitur gravida arcu ac tortor dignissim convallis. Urna et pharetra pharetra massa massa ultricies mi. At in tellus integer feugiat. Metus vulputate eu scelerisque felis. Elit pellentesque habitant morbi tristique senectus et netus et malesuada. Blandit volutpat maecenas volutpat blandit aliquam. Faucibus scelerisque eleifend donec pretium vulputate sapien. Libero volutpat sed cras ornare arcu dui vivamus arcu felis. Ut tortor pretium viverra suspendisse. Sit amet venenatis urna cursus. Dictum at tempor commodo ullamcorper a lacus.<br>
+        </section>
+        <div class="container flex-shrink-0">
+            <br>
+            <BR>
+            <p>
+                Enim nunc faucibus a pellentesque sit. Elementum facilisis leo vel fringilla est ullamcorper eget nulla. Tellus at urna condimentum mattis pellentesque id nibh tortor. Nunc mattis enim ut tellus elementum sagittis. Quam pellentesque nec nam aliquam sem et. Viverra aliquet eget sit amet tellus cras adipiscing enim eu. Curabitur gravida arcu ac tortor dignissim convallis. Urna et pharetra pharetra massa massa ultricies mi. At in tellus integer feugiat. Metus vulputate eu scelerisque felis. Elit pellentesque habitant morbi tristique senectus et netus et malesuada. Blandit volutpat maecenas volutpat blandit aliquam. Faucibus scelerisque eleifend donec pretium vulputate sapien. Libero volutpat sed cras ornare arcu dui vivamus arcu felis. Ut tortor pretium viverra suspendisse. Sit amet venenatis urna cursus. Dictum at tempor commodo ullamcorper a lacus.<br>
 
-                    Convallis a cras semper auctor neque vitae tempus quam. In cursus turpis massa tincidunt. Urna et pharetra pharetra massa massa ultricies mi quis hendrerit. Malesuada fames ac turpis egestas sed tempus. Neque sodales ut etiam sit amet nisl purus. Facilisis volutpat est velit egestas. Risus nullam eget felis eget. In nisl nisi scelerisque eu ultrices vitae. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt. Diam sit amet nisl suscipit adipiscing bibendum est. At in tellus integer feugiat scelerisque varius morbi enim. Donec et odio pellentesque diam volutpat commodo. Tellus orci ac auctor augue mauris augue. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper sit. At augue eget arcu dictum varius duis. Accumsan sit amet nulla facilisi morbi tempus. Diam vel quam elementum pulvinar etiam non quam lacus. Bibendum neque egestas congue quisque egestas diam in. Nec ullamcorper sit amet risus nullam eget felis eget. Consectetur purus ut faucibus pulvinar elementum integer enim.</p>
-            </div>
+                Convallis a cras semper auctor neque vitae tempus quam. In cursus turpis massa tincidunt. Urna et pharetra pharetra massa massa ultricies mi quis hendrerit. Malesuada fames ac turpis egestas sed tempus. Neque sodales ut etiam sit amet nisl purus. Facilisis volutpat est velit egestas. Risus nullam eget felis eget. In nisl nisi scelerisque eu ultrices vitae. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt. Diam sit amet nisl suscipit adipiscing bibendum est. At in tellus integer feugiat scelerisque varius morbi enim. Donec et odio pellentesque diam volutpat commodo. Tellus orci ac auctor augue mauris augue. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper sit. At augue eget arcu dictum varius duis. Accumsan sit amet nulla facilisi morbi tempus. Diam vel quam elementum pulvinar etiam non quam lacus. Bibendum neque egestas congue quisque egestas diam in. Nec ullamcorper sit amet risus nullam eget felis eget. Consectetur purus ut faucibus pulvinar elementum integer enim.</p>
+        </div>
     </main>
 
     <?php require_once('footer.php'); ?>
@@ -280,7 +292,6 @@ Where are you based? Are you looking for collaborators?"</p>
     <script src="slick/slick.js"></script>
 
     <script src="javascript/main.js"></script>
-
     <script src="replaceme.min.js"></script>
 
     <script>
@@ -322,4 +333,6 @@ Where are you based? Are you looking for collaborators?"</p>
     </script>
 
 
-    </body> </html>
+</body>
+
+</html>
