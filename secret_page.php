@@ -18,7 +18,7 @@
         <header class="masthead mb-5" style="background-image: url('https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/banner.jpg');"></header>
         <br>
         <div class="container flex-shrink-0" style="padding: 0 90px;">
-            <h3>Development and Testing</h3>
+            <h1>Development and Testing</h1>
         </div>
         <br>
         <nav class="horizontal_nav">
