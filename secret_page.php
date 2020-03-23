@@ -283,7 +283,6 @@
                 <p>The product was initially prototyped using magnets and 3D printed parts to investigate the user interaction of snapping modules together and creating projects. We conducted 18 hours of user interviews with the prototypes and highlighted areas for improvement, such as a visual cue when 2 components were connected and a reduction in the size of the cubes. When asked how and where users would use the Voxel platform, Almost all interviewees expressed interest in placing the modules in their room, kitchen and living room. This information was directly used in the development of the first generation of tile sensors. </p>
                 <br>
                 <br>
-                <br>
             </div>
             <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;" id="carousel4">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/7.jpg" class="slickimage3">
@@ -301,8 +300,11 @@
             <div class="container flex-shrink-0" style="padding: 0 90px;">
                 <br>
                 <br>
-                <h6>Technical Validation Prototype</h6>
                 <br>
+                <br>
+                <br>
+                <br>
+                <h6>Technical Validation Prototype</h6>
                 <br>
                 <br>
                 <p>To test the technical feasibility of our product, and to establish which existing platforms and services we would be able to integrate with, a works-like prototype was developed. This stage is critical when designing a product for the maker market as users have a highly sophisticated understanding of product development and technical feasibility. It was important that we were prepared for any technical questions during the next stage of validation.</p>
@@ -368,12 +370,11 @@
                 <br>
                 <h6>Focus Groups</h6>
                 <br>
-                <br>
-                <br>
                 <p>The working prototype allowed us to conduct one on one interviews demonstrating hands-on interaction with the prototype and gaining more feedback about the product and concept. We expanded our reach beyond users with maker and tech experience and found that our privacy values resonated well in our focus groups.</p>
+                <br>
             </div>
             <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;" id="carousel4">
-            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/FG3.JPG" class="slickimage3">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/FG3.JPG" class="slickimage3">
                 <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
                     <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/FG2.mp4" type="video/mp4">
                 </video>
@@ -568,9 +569,10 @@
                 <br>
                 <br>
                 <ul style="text-align:center">
-                    <h4>&bull; 13% of our users clicked the buy button</h4><br>
-                    <h4>&bull; Over 1000 unique visitors from 68 countries</h4><br>
-                    <h4>&bull; 32% of our users reached the starter pack page</h4><br>
+                    <h4>&bull; 5.5% buy button click-through rate</h4><br>
+                    <h4>&bull; 1000 unique sessions from 68 countries</h4><br>
+                    <h4>&bull; 18.8% product page click-through rate</h4><br>
+                    <h4>&bull; 53% Bounce Rate</h4><br>
                 </ul>
                 <br>
                 <br>
