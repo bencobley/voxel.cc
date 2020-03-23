@@ -211,7 +211,7 @@ function test_input($data)
                         <button type="button" class="close text-white" data-dismiss="modal">&times;</button>
                     </div>
                     <div class="modal-body p-0">
-                        <div class="embed-responsive embed-responsive-16by9">
+                        <div style="z-index: 5;" class="embed-responsive embed-responsive-16by9">
                             <iframe class="embed-responsive-item" allowfullscreen></iframe>
                         </div>
                     </div>

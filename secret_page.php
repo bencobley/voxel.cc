@@ -45,7 +45,10 @@
                     Makers currently struggle to create smart home experiences as their current tools are tied to cloud services, difficult to set up, have unintuitive softwares, and offer limited privacy protection.
                 </p>
                 <br>
-                <p>We are searching for investment - see investor summary here</p>
+                <p>Voxel is looking for £50,000 Seed Funding to support manufacturing efforts and fund development of a Kickstarter Crowdfunding Campaign. - see investor summary here</p>
+                <br>
+                <br>
+                <br>
                 <br>
                 <div class="background1">
                     <h6>Team</h6>
@@ -476,7 +479,7 @@
                     </div>
                     <br>
                 </div>
-                <div class="slickcarousel mx-auto" style="display: none; max-width: 2000px; padding: 10px;" id="carousel4">
+                <div class="slickcarousel mx-auto" style="display: none; max-width: 2000px; padding: 10px;" id="carousel5">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cont/1.jpg" class="slickimage3">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cont/2.jpg" class="slickimage3">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cont/3.jpg" class="slickimage3">
@@ -553,7 +556,7 @@
         }
 
         function hide4() {
-            var x = document.getElementById("carousel4");
+            var x = document.getElementById("carousel5");
             if (x.style.display === "none") {
                 x.style.display = "block";
             } else {
