@@ -65,12 +65,36 @@ function test_input($data)
                         <div class="d-flex h-100 text-center align-items-center">
                             <div class="w-100 text-white">
                                 <h1 class="pt-5">Own Your <br> Smart Home</h1>
-                                    <a class="btn btn-lg btn-primary" data-toggle="modal" data-target="#videoModal" data-video="https://voxelmedia.s3.eu-west-2.amazonaws.com/HP/video.mp4?min-height=300&min-width=500&autoplay=1">Watch the video</a>
+                                <a class="btn btn-lg btn-primary" data-toggle="modal" data-target="#videoModal" data-video="https://voxelmedia.s3.eu-west-2.amazonaws.com/HP/video.mp4?min-height=300&min-width=500&autoplay=1">Watch the video</a>
                             </div>
                         </div>
                     </div>
                 </header>
-
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <!--not proud of this... -->
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
                 <div class="col-lg-7">
 
                     <h2 class="text-break pb-3">The smart home for <span class="replace-me1">freedom.<span style="display:none">,community.,privacy.</span></span>
@@ -170,9 +194,11 @@ function test_input($data)
         <br>
         <div class="container flex-shrink-0 pt-5">
             <h3>Feed</h3>
+            <br>
             <!-- LightWidget WIDGET -->
             <script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script>
             <iframe src="https://cdn.lightwidget.com/widgets/93d269bd9e305556bfe48e18c0e2711e.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+            <a href="https://www.instagram.com/voxel.cc" style="margin-top: 40px;" class="btn btn-primary">Follow Us</a>
         </div>
     </main>
 
