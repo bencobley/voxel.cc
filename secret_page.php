@@ -337,14 +337,16 @@
             <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;" id="carousel4">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/7.jpg" class="slickimage3">
                 <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/5.mp4" type="video/mp4">
+                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/front_sound.MP4" type="video/mp4">
                 </video>
                 <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/6.mp4" type="video/mp4">
+                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/multi_play.MP4" type="video/mp4">
                 </video>
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/3.jpg" class="slickimage3">
                 <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/4.png" type="video/mp4">
+                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/BC_closeup_blocks.MP4" type="video/mp4">
+                </video>
+                <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/sound_block1.MP4" type="video/mp4">
                 </video>
             </div>
             <div class="cont">
