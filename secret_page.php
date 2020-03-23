@@ -23,7 +23,7 @@
         <br>
         <nav class="horizontal_nav">
             <ul id="mainNav">
-                <div id="company_summary" class="container flex-shrink-0">
+                <div class="container flex-shrink-0">
                     <li class="active"><a href="#company_summary">Company Summary</a></li>
                     <li><a href="#customer_base">Customer Base</a></li>
                     <li><a href="#competitor_analysis">Competitor Analysis</a></li>
@@ -36,8 +36,12 @@
 
         <div class="container flex-shrink-0" style="padding: 0 90px;">
             <section id="company_summary">
+            <br>
+                        <br>
+                        <br>
                 <div class="row">
                     <div class="col-sm">
+                   
                         <h4>Company Summary</h4>
                         <br>
                         <p>Voxel’s goal is to spread creative technology by becoming the first smart home hardware platform that uses open source software. We have built an easy-to-use range of products that taps several strong veins: privacy, ease of setup, smart home automation and user-generated content.
