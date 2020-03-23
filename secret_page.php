@@ -17,7 +17,7 @@
     <main role="main">
         <header class="masthead mb-5" style="background-image: url('https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/banner.jpg');"></header>
         <br>
-        <div class="container flex-shrink-0" style="padding: 0 90px;">
+        <div class="cont">
             <h1>Development and Testing</h1>
         </div>
         <br>
@@ -35,7 +35,7 @@
         </nav>
         <br>
 
-        <div class="container flex-shrink-0" style="padding: 0 90px;">
+        <div class="cont">
             <section id="company_summary">
                 <br>
                 <br>
@@ -70,8 +70,8 @@
                 <h6>Team</h6>
             </section>
         </div>
-        <div style="max-width: 90%; margin: auto;">
-            <div class="slickcarousel mx-auto pt-5" style="padding: 0 auto;">
+        <div style="max-width: 95vw; margin: auto;">
+            <div class="slickcarousel mx-auto pt-5">
                 <div><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU2.png" class="slickimage">
                     <div class="aboutuscontainer">
                         <p style="padding: 10px; text-align: center;">Ben - CEO</p>
@@ -109,30 +109,16 @@
                 </div>
             </div>
         </div>
-        <div class="container flex-shrink-0" style="padding: 0 90px;">
-            <section id="company_summary">
-                <br>
-                <br>
-                <h6>Core Company Values</h6>
-                <br>
-                <ul>
-                    <li>Privacy</li>
-                    <li>Community</li>
-                    <li>Wide Integrations</li>
-                    <li>Freedom</li>
-                    <li>Accessibility</li>
-                    <li>Ease of use</li>
-                </ul>
-            </section>
-            <br>
-            <br>
-            <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <div class="cont" style="background-color: <?php echo $tertiary_colour; ?>;">
             <section id="customer_base">
+
                 <h4>Customer Base</h4>
                 <br>
                 <p>Following a first round of <a style="color: blue;" href="https://docs.google.com/forms/d/e/1FAIpQLSc6KoAXBtrIV0qBu7Vs1T4wgZgos4d34oR-uLv1ILZToXfi-Q/viewform?usp=sf_link" target="blank">survey based user interviews</a> conducted around Imperial College London and White City Advanced Hackspace, we segmented our customer base into 3 key segments.</p>
-                <br>
-                <br>
                 <br>
                 <br>
                 <div>
@@ -166,7 +152,21 @@
                     <br>
                     <div class="row">
                         <div class="col-sm">
-                            <b>The Maker</b><br><br>
+                            <b>The Beginner Tinkerer</b><br><br>
+                            <p>The maker enjoys the challenge, learning experience and satisfaction of creating something useful. They love to share their creations and learn from like minded people. Makers can have a broad range of technical skills, some are experts and some are casual hobbyists. Maker’s will pay a premium for hardware that allows maximum ‘hackability’ but that is also reliable and easy to set up.</p>
+                        </div>
+                        <div class="col-sm">
+                            <br>
+                            <br>
+                            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
+                        </div>
+                    </div>
+                    <br>
+                    <br>
+                    <br>
+                    <div class="row">
+                        <div class="col-sm">
+                            <b>The Advanced Hacker</b><br><br>
                             <p>The maker enjoys the challenge, learning experience and satisfaction of creating something useful. They love to share their creations and learn from like minded people. Makers can have a broad range of technical skills, some are experts and some are casual hobbyists. Maker’s will pay a premium for hardware that allows maximum ‘hackability’ but that is also reliable and easy to set up.</p>
                         </div>
                         <div class="col-sm">
@@ -179,20 +179,28 @@
                     <br>
                     <br>
                     <br>
-                    <br>
-                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png" class="d-block h-100 w-100" style="object-fit: cover; max-width: 800px; margin: auto;">
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <div class="background1">
-                        <h6>Conclusion</h6><br>
-                        <p>From primary and secondary research (detailed below), Voxel has decided to focus on the makers market. The lack of current products suited to this privacy aware demographic, its favourable spending power, receptivity to less developed products and the fact that we are makers ourselves has also helped to inform this decision. <br><br>
-                            In addition to this, makers love to contribute to open source software which is an important facet of our business model; as Voxel grows we will rely on a dedicated and engaged user base to populate our community hub with tutorials, projects and contributions to our source code.<br><br>
-                            A core value of our business is accessibility, whilst we target makers we also aim to excite smart home customers of all levels of expertise through a freely available open source programming platform that does not require pre-existing knowledge. Voxel aims to speak to all branches of the smart home market and expand laterally to meet the needs of an expanding user base.<br><br>
-                        </p>
-                    </div>
+                </div>
+            </section>
+        </div>
+        <div class="cont">
+            <section id="customer_base">
+                <br>
+                <br>
+                <br>
+                <br>
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png" class="d-block h-100 w-100" style="object-fit: cover; max-width: 800px; margin: auto;">
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <div class="background1">
+                    <h6>Conclusion</h6><br>
+                    <p>From primary and secondary research (detailed below), Voxel has decided to focus on the makers market. The lack of current products suited to this privacy aware demographic, its favourable spending power, receptivity to less developed products and the fact that we are makers ourselves has also helped to inform this decision. <br><br>
+                        In addition to this, makers love to contribute to open source software which is an important facet of our business model; as Voxel grows we will rely on a dedicated and engaged user base to populate our community hub with tutorials, projects and contributions to our source code.<br><br>
+                        A core value of our business is accessibility, whilst we target makers we also aim to excite smart home customers of all levels of expertise through a freely available open source programming platform that does not require pre-existing knowledge. Voxel aims to speak to all branches of the smart home market and expand laterally to meet the needs of an expanding user base.<br><br>
+                    </p>
+                </div>
             </section>
             <br>
             <br>
@@ -315,7 +323,7 @@
                     <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/4.png" type="video/mp4">
                 </video>
             </div>
-            <div class="container flex-shrink-0" style="padding: 0 90px;">
+            <div class="cont">
                 <br>
                 <br>
                 <br>
@@ -339,7 +347,7 @@
                     <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/4.png" type="video/mp4">
                 </video>
             </div>
-            <div class="container flex-shrink-0" style="padding: 0 90px;">
+            <div class="cont">
                 <br>
                 <br>
                 <br>
@@ -363,7 +371,7 @@
                 </video>
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/8.jpg" class="slickimage3">
             </div>
-            <div class="container flex-shrink-0" style="padding: 0 90px;">
+            <div class="cont">
                 <br>
                 <br>
                 <br>
@@ -408,7 +416,7 @@
         <br>
         </div>
         <section id="validation">
-            <div class="container flex-shrink-0" style="padding: 0 90px;">
+            <div class="cont;">
                 <br>
                 <h6>Focus Groups</h6>
                 <br>
@@ -425,7 +433,7 @@
                     <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/FG1.mp4" type="video/mp4">
                 </video>
             </div>
-            <div class="container flex-shrink-0" style="padding: 0 90px;">
+            <div class="cont;">
                 <br>
                 <br>
                 <br>
@@ -439,7 +447,7 @@
                 <br>
             </div>
             <div style="background-color: <?php echo $tertiary_colour; ?>; padding: 20px 0;">
-                <div class="container flex-shrink-0" style="padding: 0 90px;">
+                <div class="cont">
                     <h4>Online User Feedback</h4>
                     <br>
                     <b>General comments</b>
@@ -491,7 +499,7 @@
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/34.jpg" class="slickimage3">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/35.jpg" class="slickimage3">
                 </div>
-                <div class="container flex-shrink-0" style="padding: 0 90px;">
+                <div class="cont">
                     <br>
                     <b>Specific Tech Questions</b>
                     <br>
@@ -539,7 +547,7 @@
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/31.jpg" class="slickimage3">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/32.jpg" class="slickimage3">
                 </div>
-                <div class="container flex-shrink-0" style="padding: 0 90px;">
+                <div class="cont">
                     <br>
                     <br>
                     <b>Price</b>
@@ -574,7 +582,7 @@
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/15.jpg" class="slickimage3">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/16.jpg" class="slickimage3">
                 </div>
-                <div class="container flex-shrink-0" style="padding: 0 90px;">
+                <div class="cont">
 
                     <br>
                     <b>Contributers</b>
@@ -599,7 +607,7 @@
                 </div>
             </div>
 
-            <div class="container flex-shrink-0" style="padding: 0 90px;">
+            <div class="cont">
                 <br>
                 <br>
                 <h6>Traction Testing</h6>

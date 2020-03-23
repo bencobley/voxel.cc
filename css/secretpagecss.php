@@ -5,17 +5,23 @@ require("cssvariables.php")
 
 
 .horizontal_nav {
-    padding-bottom: 10px;
-    background-color: white;
-    position: -webkit-sticky; /* Safari */
-    position: sticky !important;
-    top: 0px !important;
-    z-index: 1;
+padding-bottom: 10px;
+background-color: white;
+position: -webkit-sticky; /* Safari */
+position: sticky !important;
+top: 0px !important;
+z-index: 1;
 
 }
 
 .navbar {
-    position: relative;
+position: relative;
+}
+
+.cont {
+width: 60vw;
+margin: 0 auto;
+padding: 20px;
 }
 
 
@@ -53,9 +59,9 @@ color: white !important;
 }
 
 .background1 {
-    padding: 30px;
-    color: black;
-    background-color: <?php echo  $tertiary_colour; ?>;
+padding: 30px;
+color: black;
+background-color: <?php echo  $tertiary_colour; ?>;
 }
 
 blockquote {
@@ -80,3 +86,14 @@ top: -15px;
 color: #7a7a7a;
 }
 
+@media screen and (max-width: 1200px) {
+.cont {
+width: 70vw;
+}
+}
+
+@media screen and (max-width: 450px) {
+.cont {
+width: 80vw;
+}
+}
