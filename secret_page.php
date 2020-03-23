@@ -16,12 +16,6 @@
     <br>
     <main role="main">
         <nav class="horizontal_nav">
-            <div class="container flex-shrink-0" style="padding: 0 90px;">
-                <section>
-                    <h2>Development and Testing</h2>
-                </section>
-
-
                 <ul id="mainNav">
                     <div id="company_summary" class="container flex-shrink-0">
                         <li class="active"><a href="#company_summary">Company Summary</a></li>
