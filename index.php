@@ -65,7 +65,7 @@ function test_input($data)
                         <div class="d-flex h-100 text-center align-items-center">
                             <div class="w-100 text-white">
                                 <h1 class="pt-5">Own Your <br> Smart Home</h1>
-                                <a class="btn btn-lg btn-primary" data-toggle="modal" data-target="#videoModal" data-video="https://voxelmedia.s3.eu-west-2.amazonaws.com/HP/video.mp4">Watch the video</a>
+                                <a href="vid" class="btn btn-primary">Watch the video</a>
                             </div>
                         </div>
                     </div>
@@ -201,26 +201,6 @@ function test_input($data)
             <a href="https://www.instagram.com/voxel.cc" style="margin-top: 40px;" class="btn btn-primary">Follow Us</a>
         </div>
     </main>
-
-    <div class="container-fluid">
-        <!-- Modal -->
-        <div class="modal fade" id="videoModal" tabindex="-1" role="dialog">
-            <div class="modal-dialog modal-dialog-centered" role="document">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <button type="button" class="close text-white" data-dismiss="modal">&times;</button>
-                    </div>
-                    <div class="modal-body p-0">
-                        <div style="z-index:2000;"class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" allowfullscreen></iframe>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-    </div>
-
     <br>
     <br>
     <br>
