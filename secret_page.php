@@ -72,7 +72,7 @@
             <section id="customer_base">
                 <h4>Customer Base</h4>
                 <br>
-                <p>Following a first round of user investigation interviews conducted around Imperial College London and White City Advanced Hackspace, we segmented our customer base into 3 key sections.</p>
+                <p>Following a first round of <a style="color: blue;" href="https://docs.google.com/forms/d/e/1FAIpQLSc6KoAXBtrIV0qBu7Vs1T4wgZgos4d34oR-uLv1ILZToXfi-Q/viewform?usp=sf_link" target="blank">survey based user interviews</a> conducted around Imperial College London and White City Advanced Hackspace, we segmented our customer base into 3 key segments.</p>
                 <br>
                 <br>
                 <br>
@@ -110,22 +110,25 @@
                 <br>
                 <br>
                 <br>
-                <p>From primary and secondary research (detailed below), Voxel has decided to focus on the makers market. The lack of current products suited to this privacy aware demographic, its favourable spending power, receptivity to less developed products and the fact that we are makers ourselves has also helped to inform this decision. <br>
-                    In addition to this, makers love to contribute to open source software which is an important facet of our business model; as Voxel grows we will rely on a dedicated and engaged user base to populate our community hub with tutorials, projects and contributions to our source code.<br>
-                    A core value of our business is accessibility, whilst we target makers we also aim to excite smart home customers of all levels of expertise through a freely available open source programming platform that does not require pre-existing knowledge. Voxel aims to speak to all branches of the smart home market and expand laterally to meet the needs of an expanding user base.<br>
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png" class="d-block h-100 w-100" style="object-fit: cover">
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <h6>Conclusion</h6><br>
+                <p>From primary and secondary research (detailed below), Voxel has decided to focus on the makers market. The lack of current products suited to this privacy aware demographic, its favourable spending power, receptivity to less developed products and the fact that we are makers ourselves has also helped to inform this decision. <br><br>
+                    In addition to this, makers love to contribute to open source software which is an important facet of our business model; as Voxel grows we will rely on a dedicated and engaged user base to populate our community hub with tutorials, projects and contributions to our source code.<br><br>
+                    A core value of our business is accessibility, whilst we target makers we also aim to excite smart home customers of all levels of expertise through a freely available open source programming platform that does not require pre-existing knowledge. Voxel aims to speak to all branches of the smart home market and expand laterally to meet the needs of an expanding user base.<br><br>
                 </p>
             </section>
             <br>
             <br>
             <br>
             <section id="competitor_analysis">
-                <h4>Market and Competitor Analysis</h4>
-                <br>
-                <h6>Market</h6>
-                <p>The Global Smart Home Market was valued at USD 64.33 billion in 2017 and is projected to reach USD 176.59 billion by 2025, growing at a CAGR of 13.5% from 2018 to 2025.<br>
-                    The growth in the smart home market is driven by a number of factors. These include technological advancements, energy saving and monitoring, the need to monitor the home remotely, rapid proliferation of smart technologies and media systems. There is a growing concern and consideration for privacy and safety issues with many devices proven vulnerable to hacking and others sending non encrypted personal information to remote overseas servers.<br>
-                    The smart home market can be segmented by application into lighting control, security & access control, entertainment systems, HVAC control, home healthcare, smart kitchen, and home appliances. Voxel primarily focuses on lighting control, entertainment systems and home appliances but is designed to allow integration across these segments in future, in keeping with our company values.<br>
-                </p>
+                <h4>Competitor Analysis</h4>
+
+
             </section>
             <br>
             <br>

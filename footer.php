@@ -14,9 +14,9 @@
                 <h4><a href="about">About us</a></h4>
             </div>
             <div class="col-sm">
-                <a href="https://www.facebook.com/Voxelcc-102399501326664/"><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/facebook.svg" class="socialmediaimage"><a>
-                        <a href="https://www.instagram.com/voxel.cc/"><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/instagram.svg" class="socialmediaimage"><a>
-                                <a href="https://www.github.com/voxelcc"><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/github.svg" class="socialmediaimage"><a>
+                <a href="https://www.facebook.com/Voxelcc-102399501326664/" target="blank"><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/facebook.svg" class="socialmediaimage"><a>
+                        <a href="https://www.instagram.com/voxel.cc/" target="blank"><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/instagram.svg" class="socialmediaimage"><a>
+                                <a href="https://www.github.com/voxelcc" target="blank"><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/github.svg" class="socialmediaimage"><a>
             </div>
         </div>
         <div class="row">
