@@ -16,26 +16,22 @@
     <br>
     <main role="main">
         <nav class="horizontal_nav">
+            <div class="container flex-shrink-0" style="padding: 0 90px;">
+                <section>
+                    <h2>Development and Testing</h2>
+                </section>
 
-<!-- Full Page Image Header with Vertically Centered Content -->
-        <header class="masthead mb-5" style="background-image: url('https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH2.png');"></header>
-                  <div class="container flex-shrink-0" style="padding: 0 90px;">
-            <section>
-                <h2>Development and Testing</h2>
-            </section>
-            
-            
-            <ul id="mainNav">
-                <div id="company_summary" class="container flex-shrink-0">
-                    <li class="active"><a href="#company_summary">Company Summary</a></li>
-                    <li><a href="#customer_base">Customer Base</a></li>
-                    <li><a href="#competitor_analysis">Competitor Analysis</a></li>
-                    <li><a href="#concept_development">Development & Feedback</a></li>
-                    <li><a href="#validation">Validation</a></li>
-                </div>
-            </ul>
+
+                <ul id="mainNav">
+                    <div id="company_summary" class="container flex-shrink-0">
+                        <li class="active"><a href="#company_summary">Company Summary</a></li>
+                        <li><a href="#customer_base">Customer Base</a></li>
+                        <li><a href="#competitor_analysis">Competitor Analysis</a></li>
+                        <li><a href="#concept_development">Development & Feedback</a></li>
+                        <li><a href="#validation">Validation</a></li>
+                    </div>
+                </ul>
         </nav>
-<<<<<<< HEAD
         <br>
         <header class="masthead mb-5" style="background-image: url('https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/banner.jpg');"></header>
 
@@ -44,10 +40,6 @@
                 <br>
                 <h3>Development and Testing</h3>
                 <br>
-=======
-        <div class="container flex-shrink-0 pt-5" style="padding: 0 90px;">
-            <section id="company_summary">
->>>>>>> db8aecd3f58cd94a5e0cfef7ba028e6c3da579d3
                 <div class="row">
                     <div class="col-sm">
                         <h4>Company Summary</h4>
