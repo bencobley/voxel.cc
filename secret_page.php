@@ -33,14 +33,14 @@
             <section id="company_summary">
                 <br>
                 <br>
-                <h3>Investor Information Page</h3>
-                <br>
-                <p>This page provides investors with a brief overview of Voxel’s internal development, including market analysis, product development, user testing, business development and our future plans.</p>
-                <br>
+                <h3>Development and Testing</h3>
                 <br>
                 <br>
                 <h4>Company Summary</h4>
-                <p></p>
+                <p>Voxel’s goal is to spread creative technology by becoming the first smart home hardware platform that uses open source software. We have built an easy-to-use range of products that taps several strong veins: privacy, ease of setup, smart home automation and user-generated content.
+                    Makers currently struggle to create smart home experiences as their current tools are tied to cloud services, difficult to set up, have unintuitive softwares, and offer limited privacy protection.
+                </p>
+                <br>
                 <p>We are searching for investment - see investor summary here</p>
                 <br>
                 <div class="background1">
@@ -81,8 +81,7 @@
                     <div style="padding-bottom: 300px;">
                         <div style="float: left; max-width: 50%">
                             <b>The Tech Junkie</b><br>
-                            <p>The tech junkie loves using smart home technology and integrating it into their home; even if the interactions are not that useful, it is all about the novelty factor. They buy products that are fun, quirky, cheap and easy to set up. They jump on the latest tech trends and enjoy showing off their smart home tech.
-                            </p>
+                            <p>The tech junkie loves using smart home technology and integrating it into their home; even if the interactions are not that useful, it is all about the novelty factor. They buy products that are fun, quirky, cheap and easy to set up. They jump on the latest tech trends and enjoy showing off their smart home tech.</p>
                         </div>
                         <div style="float: right; max-width: 50%">
                             <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
@@ -91,8 +90,7 @@
                     <div style="padding-bottom: 300px;">
                         <div style="float: right; max-width: 50%">
                             <b>The Home Improver</b><br>
-                            <p>The home improver enjoys optimising their home and automating their devices. They are looking for tech that will provide useful experiences and are willing to pay for high quality devices. They may be concerned about privacy issues but they lack the technical knowledge to develop their own systems. They value a reliable product that is easy to set up and fits in well with their home.
-                            </p>
+                            <p>The home improver enjoys optimising their home and automating their devices. They are looking for tech that will provide useful experiences and are willing to pay for high quality devices. They may be concerned about privacy issues but they lack the technical knowledge to develop their own systems. They value a reliable product that is easy to set up and fits in well with their home.</p>
                         </div>
                         <div style="float: left; max-width: 50%">
                             <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
@@ -100,8 +98,7 @@
                     </div>
                     <div style="float: left; max-width: 50%">
                         <b>The Maker</b><br>
-                        <p>The maker enjoys the challenge, learning experience and satisfaction of creating something useful. They love to share their creations and learn from like minded people. Makers typically have a high level of technical knowledge and are privacy conscious. Therefore they place a lot of value on open source software. Maker’s will pay a premium for hardware that allows maximum ‘hackability’ but that is also reliable and easy to set up.
-                        </p>
+                        <p>The maker enjoys the challenge, learning experience and satisfaction of creating something useful. They love to share their creations and learn from like minded people. Makers can have a broad range of technical skills, some are experts and some are casual hobbyists. Maker’s will pay a premium for hardware that allows maximum ‘hackability’ but that is also reliable and easy to set up.</p>
                     </div>
                     <div style="float: right; max-width: 50%">
                         <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">

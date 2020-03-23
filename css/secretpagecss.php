@@ -5,7 +5,7 @@ require("cssvariables.php")
 
 
 .horizontal_nav {
-    padding-bottom: 30px;
+    padding-bottom: 10px;
     background-color: white;
     position: -webkit-sticky; /* Safari */
     position: sticky !important;
