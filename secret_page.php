@@ -18,6 +18,14 @@
     <main role="main">
         <nav class="horizontal_nav">
 
+<!-- Full Page Image Header with Vertically Centered Content -->
+        <header class="masthead mb-5" style="background-image: url('https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH2.png');"></header>
+                  <div class="container flex-shrink-0" style="padding: 0 90px;">
+            <section>
+                <h2>Development and Testing</h2>
+            </section>
+            
+            
             <ul id="mainNav">
                 <div id="company_summary" class="container flex-shrink-0">
                     <li class="active"><a href="#company_summary">Company Summary</a></li>
@@ -28,12 +36,8 @@
                 </div>
             </ul>
         </nav>
-        <div class="container flex-shrink-0" style="padding: 0 90px;">
+        <div class="container flex-shrink-0 pt-5" style="padding: 0 90px;">
             <section id="company_summary">
-                <br>
-                <br>
-                <h3>Development and Testing</h3>
-                <br>
                 <div class="row">
                     <div class="col-sm">
                         <h4>Company Summary</h4>
