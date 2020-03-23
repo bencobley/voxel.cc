@@ -181,7 +181,7 @@ function test_input($data)
                         </div>
                     </div>
                     <div class="col-lg-7">
-                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/BA/BA1.png" class="d-block h-100 w-100" style="object-fit: cover">
+                        <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/BA/BA1.png" class="d-block h-100 w-100" style="object-fit: cover">
                     </div>
                 </div>
             </div>

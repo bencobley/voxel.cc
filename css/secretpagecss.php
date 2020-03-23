@@ -58,13 +58,6 @@ color: white !important;
     background-color: <?php echo  $tertiary_colour; ?>;
 }
 
-.btn {
-    margin-left: 35px;
-}
-
-
-
-
 blockquote {
 font-family: Georgia, serif;
 font-size: 18px;

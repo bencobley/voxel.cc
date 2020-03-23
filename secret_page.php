@@ -37,12 +37,12 @@
 
         <div class="container flex-shrink-0" style="padding: 0 90px;">
             <section id="company_summary">
-            <br>
-                        <br>
-                        <br>
+                <br>
+                <br>
+                <br>
                 <div class="row">
                     <div class="col-sm">
-                   
+
                         <h4>Company Summary</h4>
                         <br>
                         <p>Voxel’s goal is to spread creative technology by becoming the first smart home hardware platform that uses open source software. We have built an easy-to-use range of products that taps several strong veins: privacy, ease of setup, smart home automation and user-generated content.
@@ -60,22 +60,57 @@
                 <br>
                 <h6>Deal</h6>
                 <br>
-                <p>Voxel is looking for £50,000 Seed Funding to support manufacturing efforts and fund development of a Kickstarter Crowdfunding Campaign. See investor summary <a href="">here</a></p>
+                <p>Voxel is looking for £50,000 Seed Funding to support manufacturing efforts and fund development of a Kickstarter campaign.</a></p>
+                <a href="#" class="btn btn-primary">Download May 2020 Investment Note</a>
                 <br>
                 <br>
                 <br>
                 <br>
-                <div class="background1">
-                    <h6>Team</h6>
-                    <ul>
-                        <li><b>Gabriele</b> loves quick prototypes, but hates wiring things up and coding. Working at Apple made him realise the importance of designing user-friendly, powerful tools that allow people to focus just on creating. </li><br>
-                        <li><b>Oli</b> is a keen smart home enthusiast and has professional experience designing, making and testing consumer facing IOT tech from his time at Magic of Things Ltd.</li><br>
-                        <li><b>Ben</b> A former engineer at Google X and Dyson, Ben has both leadership experience and extensive engineering skills spanning hardware and software.</li><br>
-                        <li><b>Ellie</b> is passionate about user driven technology, and has professional experience of developing user focused installations at Jason Bruges Studio.</li><br>
-                        <li><b>Melisa</b> is an expert in graphic design and user experience. She has professional experience designing marketing material and graphics at CD Projekt Red.</li><br>
-
-                    </ul>
+                <br>
+                <h6>Team</h6>
+            </section>
+        </div>
+        <div style="max-width: 90%; margin: auto;">
+            <div class="slickcarousel mx-auto pt-5" style="padding: 0 auto;">
+                <div><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU2.png" class="slickimage">
+                    <div class="aboutuscontainer">
+                        <p style="padding: 10px; text-align: center;">Ben - CEO</p>
+                        <p>A former engineer at Google X and Dyson, Ben has both leadership experience and extensive engineering skills spanning hardware and software. </p>
+                        <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU7.jpg" class="internshiplogo">
+                    </div>
                 </div>
+                <div><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU3.png" class="slickimage">
+                    <div class="aboutuscontainer">
+                        <p style="padding: 10px; text-align: center;">Ellie - COO</p>
+                        <p>Ellie is passionate about user driven technology, and has professional experience of developing user focused installations at Jason Bruges Studio.</p>
+                        <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU8.png" class="internshiplogo" style="padding-top: 20px;">
+                    </div>
+                </div>
+                <div><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU4.png" class="slickimage">
+                    <div class="aboutuscontainer">
+                        <p style="padding: 10px; text-align: center;">Gabi - CCO</p>
+                        <p>Gabi loves quick prototypes, but hates wiring things up and coding. Working at Apple made him realise the importance of designing user-friendly, powerful tools that allow people to focus just on creating.</p>
+                        <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU9.jpg" class="internshiplogo">
+                    </div>
+                </div>
+                <div><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU5.png" class="slickimage">
+                    <div class="aboutuscontainer">
+                        <p style="padding: 10px; text-align: center;">Melisa - CMO</p>
+                        <p>Melisa is an expert in graphic design and user experience. She has professional experience designing marketing material and graphics at CD Projekt. </p>
+                        <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU10.png" class="internshiplogo">
+                    </div>
+                </div>
+                <div><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU6.png" class="slickimage">
+                    <div class="aboutuscontainer">
+                        <p style="padding: 10px; text-align: center;">Oli - CTO</p>
+                        <p>Oli is our hardware expert, he is a keen smart home enthusiast and has professional experience developing consumer facing IOT tech from working at Magic Of Things Ltd.</p>
+                        <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU11.png" class="internshiplogo">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container flex-shrink-0" style="padding: 0 90px;">
+            <section id="company_summary">
                 <br>
                 <br>
                 <h6>Core Company Values</h6>
@@ -415,7 +450,7 @@
                         <blockquote class="blockquote">
                             <p>Awesome prototype and concept! I'm constantly thinking that I would love in my lounge a simple setup that shows time, weather, tides, today's calendar, a pre-defined list of music playlists and some basic light control. There may be some creativity required for things that require more textual detail (i.e. calendar) but I like the low-res vibe for everything else.</p>
                         </blockquote>
-                        <button class="btn btn-primary" onclick="hide1()">Show All Comments</button>
+                        <button class="btn btn-primary" style="margin-left: 35px;" onclick="hide1()">Show All Comments</button>
                     </div>
                     <br>
                 </div>
@@ -466,7 +501,7 @@
                         <blockquote class="blockquote">
                             <p>The best feature is probably that it integrates with those other platforms. I think integration is probably the key to success in this field. Home automation and IoT in general are just starting to get past the stage where personal computers were in the mid-80s, when we had Apple, IBM, Commodore, Amiga and a host of others, each in its own silo.</p>
                         </blockquote>
-                        <button class="btn btn-primary" onclick="hide2()">Show All Comments</button>
+                        <button class="btn btn-primary" style="margin-left: 35px;">Show All Comments</button>
                     </div>
                     <br>
                 </div>
@@ -517,7 +552,7 @@
                         <blockquote class="blockquote">
                             <p>My suggestion is use a SMB for a server (if required), as it's a pain to run openhab sometimes. I would say, for a starter pack between $50-100, again depending on what goes in it.</p>
                         </blockquote>
-                        <button class="btn btn-primary" onclick="hide3()">Show All Comments</button>
+                        <button class="btn btn-primary" style="margin-left: 35px;">Show All Comments</button>
                     </div>
                     <br>
                 </div>
@@ -552,7 +587,7 @@
 
                                 Where are you based? Are you looking for collaborators?</p>
                         </blockquote>
-                        <button class="btn btn-primary" onclick="hide4()">Show All Comments</button>
+                        <button class="btn btn-primary" style="margin-left: 35px;">Show All Comments</button>
                     </div>
                     <br>
                 </div>
