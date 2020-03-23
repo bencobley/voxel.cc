@@ -10,12 +10,14 @@
 <body style="background-color: black;">
     <div>
     <a href="index" type="button" class="close text-white" style="position: absolute; right: 30px; top: 30px;">&times;</a>
-        <video onended="myFunction()" style="  max-width: 100vw !important; height: 100vh !important; margin: 0 auto; display: block; " autoplay="autoplay" controls>
+        <video id="vid" onended="myFunction()" style="  max-width: 100vw !important; height: 100vh !important; margin: 0 auto; display: block; " autoplay="autoplay" controls>
             <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/HP/video.mp4" type="video/mp4">
         </video>
     </div>
 </body>
-
+<script>
+    document.getElementById('vid').play();
+</script>
 <script type='text/javascript'>
   function myFunction(){
     window.location.href = "index.php";
