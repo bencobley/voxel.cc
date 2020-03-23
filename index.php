@@ -65,7 +65,7 @@ function test_input($data)
                         <div class="d-flex h-100 text-center align-items-center">
                             <div class="w-100 text-white">
                                 <h1 class="pt-5">Own Your <br> Smart Home</h1>
-                                <a style="z-index: 5;" class="btn btn-lg btn-primary" data-toggle="modal" data-target="#videoModal" data-video="https://voxelmedia.s3.eu-west-2.amazonaws.com/HP/video.mp4?min-height=300&min-width=500&autoplay=1">Watch the video</a>
+                                <a class="btn btn-lg btn-primary" data-toggle="modal" data-target="#videoModal" data-video="https://voxelmedia.s3.eu-west-2.amazonaws.com/HP/video.mp4?min-height=300&min-width=500&autoplay=1">Watch the video</a>
                             </div>
                         </div>
                     </div>

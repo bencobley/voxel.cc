@@ -123,15 +123,18 @@ color: white;
 .modal-dialog {
 max-width: 90%;
 margin: 1.75rem auto;
+z-index: 1060;
 }
 
 .modal-content {
 background-color: transparent;
 border: 0px;
+z-index: 1060;
 }
 
 .modal-backdrop.show {
 opacity: 0.9;
+z-index: 1060;
 }
 
 .close {
