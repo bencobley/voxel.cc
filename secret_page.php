@@ -23,7 +23,7 @@
                     <li class="active"><a href="#company_summary">Company Summary</a></li>
                     <li><a href="#customer_base">Customer Base</a></li>
                     <li><a href="#competitor_analysis">Competitor Analysis</a></li>
-                    <li><a href="#concept_development">Concept Development & Feedback</a></li>
+                    <li><a href="#concept_development">Development & Feedback</a></li>
                     <li><a href="#validation">Validation</a></li>
                 </div>
             </ul>
