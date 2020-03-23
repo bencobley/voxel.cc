@@ -15,25 +15,27 @@
     <?php require_once('css/cssvariables.php'); ?>
     <br>
     <main role="main">
+        <header class="masthead mb-5" style="background-image: url('https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/banner.jpg');"></header>
+        <br>
+        <div class="container flex-shrink-0" style="padding: 0 90px;">
+            <h3>Development and Testing</h3>
+        </div>
+        <br>
         <nav class="horizontal_nav">
-                <ul id="mainNav">
-                    <div id="company_summary" class="container flex-shrink-0">
-                        <li class="active"><a href="#company_summary">Company Summary</a></li>
-                        <li><a href="#customer_base">Customer Base</a></li>
-                        <li><a href="#competitor_analysis">Competitor Analysis</a></li>
-                        <li><a href="#concept_development">Development & Feedback</a></li>
-                        <li><a href="#validation">Validation</a></li>
-                    </div>
-                </ul>
+            <ul id="mainNav">
+                <div id="company_summary" class="container flex-shrink-0">
+                    <li class="active"><a href="#company_summary">Company Summary</a></li>
+                    <li><a href="#customer_base">Customer Base</a></li>
+                    <li><a href="#competitor_analysis">Competitor Analysis</a></li>
+                    <li><a href="#concept_development">Development & Feedback</a></li>
+                    <li><a href="#validation">Validation</a></li>
+                </div>
+            </ul>
         </nav>
         <br>
-        <header class="masthead mb-5" style="background-image: url('https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/banner.jpg');"></header>
 
         <div class="container flex-shrink-0" style="padding: 0 90px;">
             <section id="company_summary">
-                <br>
-                <h3>Development and Testing</h3>
-                <br>
                 <div class="row">
                     <div class="col-sm">
                         <h4>Company Summary</h4>

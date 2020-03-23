@@ -4,7 +4,7 @@
 <head>
     <!-- Google Analytics -->
     <?php require_once('head.php'); ?>
-    <title>Voxel</title>
+    <title>Video</title>
 </head>
 
 <body style="background-color: black;">
