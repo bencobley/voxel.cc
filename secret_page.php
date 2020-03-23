@@ -35,8 +35,12 @@
                 <br>
                 <h3>Development and Testing</h3>
                 <br>
+                <img style="max-width: 50%; margin: auto;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/1.jpg" class="d-block h-100 w-100" style="object-fit: cover">
+                <br>
+                <br>
                 <br>
                 <h4>Company Summary</h4>
+                <br>
                 <p>Voxel’s goal is to spread creative technology by becoming the first smart home hardware platform that uses open source software. We have built an easy-to-use range of products that taps several strong veins: privacy, ease of setup, smart home automation and user-generated content.
                     Makers currently struggle to create smart home experiences as their current tools are tied to cloud services, difficult to set up, have unintuitive softwares, and offer limited privacy protection.
                 </p>
@@ -79,232 +83,434 @@
                 <br>
                 <div>
                     <div style="padding-bottom: 300px;">
-                        <div style="float: left; max-width: 50%">
-                            <b>The Tech Junkie</b><br>
+                        <div style="float: left; max-width: 60%">
+                            <b>The Tech Junkie</b><br><br>
                             <p>The tech junkie loves using smart home technology and integrating it into their home; even if the interactions are not that useful, it is all about the novelty factor. They buy products that are fun, quirky, cheap and easy to set up. They jump on the latest tech trends and enjoy showing off their smart home tech.</p>
                         </div>
-                        <div style="float: right; max-width: 50%">
+                        <div style="float: right; max-width: 40%; padding-right: 40px;">
                             <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
                         </div>
                     </div>
                     <div style="padding-bottom: 300px;">
-                        <div style="float: right; max-width: 50%">
-                            <b>The Home Improver</b><br>
+                        <div style="float: right; max-width: 60%">
+                            <b>The Home Improver</b><br><br>
                             <p>The home improver enjoys optimising their home and automating their devices. They are looking for tech that will provide useful experiences and are willing to pay for high quality devices. They may be concerned about privacy issues but they lack the technical knowledge to develop their own systems. They value a reliable product that is easy to set up and fits in well with their home.</p>
                         </div>
-                        <div style="float: left; max-width: 50%">
+                        <div style="float: left; max-width: 40%; padding-left: 40px;">
                             <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
                         </div>
                     </div>
-                    <div style="float: left; max-width: 50%">
-                        <b>The Maker</b><br>
+                    <div style="float: left; max-width: 60%">
+                        <b>The Maker</b><br><br>
                         <p>The maker enjoys the challenge, learning experience and satisfaction of creating something useful. They love to share their creations and learn from like minded people. Makers can have a broad range of technical skills, some are experts and some are casual hobbyists. Maker’s will pay a premium for hardware that allows maximum ‘hackability’ but that is also reliable and easy to set up.</p>
                     </div>
-                    <div style="float: right; max-width: 50%">
+                    <div style="float: right; max-width: 40%; padding-right: 40px;">
                         <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
                     </div>
                     <div style="clear: both"></div>
-
                 </div>
                 <br>
                 <br>
                 <br>
                 <br>
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png" class="d-block h-100 w-100" style="object-fit: cover">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png" class="d-block h-100 w-100" style="object-fit: cover; max-width: 800px; margin: auto;">
                 <br>
                 <br>
                 <br>
                 <br>
                 <br>
-                <h6>Conclusion</h6><br>
-                <p>From primary and secondary research (detailed below), Voxel has decided to focus on the makers market. The lack of current products suited to this privacy aware demographic, its favourable spending power, receptivity to less developed products and the fact that we are makers ourselves has also helped to inform this decision. <br><br>
-                    In addition to this, makers love to contribute to open source software which is an important facet of our business model; as Voxel grows we will rely on a dedicated and engaged user base to populate our community hub with tutorials, projects and contributions to our source code.<br><br>
-                    A core value of our business is accessibility, whilst we target makers we also aim to excite smart home customers of all levels of expertise through a freely available open source programming platform that does not require pre-existing knowledge. Voxel aims to speak to all branches of the smart home market and expand laterally to meet the needs of an expanding user base.<br><br>
-                </p>
+                <div class="background1">
+                    <h6>Conclusion</h6><br>
+                    <p>From primary and secondary research (detailed below), Voxel has decided to focus on the makers market. The lack of current products suited to this privacy aware demographic, its favourable spending power, receptivity to less developed products and the fact that we are makers ourselves has also helped to inform this decision. <br><br>
+                        In addition to this, makers love to contribute to open source software which is an important facet of our business model; as Voxel grows we will rely on a dedicated and engaged user base to populate our community hub with tutorials, projects and contributions to our source code.<br><br>
+                        A core value of our business is accessibility, whilst we target makers we also aim to excite smart home customers of all levels of expertise through a freely available open source programming platform that does not require pre-existing knowledge. Voxel aims to speak to all branches of the smart home market and expand laterally to meet the needs of an expanding user base.<br><br>
+                    </p>
+                </div>
             </section>
+            <br>
+            <br>
             <br>
             <br>
             <br>
             <section id="competitor_analysis">
                 <h4>Competitor Analysis</h4>
+                <br>
+                <br>
+                <br>
+                <div>
+                    <div style="padding-bottom: 370px;">
+                        <div style="float: left; max-width: 60%">
+                            <b>Arduino</b><br><br>
+                            <ul>
+                                <li>Well established electronics standard who sell open source microcontroller boards.</li>
+                                <li>Strong community and dedicated user base.</li>
+                                <li>Business model involves selling quality hardware and developing open source software. </li>
+                                <li>Can be difficult for beginners and is not suitable for more advanced smart home applications.</li>
+                            </ul>
+                        </div>
+                        <div style="float: right; max-width: 40%; padding-right: 40px;">
+                            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
+                        </div>
+                    </div>
+                    <div style="padding-bottom: 370px;">
+                        <div style="float: right; max-width: 60%">
+                            <b>Sonoff</b><br><br>
+                            <ul>
+                                <li>Sonoff sell cheap smart home hardware such as plugs, switches and basic sensors.</li>
+                                <li>Their products are popular with makers because they are easy to dissassemble, modify and reprogram.</li>
+                                <li>Sonoff do not officially endorse modifications of their products, despite this being a popular use case.</li>
+                                <li>They have their own app and cloud platform for users who wish to use the stock firmware.</li>
+                            </ul>
+                        </div>
+                        <div style="float: left; max-width: 40%; padding-left: 40px;">
+                            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
+                        </div>
+                    </div>
+                    <div style="float: left; max-width: 60%">
+                        <b>Home Assistant</b><br><br>
+                        <ul>
+                            <li>Purely open source software, a central smart home server that runs on a raspberry pi or virtual machine.</li>
+                            <li>Fremium business model, a paid cloud service is available to enable remote access easily.</li>
+                            <li>Hundreds of integrations and is able to support highly sophisticated setups. </li>
+                            <li>Requires IT skills and programming knowledge to use. </li>
+                        </ul>
+                    </div>
+                    <div style="float: right; max-width: 40%; padding-right: 40px;">
+                        <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
+                    </div>
+                    <div style="clear: both"></div>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <div class="background1">
+                        <p>Voxel offers three unique differentiators. Firstly, it’s completely open source. It puts privacy at the centre of its product by selling great hardware and not data. Second, it’s modular and infinitely customisable. It allows users to build whatever they can dream of in a matter of seconds. Last but not least, it has a powerful online platform that links directly the community to the product, making it extremely easy to upload, share and download projects. </p>
+                    </div>
+                    <br>
+                    <br>
+                    <br>
 
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png" class="d-block h-100 w-100" style="object-fit: cover; max-width: 800px; margin: auto;">
+                    <br>
+                    <br>
+                    <br>
+                </div>
 
             </section>
             <br>
             <br>
             <br>
             <section id="concept_development">
-
+                <h4>Concept Development</h4>
+                <br>
+                <br>
+                <br>
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png" class="d-block h-100 w-100" style="object-fit: cover; max-width: 800px; margin: auto;">
+                <br>
+                <br>
+                <br>
+                <h6>Concept</h6>
+                <p>The product was conceived with the mission of giving to the crazy inventors, smart home wizards and new makers the tools and flexibility to create whatever they want. The product development journey was guided by users’ feedback and focused on delivering something innovative and disruptive to the market.</p>
+                <br>
+                <br>
+                <br>
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png" class="d-block h-100 w-100" style="object-fit: cover; max-width: 800px; margin: auto;">
+                <br>
+                <br>
+                <br>
+                <h6>Initial User Engagement</h6>
+                <p>Our research at the <a style="color: blue" href="https://forms.gle/iKQaHJzpA2GJi9Mi7" target="blank">Autodesk Makeathon </a>revealed that there would be a strong demand from makers over general consumers who perceived the concept as beyond their ability level and were less likely to get involved with the programming. We explored how users would interact with our product and what features they would find useful before feeding these insights back into the design process.</p>
             </section>
             <br>
             <br>
-            <br>
         </div>
-        <section id="validation" style="background-color: <?php echo $tertiary_colour; ?>; padding: 20px 0;">
+        <section id="concept_development">
+            <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;" id="carousel4">
+                <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/3.mp4" type="video/mp4">
+                </video>
+                <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/5.mp4" type="video/mp4">
+                </video>
+                <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/6.mp4" type="video/mp4">
+                </video>
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/3.jpg" class="slickimage3">
+                <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/4.png" type="video/mp4">
+                </video>
+            </div>
             <div class="container flex-shrink-0">
-                <h4>Online User Feedback</h4>
-                <br>
-                <b>General comments</b>
                 <br>
                 <br>
                 <br>
-                <div style="max-width: 50%; margin: auto;">
-                    <blockquote class="blockquote">
-                        <p>Awesome prototype and concept! I'm constantly thinking that I would love in my lounge a simple setup that shows time, weather, tides, today's calendar, a pre-defined list of music playlists and some basic light control. There may be some creativity required for things that require more textual detail (i.e. calendar) but I like the low-res vibe for everything else.</p>
-                    </blockquote>
-                    <button class="btn btn-primary" onclick="hide1()">Show All Comments</button>
+                <h6>Looks-like Prototype</h6>
+                <br>
+                <br>
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/7.jpg" class="d-block h-100 w-100" style="object-fit: cover; max-width: 800px; margin: auto;">
+                <br>
+                <br>
+                <br>
+                <p>The product was initially prototyped using magnets and 3D printed parts to investigate the user interaction of snapping modules together and creating projects. We conducted 18 hours of user interviews with the prototypes and highlighted areas for improvement, such as a visual cue when 2 components were connected and a reduction in the size of the cubes. When asked how and where users would use the Voxel platform, Almost all interviewees expressed interest in placing the modules in their room, kitchen and living room. This information was directly used in the development of the first generation of tile sensors. </p>
+                <br>
+                <br>
+                <br>
+                <h6>Technical Validation Prototype</h6>
+                <br>
+                <br>
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/8.jpg" class="d-block h-100 w-100" style="object-fit: cover; max-width: 800px; margin: auto;">
+                <br>
+                <br>
+                <br>
+                <p>To test the technical feasibility of our product, and to establish which existing platforms and services we would be able to integrate with, a works-like prototype was developed. This stage is critical when designing a product for the maker market as users have a highly sophisticated understanding of product development and technical feasibility. It was important that we were prepared for any technical questions during the next stage of validation.</p>
+                <br>
+                <br>
+                <br>
+                <h6>Design and Development</h6>
+                <br>
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png" class="d-block h-100 w-100" style="object-fit: cover; max-width: 800px; margin: auto;">
+                <br>
+                <br>
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png" class="d-block h-100 w-100" style="object-fit: cover; max-width: 800px; margin: auto;">
+                <br>
+                <br>
+                <br>
+                <h6>Software UI Development</h6>
+                <br>
+                <p>When developing the software user interface and programming platform, it was important to cater for all ability levels. The beginner user who has no experience programming is able to download projects from our community with a single click, or use simple ‘drag and drop’ graphical coding based on an open source project such as blockly.</p>
+                <br>
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png" class="d-block h-100 w-100" style="object-fit: cover; max-width: 800px; margin: auto;">
+                <br>
+                <p>More advanced users are able to dig deeper into the platform and unlock greater control using Python and those with the highest technical knowledge can leave the Voxel platform behind completely, write their own firmware in c++ and flash it to their devices. Our products are designed to make this process as easy as possible.</p>
+                <br>
+                <br>
+                <br>
+                <h6>Working Prototype</h6>
+                <br>
+                <p>With the industrial design complete and the early stage user feedback incorporated, a working prototype was developed for the next stage of testing. This was important as it brought us closer to a saleable product and would enable us to produce more accurate video assets in order to spark interest in the next stage of validation.</p>
+                <br>
+                <video style="width: 100%; height: 400px;" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH11_old.mp4" type="video/mp4">
+                </video>
+                <br>
+        </section>
+        <br>
+        <br>
+        <br>
+        </div>
+        <section id="validation">
+            <div class="container flex-shrink-0">
+                <br>
+                <h6>Focus Groups</h6>
+                <br>
+                <br>
+                <br>
+                <p>The working prototype allowed us to conduct one on one interviews demonstrating hands-on interaction with the prototype and gaining more feedback about the product and concept. We expanded our reach beyond users with maker and tech experience and found that our privacy values resonated well in our focus groups.</p>
+                <div style="max-width: 800px; margin: auto;">
+                    <video style="max-width: 100%;" playsinline="playsinline" controls loop="loop">
+                        <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/9.mp4" type="video/mp4">
+                    </video>
                 </div>
                 <br>
+                <br>
+                <br>
+                <br>
+                <h6>Social Media Makers Communities </h6>
+                <br>
+                <p>We targeted maker communities and forums on reddit and facebook and received over 100 pieces written of feedback from makers, including many experts in the field, including the manufacturer of the ESP8266 chip, around which our concept is based.The project was well received especially with regard to being open source and private.
+                    From this research we realised we needed deeper technical specification and to differentiate ourselves from existing open source smart home platforms that only provide software. We adjusted our website accordingly and added an FAQ section.
+                </p>
+                <br>
+                <br>
             </div>
-            <div class="slickcarousel mx-auto" style="display: none; max-width: 2000px; padding: 10px;" id="carousel1">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/1.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/2.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/3.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/4.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/5.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/6.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/7.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/8.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/9.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/10.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/11.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/12.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/13.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/14.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/15.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/16.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/17.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/18.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/19.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/20.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/21.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/22.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/23.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/24.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/25.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/26.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/27.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/28.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/29.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/30.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/31.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/32.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/33.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/34.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/35.jpg" class="slickimage3">
-            </div>
-            <div class="container flex-shrink-0">
-                <br>
-                <b>Specific Tech Questions</b>
-                <br>
-                <br>
-                <br>
-                <div style="max-width: 50%; margin: auto;">
-                    <blockquote class="blockquote">
-                        <p>The best feature is probably that it integrates with those other platforms. I think integration is probably the key to success in this field. Home automation and IoT in general are just starting to get past the stage where personal computers were in the mid-80s, when we had Apple, IBM, Commodore, Amiga and a host of others, each in its own silo.</p>
-                    </blockquote>
-                    <button class="btn btn-primary" onclick="hide2()">Show All Comments</button>
+            <div style="background-color: <?php echo $tertiary_colour; ?>; padding: 20px 0;">
+                <div class="container flex-shrink-0">
+                    <h4>Online User Feedback</h4>
+                    <br>
+                    <b>General comments</b>
+                    <br>
+                    <br>
+                    <br>
+                    <div style="max-width: 50%; margin: auto;">
+                        <blockquote class="blockquote">
+                            <p>Awesome prototype and concept! I'm constantly thinking that I would love in my lounge a simple setup that shows time, weather, tides, today's calendar, a pre-defined list of music playlists and some basic light control. There may be some creativity required for things that require more textual detail (i.e. calendar) but I like the low-res vibe for everything else.</p>
+                        </blockquote>
+                        <button class="btn btn-primary" onclick="hide1()">Show All Comments</button>
+                    </div>
+                    <br>
                 </div>
-                <br>
-            </div>
-            <div class="slickcarousel mx-auto" style="display: none; max-width: 2000px; padding: 10px;" id="carousel2">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/1.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/2.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/3.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/4.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/5.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/6.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/7.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/8.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/9.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/10.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/11.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/12.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/13.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/14.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/15.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/16.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/17.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/18.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/19.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/20.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/21.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/22.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/23.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/24.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/25.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/26.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/27.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/28.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/29.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/30.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/31.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/32.jpg" class="slickimage3">
-            </div>
-            <div class="container flex-shrink-0">
-                <br>
-                <b>Price</b>
-                <br>
-                <br>
-                <br>
-                <div style="max-width: 50%; margin: auto;">
-                    <blockquote class="blockquote">
-                        <p>My suggestion is use a SMB for a server (if required), as it's a pain to run openhab sometimes. I would say, for a starter pack between $50-100, again depending on what goes in it.</p>
-                    </blockquote>
-                    <button class="btn btn-primary" onclick="hide3()">Show All Comments</button>
+                <div class="slickcarousel mx-auto" style="display: none; max-width: 2000px; padding: 10px;" id="carousel1">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/1.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/2.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/3.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/4.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/5.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/6.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/7.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/8.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/9.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/10.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/11.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/12.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/13.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/14.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/15.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/16.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/17.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/18.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/19.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/20.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/21.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/22.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/23.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/24.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/25.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/26.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/27.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/28.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/29.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/30.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/31.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/32.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/33.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/34.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pos/35.jpg" class="slickimage3">
                 </div>
-                <br>
-            </div>
-            <div class="slickcarousel mx-auto" style="display: none; max-width: 2000px; padding: 10px;" id="carousel3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/1.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/2.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/3.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/4.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/5.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/6.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/7.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/8.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/9.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/10.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/11.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/12.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/13.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/14.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/15.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/16.jpg" class="slickimage3">
-            </div>
-            <div class="container flex-shrink-0">
+                <div class="container flex-shrink-0">
+                    <br>
+                    <b>Specific Tech Questions</b>
+                    <br>
+                    <br>
+                    <br>
+                    <div style="max-width: 50%; margin: auto;">
+                        <blockquote class="blockquote">
+                            <p>The best feature is probably that it integrates with those other platforms. I think integration is probably the key to success in this field. Home automation and IoT in general are just starting to get past the stage where personal computers were in the mid-80s, when we had Apple, IBM, Commodore, Amiga and a host of others, each in its own silo.</p>
+                        </blockquote>
+                        <button class="btn btn-primary" onclick="hide2()">Show All Comments</button>
+                    </div>
+                    <br>
+                </div>
+                <div class="slickcarousel mx-auto" style="display: none; max-width: 2000px; padding: 10px;" id="carousel2">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/1.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/2.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/3.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/4.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/5.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/6.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/7.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/8.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/9.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/10.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/11.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/12.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/13.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/14.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/15.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/16.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/17.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/18.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/19.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/20.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/21.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/22.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/23.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/24.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/25.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/26.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/27.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/28.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/29.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/30.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/31.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/tech/32.jpg" class="slickimage3">
+                </div>
+                <div class="container flex-shrink-0">
+                    <br>
+                    <br>
+                    <b>Price</b>
+                    <br>
+                    <br>
+                    <p>Specific research was conducted to establish how much the target market would be willing to pay for the starter pack. From x results the average price was around $x, and this figure was used to inform the P&L spreadsheet. Several makers also expressed interest in collaborating and contributing to the open source software and we have created an email database of these potential contributors, as well as a database of those interested in updates about the kickstarter.</p>
+                    <br>
+                    <br>
+                    <div style="max-width: 50%; margin: auto;">
+                        <blockquote class="blockquote">
+                            <p>My suggestion is use a SMB for a server (if required), as it's a pain to run openhab sometimes. I would say, for a starter pack between $50-100, again depending on what goes in it.</p>
+                        </blockquote>
+                        <button class="btn btn-primary" onclick="hide3()">Show All Comments</button>
+                    </div>
+                    <br>
+                </div>
+                <div class="slickcarousel mx-auto" style="display: none; max-width: 2000px; padding: 10px;" id="carousel3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/1.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/2.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/3.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/4.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/5.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/6.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/7.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/8.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/9.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/10.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/11.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/12.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/13.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/14.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/15.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/16.jpg" class="slickimage3">
+                </div>
+                <div class="container flex-shrink-0">
 
-                <br>
-                <b>Contributers</b>
-                <br>
-                <br>
-                <br>
-                <div style="max-width: 50%; margin: auto;">
-                    <blockquote class="blockquote">
-                        <p>I think one of the main things missing from what's out there at the moment, is plug and play hardware combined with a decent reporting interface. That someone non - techie but interested in automating/monitoring their homes, would enjoy looking at and derive value and insight from.
+                    <br>
+                    <b>Contributers</b>
+                    <br>
+                    <br>
+                    <br>
+                    <div style="max-width: 50%; margin: auto;">
+                        <blockquote class="blockquote">
+                            <p>I think one of the main things missing from what's out there at the moment, is plug and play hardware combined with a decent reporting interface. That someone non - techie but interested in automating/monitoring their homes, would enjoy looking at and derive value and insight from.
 
-                            Where are you based? Are you looking for collaborators?</p>
-                    </blockquote>
-                    <button class="btn btn-primary" onclick="hide4()">Show All Comments</button>
+                                Where are you based? Are you looking for collaborators?</p>
+                        </blockquote>
+                        <button class="btn btn-primary" onclick="hide4()">Show All Comments</button>
+                    </div>
+                    <br>
                 </div>
-                <br>
+                <div class="slickcarousel mx-auto" style="display: none; max-width: 2000px; padding: 10px;" id="carousel4">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cont/1.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cont/2.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cont/3.jpg" class="slickimage3">
+                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cont/4.jpg" class="slickimage3">
+                </div>
             </div>
-            <div class="slickcarousel mx-auto" style="display: none; max-width: 2000px; padding: 10px;" id="carousel4">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cont/1.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cont/2.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cont/3.jpg" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cont/4.jpg" class="slickimage3">
+
+            <div class="container flex-shrink-0">
+                <br>
+                <br>
+                <h6>Traction Testing</h6>
+                <p>During our research on social media we left links to our website and sign-up links to our community. Our website portrays our starter pack as a finished product and includes a ‘fake door’ buy button to gather information on what percentage of website visitors would purchase our starter pack. We used google analytics to track our website activity.</p>
+                <br>
+                <br>
+                <br>
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/10.jpg" class="d-block h-100 w-100" style="object-fit: cover; max-width: 800px; margin: auto;">
+                <br>
+                <br>
+                <ul style="text-align:center">
+                    <h4>&bull; 13% of our users clicked the buy button</h4><br>
+                    <h4>&bull; Over 1000 unique visitors from 68 countries</h4><br>
+                    <h4>&bull; 32% of our users reached the starter pack page</h4><br>
+                </ul>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+
+
+
             </div>
         </section>
-        <div class="container flex-shrink-0">
-            <br>
-            <BR>
-            <p>
-                Enim nunc faucibus a pellentesque sit. Elementum facilisis leo vel fringilla est ullamcorper eget nulla. Tellus at urna condimentum mattis pellentesque id nibh tortor. Nunc mattis enim ut tellus elementum sagittis. Quam pellentesque nec nam aliquam sem et. Viverra aliquet eget sit amet tellus cras adipiscing enim eu. Curabitur gravida arcu ac tortor dignissim convallis. Urna et pharetra pharetra massa massa ultricies mi. At in tellus integer feugiat. Metus vulputate eu scelerisque felis. Elit pellentesque habitant morbi tristique senectus et netus et malesuada. Blandit volutpat maecenas volutpat blandit aliquam. Faucibus scelerisque eleifend donec pretium vulputate sapien. Libero volutpat sed cras ornare arcu dui vivamus arcu felis. Ut tortor pretium viverra suspendisse. Sit amet venenatis urna cursus. Dictum at tempor commodo ullamcorper a lacus.<br>
-
-                Convallis a cras semper auctor neque vitae tempus quam. In cursus turpis massa tincidunt. Urna et pharetra pharetra massa massa ultricies mi quis hendrerit. Malesuada fames ac turpis egestas sed tempus. Neque sodales ut etiam sit amet nisl purus. Facilisis volutpat est velit egestas. Risus nullam eget felis eget. In nisl nisi scelerisque eu ultrices vitae. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt. Diam sit amet nisl suscipit adipiscing bibendum est. At in tellus integer feugiat scelerisque varius morbi enim. Donec et odio pellentesque diam volutpat commodo. Tellus orci ac auctor augue mauris augue. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper sit. At augue eget arcu dictum varius duis. Accumsan sit amet nulla facilisi morbi tempus. Diam vel quam elementum pulvinar etiam non quam lacus. Bibendum neque egestas congue quisque egestas diam in. Nec ullamcorper sit amet risus nullam eget felis eget. Consectetur purus ut faucibus pulvinar elementum integer enim.</p>
-        </div>
     </main>
 
     <?php require_once('footer.php'); ?>

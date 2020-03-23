@@ -45,7 +45,7 @@ background-color: <?php echo $secondary_colour; ?>;
 }
 
 .active {
-background-color: <?php echo $for_makers_background; ?>;
+background-color: lightgrey;
 }
 
 .active a{
