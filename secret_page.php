@@ -40,61 +40,77 @@
                 <br>
                 <br>
                 <h4>Company Summary</h4>
+                <p></p>
                 <p>We are searching for investment - see investor summary here</p>
-                        <br>
-                        <div class="background1">
-                            <h6>Team</h6>
-                            <ul>
-                                <li><b>Gabriele</b> loves quick prototypes, but hates wiring things up and coding. Working at Apple made him realise the importance of designing user-friendly, powerful tools that allow people to focus just on creating. </li><br>
-                                <li><b>Oli</b> is a keen smart home enthusiast and has professional experience designing, making and testing consumer facing IOT tech from his time at Magic of Things Ltd.</li><br>
-                                <li><b>Ben</b> A former engineer at Google X and Dyson, Ben has both leadership experience and extensive engineering skills spanning hardware and software.</li><br>
-                                <li><b>Ellie</b> is passionate about user driven technology, and has professional experience of developing user focused installations at Jason Bruges Studio.</li><br>
-                                <li><b>Melisa</b> is an expert in graphic design and user experience. She has professional experience designing marketing material and graphics at CD Projekt Red.</li><br>
+                <br>
+                <div class="background1">
+                    <h6>Team</h6>
+                    <ul>
+                        <li><b>Gabriele</b> loves quick prototypes, but hates wiring things up and coding. Working at Apple made him realise the importance of designing user-friendly, powerful tools that allow people to focus just on creating. </li><br>
+                        <li><b>Oli</b> is a keen smart home enthusiast and has professional experience designing, making and testing consumer facing IOT tech from his time at Magic of Things Ltd.</li><br>
+                        <li><b>Ben</b> A former engineer at Google X and Dyson, Ben has both leadership experience and extensive engineering skills spanning hardware and software.</li><br>
+                        <li><b>Ellie</b> is passionate about user driven technology, and has professional experience of developing user focused installations at Jason Bruges Studio.</li><br>
+                        <li><b>Melisa</b> is an expert in graphic design and user experience. She has professional experience designing marketing material and graphics at CD Projekt Red.</li><br>
 
-                            </ul>
-                        </div>
-                        <br>
-                        <br>
-                        <h6>Core Company Values</h6>
-                        <ul>
-                            <li>Privacy</li>
-                            <li>Community</li>
-                            <li>Wide Integrations</li>
-                            <li>Freedom</li>
-                            <li>Accessibility</li>
-                            <li>Ease of use</li>
-                        </ul>
+                    </ul>
+                </div>
+                <br>
+                <br>
+                <h6>Core Company Values</h6>
+                <ul>
+                    <li>Privacy</li>
+                    <li>Community</li>
+                    <li>Wide Integrations</li>
+                    <li>Freedom</li>
+                    <li>Accessibility</li>
+                    <li>Ease of use</li>
+                </ul>
             </section>
             <br>
             <br>
             <br>
             <section id="customer_base">
                 <h4>Customer Base</h4>
+                <br>
                 <p>Following a first round of user investigation interviews conducted around Imperial College London and White City Advanced Hackspace, we segmented our customer base into 3 key sections.</p>
                 <br>
+                <br>
+                <br>
+                <br>
                 <div>
-                    <div style="float: left; max-width: 50%">
-                        <b>The Tech Junkie</b><br>
-                        <p>The tech junkie loves using smart home technology and integrating it into their home; even if the interactions are not that useful, it is all about the novelty factor. They buy products that are fun, quirky, cheap and easy to set up. They jump on the latest tech trends and enjoy showing off their smart home tech.
-                        </p>
+                    <div style="padding-bottom: 300px;">
+                        <div style="float: left; max-width: 50%">
+                            <b>The Tech Junkie</b><br>
+                            <p>The tech junkie loves using smart home technology and integrating it into their home; even if the interactions are not that useful, it is all about the novelty factor. They buy products that are fun, quirky, cheap and easy to set up. They jump on the latest tech trends and enjoy showing off their smart home tech.
+                            </p>
+                        </div>
+                        <div style="float: right; max-width: 50%">
+                            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
+                        </div>
                     </div>
-                    <br>
-                    <br>
-                    <br>
-
-                    <div style="float: right; max-width: 50%">
-                        <b>The Home Improver</b><br>
-                        <p>The home improver enjoys optimising their home and automating their devices. They are looking for tech that will provide useful experiences and are willing to pay for high quality devices. They may be concerned about privacy issues but they lack the technical knowledge to develop their own systems. They value a reliable product that is easy to set up and fits in well with their home.
-                        </p>
+                    <div style="padding-bottom: 300px;">
+                        <div style="float: right; max-width: 50%">
+                            <b>The Home Improver</b><br>
+                            <p>The home improver enjoys optimising their home and automating their devices. They are looking for tech that will provide useful experiences and are willing to pay for high quality devices. They may be concerned about privacy issues but they lack the technical knowledge to develop their own systems. They value a reliable product that is easy to set up and fits in well with their home.
+                            </p>
+                        </div>
+                        <div style="float: left; max-width: 50%">
+                            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
+                        </div>
                     </div>
-
                     <div style="float: left; max-width: 50%">
                         <b>The Maker</b><br>
                         <p>The maker enjoys the challenge, learning experience and satisfaction of creating something useful. They love to share their creations and learn from like minded people. Makers typically have a high level of technical knowledge and are privacy conscious. Therefore they place a lot of value on open source software. Maker’s will pay a premium for hardware that allows maximum ‘hackability’ but that is also reliable and easy to set up.
                         </p>
                     </div>
+                    <div style="float: right; max-width: 50%">
+                        <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
+                    </div>
                     <div style="clear: both"></div>
+
                 </div>
+                <br>
+                <br>
                 <br>
                 <br>
                 <p>From primary and secondary research (detailed below), Voxel has decided to focus on the makers market. The lack of current products suited to this privacy aware demographic, its favourable spending power, receptivity to less developed products and the fact that we are makers ourselves has also helped to inform this decision. <br>

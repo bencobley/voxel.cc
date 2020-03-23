@@ -203,7 +203,6 @@ function test_input($data)
     </main>
 
     <div class="container-fluid">
-
         <!-- Modal -->
         <div class="modal fade" id="videoModal" tabindex="-1" role="dialog">
             <div class="modal-dialog modal-dialog-centered" role="document">
