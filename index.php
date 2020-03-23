@@ -56,17 +56,16 @@ function test_input($data)
     <main role="main">
         <div class="container flex-shrink-0 pt-5">
             <div class="row pb-5">
-                <header class="mb-5" style="min-height: 630px;">
+                <header class="mb-5">
                     <div class="overlay"></div>
                     <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                        <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/HP/short.mp4" type="video/mp4">
+                        <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/HP/HP1.mp4" type="video/mp4">
                     </video>
                     <div class="container h-100">
                         <div class="d-flex h-100 text-center align-items-center">
                             <div class="w-100 text-white">
-                                <h1>Own your<br> smart home</h1>
-                                <a class="btn btn-lg btn-primary" href="shop.html">VWatch Our Video!</a>
-
+                                <h1 class="pt-5">Own Your <br> Smart Home</h1>
+                                <a class="btn btn-lg btn-primary" data-toggle="modal" data-target="#videoModal" data-video="https://voxelmedia.s3.eu-west-2.amazonaws.com/HP/video.mp4">Watch our video!</a>
                             </div>
                         </div>
                     </div>
