@@ -14,7 +14,6 @@
     <?php require_once('nav_bar.php'); ?>
     <?php require_once('css/cssvariables.php'); ?>
     <br>
-
     <main role="main">
         <nav class="horizontal_nav">
 
@@ -28,9 +27,11 @@
                 </div>
             </ul>
         </nav>
+        <br>
+        <header class="masthead mb-5" style="background-image: url('https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/banner.jpg');"></header>
+
         <div class="container flex-shrink-0" style="padding: 0 90px;">
             <section id="company_summary">
-                <br>
                 <br>
                 <h3>Development and Testing</h3>
                 <br>
