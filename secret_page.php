@@ -611,9 +611,8 @@
                 <br>
                 <br>
                 <ul style="text-align:center">
-                    <h4>&bull; 5.5% buy button click-through rate</h4><br>
-                    <h4>&bull; 18.8% product page click-through rate</h4><br>
-                    <h4>&bull; 53% Bounce Rate</h4><br>
+                    <h4>&bull; 11% buy button click-through rate</h4><br>
+                    <h4>&bull; 37.6% product page click-through rate</h4><br>
                     <h4>&bull; 1000 unique sessions from 68 countries</h4><br>
                 </ul>
                 <br>
