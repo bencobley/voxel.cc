@@ -65,7 +65,7 @@ function test_input($data)
                         <div class="d-flex h-100 text-center align-items-center">
                             <div class="w-100 text-white">
                                 <h1 class="pt-5">Own Your <br> Smart Home</h1>
-                                <a class="btn btn-lg btn-primary" data-toggle="modal" data-target="#videoModal" data-video="https://voxelmedia.s3.eu-west-2.amazonaws.com/HP/video.mp4?min-height=300&min-width=500&autoplay=1">Watch the video</a>
+                                <a style="z-index: 5;" class="btn btn-lg btn-primary" data-toggle="modal" data-target="#videoModal" data-video="https://voxelmedia.s3.eu-west-2.amazonaws.com/HP/video.mp4?min-height=300&min-width=500&autoplay=1">Watch the video</a>
                             </div>
                         </div>
                     </div>
@@ -211,7 +211,7 @@ function test_input($data)
                         <button type="button" class="close text-white" data-dismiss="modal">&times;</button>
                     </div>
                     <div class="modal-body p-0">
-                        <div style="z-index: 5;" class="embed-responsive embed-responsive-16by9">
+                        <div class="embed-responsive embed-responsive-16by9">
                             <iframe class="embed-responsive-item" allowfullscreen></iframe>
                         </div>
                     </div>
