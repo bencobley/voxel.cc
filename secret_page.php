@@ -26,10 +26,11 @@
             <ul id="mainNav">
                 <div class="container flex-shrink-0">
                     <li class="active"><a href="#company_summary">About Us</a></li>
-                    <li><a href="#customer">Understanding Our Customers</a></li>
+                    <li><a href="#customer">Our Customers</a></li>
                     <li><a href="#competitor_analysis">Competitor Analysis</a></li>
                     <li><a href="#concept_development">Prototyping & Feedback</a></li>
                     <li><a href="#validation">Validation</a></li>
+                    <li><a href="#path">Development Path</a></li>
                 </div>
             </ul>
         </nav>
@@ -119,9 +120,12 @@
 
                 <h2>Understanding our Customers</h2>
                 <br>
+                <br>
+                <p>The idea for this business was motivated by a desire to solve a problem that affected us personally as makers. It was now time to explore whether the same problems are faced by other people.</p>
+                <br>
+                <br>
                 <div class="row">
-                    <p>The idea for this business was motivated by a desire to solve a problem that affected us personally as makers. It was now time to explore whether the same problems are faced by other people.</p>
-                    <br>
+
                     <div class="col-sm">
                         <b>Key objectives:</b>
                         <br>
@@ -166,6 +170,8 @@
                         <br>
                         <br>
                         <br>
+                        <br>
+                        <br>
                         <div class="row">
                             <div class="col-sm">
                                 <b>The Home Improver</b><br><br>
@@ -180,6 +186,8 @@
                         <br>
                         <br>
                         <br>
+                        <br>
+                        <br>
                         <div class="row">
                             <div class="col-sm">
                                 <b>The Beginner Tinkerer</b><br><br>
@@ -191,6 +199,8 @@
                                 <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/personas/3.png">
                             </div>
                         </div>
+                        <br>
+                        <br>
                         <br>
                         <br>
                         <br>
@@ -216,13 +226,14 @@
             <br>
             <br>
             <h4>User Preference Analysis</h4><br>
-            <br>
-            <br>
+
             <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/user.png" class="d-block h-100 w-100" style="object-fit: cover; max-width: 800px; margin: auto;">
             <br>
             <br>
             <section id="competitor_analysis">
                 <h4>Competitive Product Analysis </h4>
+                <br>
+                <br>
                 <div class="row">
                     <div class="col-sm">
 
@@ -232,9 +243,6 @@
                         <br>
                     </div>
                     <div class="col-sm">
-                        <br>
-                        <br>
-                        <br>
                         <b>Activities: </b>
                         <p>Desk research into products available online, including a deep dive into the reviews for each. </p>
                         <br>
@@ -249,6 +257,7 @@
                 <h4>The Tech Junkie: Competition</h4>
                 <br>
                 <img style="max-width: 100%;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/techjunkie-comp.png">
+                <br>
                 <br>
                 <br>
                 <h4>The Home Improver: Competition</h4>
@@ -423,11 +432,11 @@
                         <br>
                     </div>
                 </div>
-                
-                <h4> <br>
+
+                <h4>Concept and Prototype User Testing </h4>
                 <br>
-                <br>Concept and Prototype User Testing </h4>
-                    <div class="row">
+                <br>
+                <div class="row">
                     <div class="col-sm">
                         <b>Activities: </b>
                         <p>Running a stand at the Autodesk Makeathon 2020 to interview users. Brand imagery, visual prototype prompts and post-it note inspiration boards were used to discuss ideas. </p>
@@ -483,7 +492,7 @@
                         <br>
                     </div>
                 </div>
-                <h4 <br><br><br>>Hardware Design Iteration</h4>
+                <h4>>Hardware Design Iteration</h4>
             </section>
         </div>
         <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
@@ -507,10 +516,10 @@
         <div class="cont">
             <section id="concept_development">
                 <div class="row">
-                    
+
                     <h4>
-                    <br>
-                    <br>Prototype C: Assemble-at-home Prototype</h4>
+                        <br>
+                        <br>Prototype C: Assemble-at-home Prototype</h4>
                     <br>
                     <br>
                     <video style="width: 100%; height: 450px;" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
@@ -576,6 +585,11 @@
                     <video style="width: 100%; height: 450px;" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
                         <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/ui.mp4" type="video/mp4">
                     </video>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
                     <br>
                     <br>
                     <br>
@@ -743,7 +757,7 @@
                 <br>
                 <p>The website was designed to appear, on first glance, as if a product was really for sale. This pretotyping technique, known as a ‘fake door’ is designed to gather information on the percentage of visitors that are interested in purchasing a product. Google Analytics was used to track website activity.</p>
                 <br>
-                
+
                 <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/laptop-valid.png">
                 <br><br>
                 <div class="row">
