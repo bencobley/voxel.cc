@@ -252,7 +252,7 @@
                     </div>
                 </div>
 
-                <h6>The Tech Junkie: Competition</h6>
+                <h4>The Tech Junkie: Competition</h4>
                 <br>
                 <img style="max-width: 100%;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/techjunkie-comp.png">
                 <br>
@@ -566,7 +566,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <h6>Software UI Development</h6>
+                    <h4>Software UI Development</h4>
                     <br>
                     <br>
                     <br>
