@@ -492,7 +492,7 @@
                         <br>
                     </div>
                 </div>
-                <h4 <br><br><br>>Hardware Design Iteration</h4>
+                <h4>>Hardware Design Iteration</h4>
             </section>
         </div>
         <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
@@ -585,6 +585,11 @@
                     <video style="width: 100%; height: 450px;" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
                         <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/ui.mp4" type="video/mp4">
                     </video>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
                     <br>
                     <br>
                     <br>
