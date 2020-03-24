@@ -249,7 +249,7 @@
                     </div>
                 </div>
 
-                <h6>The Tech Junkie: Competition</h6>
+                <h4>The Tech Junkie: Competition</h4>
                 <br>
                 <img style="max-width: 100%;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/techjunkie-comp.png">
                 <br>
@@ -427,6 +427,22 @@
                     </div>
                 </div>
                 <h4>Concept and Prototype User Testing </h4>
+                 <div class="row">
+                    <div class="col-sm">
+                        <b>Activities: </b>
+                        <p>Running a stand at the Autodesk Makeathon 2020 to interview users. Brand imagery, visual prototype prompts and post-it note inspiration boards were used to discuss ideas. </p>
+                        <br>
+                        <br>
+                    </div>
+                    <div class="col-sm">
+                        <b>Key objectives: </b>
+                        <p>To investigate the user interaction appeal of snapping modules together to assemble the components needed for a project. To understand whether the perceived value added in packaging components into modules warrants the additional price. To discuss what projects users might be interested in undertaking with Voxel. </p>
+                        <br>
+                        <br>
+                    </div>
+                </div>               
+                
+                
             </section>
         </div>
         <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
@@ -448,16 +464,6 @@
             <section id="concept_development">
                 <div class="row">
                     <div class="col-sm">
-                        <b>Activities: </b>
-                        <p>Running a stand at the Autodesk Makeathon 2020 to interview users. Brand imagery, visual prototype prompts and post-it note inspiration boards were used to discuss ideas. </p>
-                        <br>
-                        <br>
-                        <b>Key objectives: </b>
-                        <p>To investigate the user interaction appeal of snapping modules together to assemble the components needed for a project. To understand whether the perceived value added in packaging components into modules warrants the additional price. To discuss what projects users might be interested in undertaking with Voxel. </p>
-                        <br>
-                        <br>
-                    </div>
-                    <div class="col-sm">
                         <b>Feedback: </b>
                         <ul>
                             <li>The price users were expecting to pay was far higher than our original expectations, perceived value was high: averaging around £100, we expected around £50. </li>
@@ -465,6 +471,8 @@
                             <li>The possibility in projects did not come across well in communication. </li>
                         </ul>
                         <br>
+                    </div>
+                    <div class="col-sm">
                         <b>Changes:</b>
                         <ul>
                             <li>We designed more than 20 new demonstration display interactions for specific use cases suggested by users.</li>
@@ -497,42 +505,20 @@
         </div>
         <div class="cont">
             <section id="concept_development">
+                <h4>Prototype C: Assemble-at-home Prototype</h4>
+                    <br>
+                    <br>
+                
                 <div class="row">
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <h4>Prototype C: Assemble-at-home Prototype</h4>
-                    <br>
-                    <br>
-                    <video style="width: 100%; height: 450px;" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                        <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/assem.mp4" type="video/mp4">
-                    </video>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
 
                     <div class="col-sm">
                         <br> <b>Activities: </b>
                         <p>Hands-on testing with assemble-at-home prototype. For this quick test, participants were readily available friends and family (and other group members!).</p>
                         <br>
                         <br>
+                        
+                    </div>
+                    <div class="col-sm">
                         <b>Key objective:</b>
                         <p>To test the idea that the modules could be assembled at home, reinforcing the idea of ‘open’ design, while reducing manufacturing costs. Key ideas to test:</p>
                         <ul>
@@ -542,13 +528,28 @@
                             <li>User experience in assembly interaction</li>
                         </ul>
                         <br>
-                    </div>
-                    <div class="col-sm">
                         <br>
+                    </div>
+                </div>
+                
+                
+                
+                    <video style="width: 100%; height: 450px;" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                        <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/assem.mp4" type="video/mp4">
+                    </video>
+            
+                
+            
+            
+                <div class="row">
+
+                    <div class="col-sm">
                         <b>Feedback: </b>
                         <p>Hands-on testing with assemble-at-home prototype. For this quick test, participants were readily available friends and family (and other group members!).</p>
                         <br>
                         <br>
+                    </div>
+                    <div class="col-sm">
                         <b>Changes:</b>
                         <p>To test the idea that the modules could be assembled at home, reinforcing the idea of ‘open’ design, while reducing manufacturing costs. Key ideas to test:</p>
                         <ul>
@@ -559,14 +560,15 @@
                         </ul>
                         <br>
                         <br>
-                        <br>
-                        <br>
                     </div>
                 </div>
-                <div class="row">
-                    <h6>Software UI Development</h6>
-                    <br>
-                    <br>
+                
+                
+                <h4>Software UI Development</h4>
+                <br>
+                <br>
+                
+                <div class="row">    
                     <br>
                     <video style="width: 100%; height: 450px;" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
                         <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/ui.mp4" type="video/mp4">
