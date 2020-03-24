@@ -25,10 +25,10 @@
         <nav class="horizontal_nav">
             <ul id="mainNav">
                 <div class="container flex-shrink-0">
-                    <li class="active"><a href="#company_summary">Welcome</a></li>
+                    <li class="active"><a href="#company_summary">About Us</a></li>
                     <li><a href="#customer">Understanding Our Customers</a></li>
                     <li><a href="#competitor_analysis">Competitor Analysis</a></li>
-                    <li><a href="#concept_development">Development & Feedback</a></li>
+                    <li><a href="#concept_development">Prototyping & Feedback</a></li>
                     <li><a href="#validation">Validation</a></li>
                 </div>
             </ul>
@@ -47,7 +47,7 @@
                     </div>
                     <div class="col-sm">
                         <p>Voxel is looking for £50,000 Seed Funding to support manufacturing efforts and fund development of a Kickstarter campaign.</a></p>
-                        <a href="https://voxelmedia.s3.eu-west-2.amazonaws.com/report.pdf" class="btn btn-primary">Download May 2020 Investment Note</a>
+                        <a href="https://voxelmedia.s3.eu-west-2.amazonaws.com/Final_report.pdf" class="btn btn-primary">Download May 2020 Investment Note</a>
                     </div>
                 </div>
 
@@ -249,7 +249,7 @@
                     </div>
                 </div>
 
-                <h4>The Tech Junkie: Competition</h4>
+                <h6>The Tech Junkie: Competition</h6>
                 <br>
                 <img style="max-width: 100%;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/techjunkie-comp.png">
                 <br>
@@ -427,22 +427,6 @@
                     </div>
                 </div>
                 <h4>Concept and Prototype User Testing </h4>
-                 <div class="row">
-                    <div class="col-sm">
-                        <b>Activities: </b>
-                        <p>Running a stand at the Autodesk Makeathon 2020 to interview users. Brand imagery, visual prototype prompts and post-it note inspiration boards were used to discuss ideas. </p>
-                        <br>
-                        <br>
-                    </div>
-                    <div class="col-sm">
-                        <b>Key objectives: </b>
-                        <p>To investigate the user interaction appeal of snapping modules together to assemble the components needed for a project. To understand whether the perceived value added in packaging components into modules warrants the additional price. To discuss what projects users might be interested in undertaking with Voxel. </p>
-                        <br>
-                        <br>
-                    </div>
-                </div>               
-                
-                
             </section>
         </div>
         <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
@@ -464,6 +448,16 @@
             <section id="concept_development">
                 <div class="row">
                     <div class="col-sm">
+                        <b>Activities: </b>
+                        <p>Running a stand at the Autodesk Makeathon 2020 to interview users. Brand imagery, visual prototype prompts and post-it note inspiration boards were used to discuss ideas. </p>
+                        <br>
+                        <br>
+                        <b>Key objectives: </b>
+                        <p>To investigate the user interaction appeal of snapping modules together to assemble the components needed for a project. To understand whether the perceived value added in packaging components into modules warrants the additional price. To discuss what projects users might be interested in undertaking with Voxel. </p>
+                        <br>
+                        <br>
+                    </div>
+                    <div class="col-sm">
                         <b>Feedback: </b>
                         <ul>
                             <li>The price users were expecting to pay was far higher than our original expectations, perceived value was high: averaging around £100, we expected around £50. </li>
@@ -471,8 +465,6 @@
                             <li>The possibility in projects did not come across well in communication. </li>
                         </ul>
                         <br>
-                    </div>
-                    <div class="col-sm">
                         <b>Changes:</b>
                         <ul>
                             <li>We designed more than 20 new demonstration display interactions for specific use cases suggested by users.</li>
@@ -505,20 +497,42 @@
         </div>
         <div class="cont">
             <section id="concept_development">
-                <h4>Prototype C: Assemble-at-home Prototype</h4>
-                    <br>
-                    <br>
-                
                 <div class="row">
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <h4>Prototype C: Assemble-at-home Prototype</h4>
+                    <br>
+                    <br>
+                    <video style="width: 100%; height: 450px;" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                        <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/assem.mp4" type="video/mp4">
+                    </video>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
 
                     <div class="col-sm">
                         <br> <b>Activities: </b>
                         <p>Hands-on testing with assemble-at-home prototype. For this quick test, participants were readily available friends and family (and other group members!).</p>
                         <br>
                         <br>
-                        
-                    </div>
-                    <div class="col-sm">
                         <b>Key objective:</b>
                         <p>To test the idea that the modules could be assembled at home, reinforcing the idea of ‘open’ design, while reducing manufacturing costs. Key ideas to test:</p>
                         <ul>
@@ -528,28 +542,13 @@
                             <li>User experience in assembly interaction</li>
                         </ul>
                         <br>
-                        <br>
                     </div>
-                </div>
-                
-                
-                
-                    <video style="width: 100%; height: 450px;" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                        <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/assem.mp4" type="video/mp4">
-                    </video>
-            
-                
-            
-            
-                <div class="row">
-
                     <div class="col-sm">
+                        <br>
                         <b>Feedback: </b>
                         <p>Hands-on testing with assemble-at-home prototype. For this quick test, participants were readily available friends and family (and other group members!).</p>
                         <br>
                         <br>
-                    </div>
-                    <div class="col-sm">
                         <b>Changes:</b>
                         <p>To test the idea that the modules could be assembled at home, reinforcing the idea of ‘open’ design, while reducing manufacturing costs. Key ideas to test:</p>
                         <ul>
@@ -560,15 +559,14 @@
                         </ul>
                         <br>
                         <br>
+                        <br>
+                        <br>
                     </div>
                 </div>
-                
-                
-                <h4>Software UI Development</h4>
-                <br>
-                <br>
-                
-                <div class="row">    
+                <div class="row">
+                    <h6>Software UI Development</h6>
+                    <br>
+                    <br>
                     <br>
                     <video style="width: 100%; height: 450px;" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
                         <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/ui.mp4" type="video/mp4">
@@ -774,18 +772,18 @@
                 <img style="max-width: 100%;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/10.jpg">
                 <br>
                 <br>
-                <span style="font-size: 18px;">The majority of traffic comes from </span><span style="font-size: 35px;">the US and UK.</span>
+                <span style="font-size: 16px;">The majority of traffic comes from </span><span style="font-size: 35px;">the US and UK.</span>
                 <br><br>
-                <span style="font-size: 35px;">28% </span><span style="font-size: 18px;"> of home page landings navigated to the Starter Pack page [48% exited, the rest navigated away]. This is particularly exciting because the Starter Pack page is not prominently advertised. </span>
+                <span style="font-size: 35px;">28% </span><span style="font-size: 16px;"> of home page landings navigated to the Starter Pack page [48% exited, the rest navigated away]. This is particularly exciting because the Starter Pack page is not prominently advertised. </span>
                 <br><br>
-                <span style="font-size: 35px;">35% </span><span style="font-size: 18px;"> of users who reached the Starter Pack product page clicked on the buy button. [28% exited, the remainder navigated away]. They are then informed that Voxel is a work in progress. </span>
+                <span style="font-size: 35px;">35% </span><span style="font-size: 16px;"> of users who reached the Starter Pack product page clicked on the buy button. [28% exited, the remainder navigated away]. They are then informed that Voxel is a work in progress. </span>
                 <br><br>
-                <span style="font-size: 18px;">Overall </span><span style="font-size: 35px;">19% </span><span style="font-size: 25px;"> of sessions </span><span style="font-size: 18px;">included an unique page view of the fake ‘buy’ page. [This gives an indication of clickthrough rate, however this does not account for customers clicking to see the price, decisions made on price, nor cart abandonment.] </span>
+                <span style="font-size: 16px;">Overall </span><span style="font-size: 35px;">19% </span><span style="font-size: 25px;"> of sessions </span><span style="font-size: 16px;">included a unique page view of the fake ‘buy’ page. [This gives an indication of clickthrough rate, however this does not account for customers clicking to see the price, decisions made on price, nor cart abandonment.] </span>
                 <br><br>
-                <span style="font-size: 18px;">Leading to </span><span style="font-size: 35px;"> 304 unique clicks on the buy button </span><span style="font-size: 18px;">in total.</span>
+                <span style="font-size: 16px;">Leading to </span><span style="font-size: 35px;"> 304 unique clicks on the buy button </span><span style="font-size: 16px;">in total.</span>
                 <br><br>
-                <span style="font-size: 18px;">Average session duration was </span><span style="font-size: 35px;"> 1 minute 55 </span><span style="font-size: 18px;">with 2.37 pages visited per session. That means a cumulative</span>
-                <span style="font-size: 35px;"> 38 hours </span><span style="font-size: 18px;">has been spent exploring the voxel website, despite limited content being published so far. </span>
+                <span style="font-size: 16px;">Average session duration was </span><span style="font-size: 35px;"> 1 minute 55 </span><span style="font-size: 16px;">with 2.37 pages visited per session. That means a cumulative</span>
+                <span style="font-size: 35px;"> 38 hours </span><span style="font-size: 16px;">has been spent exploring the voxel website, despite limited content being published so far. </span>
 
                 <br>
                 <br>
