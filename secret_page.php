@@ -117,14 +117,11 @@
                     <p>The idea for this business was motivated by a desire to solve a problem that affected us personally as makers. It was now time to explore whether the same problems are faced by other people.</p>
                     <br>
                     <div class="col-sm">
-                        <br>
-                        <br>
-                        <b>Key objectives</b>
+                        <b>Key objectives:</b>
                         <br>
                         <p>To understand what being a ‘maker’ really means, understand who this product applies to, and develop personas that will enable us to meet user needs. </p>
                         <br>
-                        <br>
-                        <b>Activities</b>
+                        <b>Activities:</b>
                         <br>
                         <p>We are fortunate to be part of a community of maker-minded people at Imperial; in the Design Engineering Department and at the Advanced Hackspace. We also spoke to parents in the Department, friends and family, and educators in making. </p>
                         <br>
@@ -133,12 +130,11 @@
                         <br>
                     </div>
                     <div class="col-sm">
-                        <b>Results</b>
+                        <b>Results:</b>
                         <br>
                         <p>We were surprised to find that our target user group ‘makers’ was really four distinct segments. The feedback was highly valuable in showing that interest in the product was motivated by various different needs. Personas were developed to capture these segments.</p>
                         <br>
-                        <br>
-                        <b>Changes</b>
+                        <b>Changes:</b>
                         <br>
                         <p>Analysis and review of user interviews, helping develop accurate persona profiles that encapsulated the needs and preferences of the four specific subgroups. </p>
                         <br>
@@ -147,13 +143,12 @@
                     </div>
                 </div>
                 <div class="cont" style="background-color: <?php echo $tertiary_colour; ?>;">
-                    <h6>Persona Development</h6>
-                    <br>
+                    <h4>Persona Development</h4>
                     <br>
                     <div>
                         <div class="row">
                             <div class="col-sm">
-                                <b>The Tech Junkie</b><br><br>
+                                <b>The Tech Junkie</b><br>
                                 <p>The tech junkie loves using smart home technology and integrating it into their home; even if the interactions are not that useful, it is all about the novelty factor. They buy products that are fun, quirky and easy to set up. They jump on the latest tech trends and enjoy showing off their smart home tech.</p>
                             </div>
                             <div class="col-sm">
@@ -167,7 +162,7 @@
                         <br>
                         <div class="row">
                             <div class="col-sm">
-                                <b>The Home Improver</b><br><br>
+                                <b>The Home Improver</b><br>
                                 <p>The home improver enjoys optimising their home and automating their devices. They are looking for tech that will provide useful functionality, customizability and are willing to pay for high quality devices. They may be concerned about privacy issues but they lack the technical knowledge to develop their own systems. They value a reliable product that is easy to set up and fits in well with their home.</p>
                             </div>
                             <div class="col-sm">
@@ -181,7 +176,7 @@
                         <br>
                         <div class="row">
                             <div class="col-sm">
-                                <b>The Beginner Tinkerer</b><br><br>
+                                <b>The Beginner Tinkerer</b><br>
                                 <p>The beginner tinkerer enjoys the challenge, learning experience and satisfaction of creating something themselves. They might be new to making but they are keen to get stuck in. The project might not be useful to daily life but they hope to move towards that. The beginner tinkerer loves to share their creations and learn from like minded people. </p>
                             </div>
                             <div class="col-sm">
@@ -195,7 +190,7 @@
                         <br>
                         <div class="row">
                             <div class="col-sm">
-                                <b>The Advanced Hacker</b><br><br>
+                                <b>The Advanced Hacker</b><br>
                                 <p>Advanced Hackers are expert makers. They will pay a premium for hardware that is designed for maximum ‘hackability’ and is well-documented online. Projects can either be useful or useless, what is important is that the building process is an exciting challenge. They may share their creations with the community online, and will certainly use the community to help solve errors!</p>
                             </div>
                             <div class="col-sm">
