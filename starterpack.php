@@ -38,7 +38,6 @@
             </ul>
             <ul class="nav navbar-nav flex-fill justify-content-center d-none d-md-block">
                 <li class="nav-item"><a class="navbar-brand" href="index"><img style="width: 160px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/logo.png"></a></li>
-
             </ul>
             <ul class="nav navbar-nav flex-fill w-100 justify-content-end">
                 <li class="nav-item">
