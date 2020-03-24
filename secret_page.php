@@ -391,23 +391,6 @@
             <section id="concept_development">
                 <div class="row">
                     <div class="col-sm">
-                        <b>Activity: </b>
-                        <p>The creation of visual prototypes using magnets and 3D printed parts. User interviews were conducted including the prototypes (see next section).</p>
-                        <br>
-                        <br>
-                        <b>Key objective:</b>
-                        <p>To understand various product specifics:</p>
-                        <ul>
-                            <li>Magnet strength and conductivity</li>
-                            <li>Module size </li>
-                            <li>Magnets position </li>
-                            <li>Colour, material and finish</li>
-                            <li>Module shape</li>
-                        </ul>
-                        <br>
-                        <br>
-                    </div>
-                    <div class="col-sm">
                         <b>Feedback: </b>
                         <ul>
                             <li>Users felt that the modules were missing a visual cue after they snapped blocks together.</li>
@@ -416,6 +399,9 @@
                         </ul>
                         <br>
                         <br>
+                        
+                    <div class="col-sm">
+                        
                         <b>Changes:</b>
                         <ul>
                             <li>We redesigned the modules to follow more rounded outlines and softer overall shapes, and a more homely material finish and feel. </li>
@@ -428,7 +414,33 @@
                         <br>
                     </div>
                 </div>
-                <h6>Concept and Prototype User Testing </h6>
+                <h4>Concept and Prototype User Testing </h4><br>
+                    <div class="row">
+                        <div class="col-sm">
+
+                            <b>Activity: </b>
+                            <p>Running a stand at the <a style="color:blue;" href="https://www.imperialhackspace.com/events/design-engineering-society-makeathon-2020/">Autodesk Makeathon 2020 <a>to interview users. Brand imagery, visual prototype prompts and post-it note inspiration boards were used to discuss ideas. </p>
+                            <br>
+                            <br>
+
+
+
+                        </div>
+                        <div class="col-sm">
+
+                            <b>Key Objectives: </b>
+                            <p>To investigate the user interaction appeal of snapping modules together to assemble the components needed for a project. To understand whether the perceived value added in packaging components into modules warrants the additional price. To discuss what projects users might be interested in undertaking with Voxel. </p>
+                            <br>
+                            <br>    
+
+
+                        </div>                  
+
+                    
+                    </div>
+                    
+                    
+                    
             </section>
         </div>
         <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
@@ -450,15 +462,7 @@
             <section id="concept_development">
                 <div class="row">
                     <div class="col-sm">
-                        <br>
-                        <b>Activity: </b>
-                        <p>Running a stand at the <a style="color:blue;" href="https://www.imperialhackspace.com/events/design-engineering-society-makeathon-2020/">Autodesk Makeathon 2020 <a>to interview users. Brand imagery, visual prototype prompts and post-it note inspiration boards were used to discuss ideas. </p>
-                        <br>
-                        <br>
-                        <b>Key Objectives: </b>
-                        <p>To investigate the user interaction appeal of snapping modules together to assemble the components needed for a project. To understand whether the perceived value added in packaging components into modules warrants the additional price. To discuss what projects users might be interested in undertaking with Voxel. </p>
-                        <br>
-                        <br>
+
                     </div>
                     <div class="col-sm">
                         <b>Feedback: </b>
