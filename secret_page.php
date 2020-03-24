@@ -26,10 +26,11 @@
             <ul id="mainNav">
                 <div class="container flex-shrink-0">
                     <li class="active"><a href="#company_summary">About Us</a></li>
-                    <li><a href="#customer">Understanding Our Customers</a></li>
+                    <li><a href="#customer">Our Customers</a></li>
                     <li><a href="#competitor_analysis">Competitor Analysis</a></li>
                     <li><a href="#concept_development">Prototyping & Feedback</a></li>
                     <li><a href="#validation">Validation</a></li>
+                    <li><a href="#path">Development Path</a></li>
                 </div>
             </ul>
         </nav>

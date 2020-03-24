@@ -38,7 +38,7 @@
                 </div>
             </div>
         </div>
-        <div style="max-width: 90%; margin: auto;">
+        <div style="max-width: 9097%; margin: auto;">
             <div class="slickcarousel mx-auto pt-5">
                 <div><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU2.png" class="slickimage">
                     <div class="aboutuscontainer">
