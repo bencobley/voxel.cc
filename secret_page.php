@@ -492,7 +492,7 @@
                         <br>
                     </div>
                 </div>
-                <h4>>Hardware Design Iteration</h4>
+                <h4>Hardware Design Iteration</h4>
             </section>
         </div>
         <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
