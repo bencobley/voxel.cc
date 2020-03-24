@@ -222,7 +222,7 @@
                         <br>
                         <br>
                         <b>Key objectives:</b>
-                        <p>To understand why a customer would or would not choose to invest in a Voxel product, and the price points at which we are competing. To understand commonalities between customers and areas in which Voxel can differentiate itself. </p>
+                        <p>To understand why a customer would or would not choose to invest in a Voxel product, and the price points at which we are competing. <br><br> To understand commonalities between customers and areas in which Voxel can differentiate itself. </p>
                         <br>
                         <br>
                     </div>
@@ -302,14 +302,13 @@
                         <br>
                         <br>
                     </div>
-                <div class="col-sm"></div>
-                    <b>Key objectives:</b>
-                    <p>To test the technical feasibility of the Cubes product idea, and establish which services could be integrated. This was critical in designing a product for the maker market, as users have a strong understanding of technical feasibility.</p>
-                    <br>
-                    <br>
-                    <br>
-                </div>                
-                <br>
+                    <div class="col-sm"><b>Key objectives:</b>
+                        <p>To test the technical feasibility of the Cubes product idea, and establish which services could be integrated. This was critical in designing a product for the maker market, as users have a strong understanding of technical feasibility.</p>
+                        <br>
+                        <br>
+                        <br>
+                    </div>                
+                </div>
             </section>
         </div>
         <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
