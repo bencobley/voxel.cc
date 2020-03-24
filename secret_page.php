@@ -274,6 +274,107 @@
                 <br>
             </section>
         </div>
+
+        <div class="cont">
+            <section id="concept_development">
+                <h6>Prototype A: Technical Validation</h6>
+                <br>
+                <br>
+                <b>Activity: </b>
+                <p>A technical prototype was built, made up of the components that form the modules in the Cubes concept. </p>
+                <br>
+                <br>
+                <b>Key objective:</b>
+                <p>To test the technical feasibility of the Cubes product idea, and establish which services could be integrated. This was critical in designing a product for the maker market, as users have a strong understanding of technical feasibility.</p>
+                <br>
+                <br>
+                <br>
+            </section>
+        </div>
+        <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
+            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/12.jpg" class="slickimage3">
+            <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pcb.mp4" type="video/mp4">
+            </video>
+            <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/13.mp4" type="video/mp4">
+            </video>
+            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/8.jpg" class="slickimage3">
+        </div>
+        <div class="cont">
+            <section id="concept_development">
+                <b>Feedback: </b>
+                <p> The prototype demonstrated that the technical challenge of assembling a diverse range of modules into a modularised system was possible. The internal components are fundamentally simple, the next challenge was to package them in such a way that communicates the added value of a modular system.</p>
+                <br>
+                <br>
+                <b>Changes:</b>
+                <p> We realised that while the LED matrix fully matched the block dimensions, the sensors’ circuit was considerably smaller. To optimise space and reduce costs, the sensors’ embodiment was reimagined into a flat tile-shaped module.</p>
+                <br>
+                <br>
+                <br>
+                <h6>Prototype B: Visual Prototype</h6>
+                <br>
+                <br>
+                <b>Activity: </b>
+                <p>The creation of visual prototypes using magnets and 3D printed parts. User interviews were conducted including the prototypes (see next section).</p>
+                <br>
+                <br>
+                <b>Key objective:</b>
+                <p>To understand various product specifics:</p>
+                <ul>
+                    <li>Magnet strength and conductivity</li>
+                    <li>Module size </li>
+                    <li>Magnets position </li>
+                    <li>Colour, material and finish</li>
+                    <li>Module shape</li>
+                </ul>
+                <br>
+                <br>
+            </section>
+        </div>
+        <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
+            <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/front_sound.MP4" type="video/mp4">
+            </video>
+            <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/multiplay.MP4" type="video/mp4">
+            </video>
+            <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/BC_closeup_blocks.MP4" type="video/mp4">
+            </video>
+            <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/sound_block1.MP4" type="video/mp4">
+            </video>
+            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/7.jpg" class="slickimage3">
+        </div>
+        <div class="cont">
+            <section id="concept_development">
+                <div class="cont">
+                    <b>Feedback: </b>
+                    <ul>
+                        <li>Users felt that the modules were missing a visual cue after they snapped blocks together.</li>
+                        <li>Users were expecting smaller cubes and tiles for easier use with one hand. </li>
+                        <li>Users expressed interest in placing the modules in their room, kitchen and living room, pushing us to focus on the development of sensors that matched the needs of those rooms.</li>
+                    </ul>
+                    <br>
+                    <br>
+                    <b>Changes:</b>
+                    <ul>
+                        <li>We redesigned the modules to follow more rounded outlines and softer overall shapes, and a more homely material finish and feel. </li>
+                        <li>We redesigned several key interactions such as the multi-input module as it did not provide the desired affordance. </li>
+                        <li>We designed a UI for the LED matrix that showed a visual cue after every snapping interaction.</li>
+                    </ul>
+                    <br>
+                    <br>
+                    <br>
+                    <h6>Concept and Prototype User Testing </h6>
+                    <br>
+                    <br>
+                    <b>Activity: </b>
+                    <p>Running a stand at the <a style="color:blue;" href="https://www.imperialhackspace.com/events/design-engineering-society-makeathon-2020/">Autodesk Makeathon 2020 <a>to interview users. Brand imagery, visual prototype prompts and post-it note inspiration boards were used to discuss ideas. </p>
+                    <br>
+            </section>
+        </div>
         <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
             <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
                 <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/3.mp4" type="video/mp4">
@@ -291,126 +392,109 @@
         </div>
         <div class="cont">
             <section id="concept_development">
-                <h6>Prototype A: Technical Validation</h6>
-
+                <b>Feedback: </b>
+                <ul>
+                    <li>The price users were expecting to pay was far higher than our original expectations, perceived value was high: averaging around £100, we expected around £50. </li>
+                    <li>Users showed a surprising amount of interest in the use cases offered by the LED matrix display, pushing us to develop further its UI and possible interactions.</li>
+                    <li>The possibility in projects did not come across well in communication. </li>
+                </ul>
                 <br>
                 <br>
-                <br>
-                <h6>Concept</h6>
-                <p>The product was conceived with the mission of giving to the crazy inventors, smart home wizards and new makers the tools and flexibility to create whatever they want. The product development journey was guided by users’ feedback and focused on delivering something innovative and disruptive to the market.</p>
-                <br>
-                <br>
-                <br>
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png" class="d-block h-100 w-100" style="object-fit: cover; max-width: 800px; margin: auto;">
-                <br>
+                <b>Changes:</b>
+                <ul>
+                    <li>We designed more than 20 new demonstration display interactions for specific use cases suggested by users.</li>
+                    <li>Higher perceived value feedback was incorporated into financial forecasting happening in parallel. </li>
+                    <li>We went back to the drawing board with brand communication, resulting in the ‘Own your smart home’ branding you see today. </li>
+                </ul>
                 <br>
                 <br>
-                <h6>Initial User Engagement</h6>
-                <br>
-                <br>
-                <p>Our research at the <a style="color: blue" href="https://forms.gle/iKQaHJzpA2GJi9Mi7" target="blank">Autodesk Makeathon </a>revealed that there would be a strong demand from makers over general consumers who perceived the concept as beyond their ability level and were less likely to get involved with the programming. We explored how users would interact with our product and what features they would find useful before feeding these insights back into the design process.</p>
+                <h4>Hardware Design Iteration</h4>
             </section>
-            <br>
-            <br>
         </div>
-        <section id="concept_development">
-
-            <div class="cont">
+        <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
+            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/sketch/1.PNG" class="slickimage3">
+            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/sketch/3.PNG" class="slickimage3">
+            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/sketch/4.PNG" class="slickimage3">
+            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/sketch/5.PNG" class="slickimage3">
+            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/sketch/6.PNG" class="slickimage3">
+            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/sketch/7.PNG" class="slickimage3">
+        </div>
+        <br>
+        <br>
+        <br>
+        <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
+            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cad/1.png" class="slickimage3">
+            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cad/3.png" class="slickimage3">
+            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cad/4.png" class="slickimage3">
+            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cad/5.png" class="slickimage3">
+            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cad/6.png" class="slickimage3">
+        </div>
+        <div class="cont">
+            <section id="concept_development">
                 <br>
                 <br>
                 <br>
-                <h6>Looks-like Prototype</h6>
+                <h6>Prototype C: Assemble-at-home Prototype</h6>
                 <br>
                 <br>
-                <p>The product was initially prototyped using magnets and 3D printed parts to investigate the user interaction of snapping modules together and creating projects. We conducted 18 hours of user interviews with the prototypes and highlighted areas for improvement, such as a visual cue when 2 components were connected and a reduction in the size of the cubes. When asked how and where users would use the Voxel platform, Almost all interviewees expressed interest in placing the modules in their room, kitchen and living room. This information was directly used in the development of the first generation of tile sensors. </p>
+                <b>Activity: </b>
+                <p>Hands-on testing with assemble-at-home prototype. For this quick test, participants were readily available friends and family (and other group members!).</p>
                 <br>
                 <br>
-            </div>
-            <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
-                <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/front_sound.MP4" type="video/mp4">
-                </video>
-                <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/multiplay.MP4" type="video/mp4">
-                </video>
-                <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/BC_closeup_blocks.MP4" type="video/mp4">
-                </video>
-                <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/sound_block1.MP4" type="video/mp4">
-                </video>
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/7.jpg" class="slickimage3">
-            </div>
-            <div class="cont">
+                <b>Key objective:</b>
+                <p>To test the idea that the modules could be assembled at home, reinforcing the idea of ‘open’ design, while reducing manufacturing costs. Key ideas to test:</p>
+                <ul>
+                    <li>User self-assembly feasibility</li>
+                    <li>Ease of assembly - targeting 4 minute maximum assembly time</li>
+                    <li>Design for manufacturing</li>
+                    <li>User experience in assembly interaction</li>
+                </ul>
                 <br>
                 <br>
+                <b>Feedback: </b>
+                <p>Hands-on testing with assemble-at-home prototype. For this quick test, participants were readily available friends and family (and other group members!).</p>
                 <br>
                 <br>
-                <br>
-                <br>
-                <h6>Technical Validation Prototype</h6>
-                <br>
-                <br>
-                <p>To test the technical feasibility of our product, and to establish which existing platforms and services we would be able to integrate with, a works-like prototype was developed. This stage is critical when designing a product for the maker market as users have a highly sophisticated understanding of product development and technical feasibility. It was important that we were prepared for any technical questions during the next stage of validation.</p>
-                <br>
-                <br>
-            </div>
-            <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/12.jpg" class="slickimage3">
-                <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pcb.mp4" type="video/mp4">
-                </video>
-                <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/13.mp4" type="video/mp4">
-                </video>
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/8.jpg" class="slickimage3">
-            </div>
-            <div class="cont">
-                <br>
-                <br>
-                <br>
-                <h6>Design and Development</h6>
-                <br>
-            </div>
-            <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/sketch/1.PNG" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/sketch/3.PNG" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/sketch/4.PNG" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/sketch/5.PNG" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/sketch/6.PNG" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/sketch/7.PNG" class="slickimage3">
-            </div>
-            <div class="cont">
-                <br>
-                <br>
-                <br>
-                <h6>Hardware Design Iteration</h6>
-                <br>
-            </div>
-            <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cad/1.png" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cad/3.png" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cad/4.png" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cad/5.png" class="slickimage3">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cad/6.png" class="slickimage3">
-            </div>
-            <div class="cont">
-                <br>
-                <br>
-                <br>
-                <h6>Assembly Prototype</h6>
-                <br>
-                <video style="width: 100%; height: 300px;" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/assem.mp4" type="video/mp4">
-                </video>
-                <br>
-                <br>
+                <b>Changes:</b>
+                <p>To test the idea that the modules could be assembled at home, reinforcing the idea of ‘open’ design, while reducing manufacturing costs. Key ideas to test:</p>
+                <ul>
+                    <li>We simplified the assembly process by narrowing it down to 4 steps.</li>
+                    <li>The internal CAD design of the device was redesigned to guide the user as it slides in the components.</li>
+                    <li>Design for manufacturing</li>
+                    <li>We improved the packaging by designing and including a storyboard that users can refer to during the assembly process.</li>
+                </ul>
                 <br>
                 <div class="row">
                     <div class="col-sm">
                         <h6>Software UI Development</h6>
                         <br>
-                        <p>When developing the software user interface and programming platform, it was important to cater for all ability levels. The beginner user who has no experience programming is able to download projects from our community with a single click, or use simple ‘drag and drop’ graphical coding based on an open source project such as blockly.</p>
+                        <br>
+                        <b>Activity: </b>
+                        <p>Hands-on testing with assemble-at-home prototype. For this quick test, participants were readily available friends and family (and other group members!).</p>
+                        <br>
+                        <br>
+                        <b>Key objective:</b>
+                        <p>To test the idea that the modules could be assembled at home, reinforcing the idea of ‘open’ design, while reducing manufacturing costs. Key ideas to test:</p>
+                        <ul>
+                            <li>User self-assembly feasibility</li>
+                            <li>Ease of assembly - targeting 4 minute maximum assembly time</li>
+                            <li>Design for manufacturing</li>
+                            <li>User experience in assembly interaction</li>
+                        </ul>
+                        <br>
+                        <br>
+                        <b>Feedback: </b>
+                        <p>Hands-on testing with assemble-at-home prototype. For this quick test, participants were readily available friends and family (and other group members!).</p>
+                        <br>
+                        <br>
+                        <b>Changes:</b>
+                        <p>To test the idea that the modules could be assembled at home, reinforcing the idea of ‘open’ design, while reducing manufacturing costs. Key ideas to test:</p>
+                        <ul>
+                            <li>We simplified the assembly process by narrowing it down to 4 steps.</li>
+                            <li>The internal CAD design of the device was redesigned to guide the user as it slides in the components.</li>
+                            <li>Design for manufacturing</li>
+                            <li>We improved the packaging by designing and including a storyboard that users can refer to during the assembly process.</li>
+                        </ul>
                         <br>
                     </div>
                     <div class="col-sm">
@@ -439,10 +523,10 @@
                         </video>
                     </div>
                     <br>
-        </section>
-        <br>
-        <br>
-        <br>
+            </section>
+            <br>
+            <br>
+            <br>
         </div>
         <section id="validation">
             <div class="cont">
