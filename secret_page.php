@@ -25,8 +25,8 @@
         <nav class="horizontal_nav">
             <ul id="mainNav">
                 <div class="container flex-shrink-0">
-                    <li class="active"><a href="#company_summary">Company Summary</a></li>
-                    <li><a href="#customer_base">Customer Base</a></li>
+                    <li class="active"><a href="#company_summary">Welcome</a></li>
+                    <li><a href="#customer">Understanding Our Customers</a></li>
                     <li><a href="#competitor_analysis">Competitor Analysis</a></li>
                     <li><a href="#concept_development">Development & Feedback</a></li>
                     <li><a href="#validation">Validation</a></li>
@@ -39,32 +39,26 @@
             <section id="company_summary">
                 <br>
                 <br>
+                <h4>Welcome</h4>
                 <br>
-                <div class="row">
-                    <div class="col-sm">
-
-                        <h4>Company Summary</h4>
-                        <br>
-                        <p>Voxel’s goal is to spread creative technology by becoming the first smart home hardware platform that uses open source software. We have built an easy-to-use range of products that taps several strong veins: privacy, ease of setup, smart home automation and user-generated content.
-                            Makers currently struggle to create smart home experiences as their current tools are tied to cloud services, difficult to set up, have unintuitive softwares, and offer limited privacy protection.
-                        </p>
-
-                    </div>
-                    <div class="col-sm">
-                        <img style="max-width: 80%; margin: auto; padding-top: 40px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/1.jpg">
-                        <br>
-                        <br>
-                        <br>
-                    </div>
-                </div>
+                <p>This page provides investors with an overview of Voxel’s prototyping and user testing process, the feedback gained, and the resulting changes made.</p>
                 <br>
-                <h6>Deal</h6>
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/1.jpg" style="padding-left: 200px; max-width:80%;">
+                <br>
+                <br>
                 <br>
                 <p>Voxel is looking for £50,000 Seed Funding to support manufacturing efforts and fund development of a Kickstarter campaign.</a></p>
                 <a href="https://voxelmedia.s3.eu-west-2.amazonaws.com/report.pdf" class="btn btn-primary">Download May 2020 Investment Note</a>
                 <br>
                 <br>
                 <br>
+                <h6>About Us</h6>
+                <br>
+                <p>We are Voxel. We are a team of passionate makers, and we started this project after identifying a need in the community for a smart home that puts privacy, creativity and exploration first. Frustrated by data concerns and lack of configurability and customizability with existing solutions, we believe everyone deserves complete control over products they own.</p>
+                <br>
+                <p>In user testing, this idea strongly resonated with a diversity of like-minded people. <a style="color:blue;" href="#tractiontesting">Traction Testing <a> also showed good retention and click-through with makers on the site. Feedback has been overwhelmingly positive, so we will be launching a Kickstarter campaign.</p>
+
+
                 <br>
                 <br>
                 <h6>Team</h6>
@@ -75,14 +69,14 @@
                 <div><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU2.png" class="slickimage">
                     <div style="padding: 15px;" class="aboutuscontainer">
                         <p style="text-align: center;">Ben - CEO</p>
-                        <p>A former engineer at Google X and Dyson, Ben has both leadership experience and extensive engineering skills spanning hardware and software. </p>
+                        <p>A former engineer at Google X and Dyson, Ben has both leadership experience and extensive engineering skills spanning hardware and software. He started this project after a LOT of frustration over his smart home. </p>
                         <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU7.jpg" class="internshiplogo">
                     </div>
                 </div>
                 <div><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU3.png" class="slickimage">
                     <div style="padding: 15px;" class="aboutuscontainer">
                         <p style=" text-align: center;">Ellie - COO</p>
-                        <p>Ellie is passionate about user driven technology, and has professional experience of developing user focused installations at Jason Bruges Studio.</p>
+                        <p>Ellie is passionate about user driven technology, and has professional experience of developing user focused installations at Jason Bruges Studio. Ellie and her Amazon Alexa have a love-hate relationship. </p>
                         <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU8.png" class="internshiplogo" style="padding-top: 20px;">
                     </div>
                 </div>
@@ -96,14 +90,14 @@
                 <div><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU5.png" class="slickimage">
                     <div style="padding: 15px;" class="aboutuscontainer">
                         <p style="text-align: center;">Melisa - CMO</p>
-                        <p>Melisa is an expert in graphic design and user experience. She has professional experience designing marketing material and graphics at CD Projekt. </p>
+                        <p>Melisa is an expert in graphic design and user experience. She has professional experience designing marketing material and graphics at CD Projekt Red. Melisa is working on a side project to bring back the humble fax machine. </p>
                         <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU10.png" class="internshiplogo">
                     </div>
                 </div>
                 <div><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU6.png" class="slickimage">
                     <div style="padding: 15px;" class="aboutuscontainer">
                         <p style="text-align: center;">Oli - CTO</p>
-                        <p>Oli is our hardware expert, he is a keen smart home enthusiast and has professional experience developing consumer facing IOT tech from working at Magic Of Things Ltd.</p>
+                        <p>Oli is our hardware expert, he is a keen smart home enthusiast (he has 7 smart lava lamps!) and has professional experience developing consumer facing IOT tech from his time at Magic of Things Ltd.</p>
                         <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU11.png" class="internshiplogo">
                     </div>
                 </div>
@@ -113,180 +107,192 @@
         <br>
         <br>
         <br>
-        <div class="cont" style="background-color: <?php echo $tertiary_colour; ?>;">
-            <section id="customer_base">
+        <div class="cont">
+            <section id="customer">
 
-                <h4>Customer Base</h4>
+                <h4>Understanding our Customers</h4>
                 <br>
-                <p>Following a first round of <a style="color: blue;" href="https://docs.google.com/forms/d/e/1FAIpQLSc6KoAXBtrIV0qBu7Vs1T4wgZgos4d34oR-uLv1ILZToXfi-Q/viewform?usp=sf_link" target="blank">survey based user interviews</a> conducted around Imperial College London and White City Advanced Hackspace, we segmented our customer base into 3 key segments.</p>
+                <p>The idea for this business was motivated by a desire to solve a problem that affected us personally as makers. It was now time to explore whether the same problems are faced by other people.</p>
                 <br>
                 <br>
-                <div>
-                    <div class="row">
-                        <div class="col-sm">
-                            <b>The Tech Junkie</b><br><br>
-                            <p>The tech junkie loves using smart home technology and integrating it into their home; even if the interactions are not that useful, it is all about the novelty factor. They buy products that are fun, quirky, cheap and easy to set up. They jump on the latest tech trends and enjoy showing off their smart home tech.</p>
-                        </div>
-                        <div class="col-sm">
-                            <br>
-                            <br>
-                            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
-                        </div>
+                <b>Key objectives</b>
+                <br>
+                <p>To understand what being a ‘maker’ really means, understand who this product applies to, and develop personas that will enable us to meet user needs. </p>
+                <br>
+                <br>
+                <b>Activities</b>
+                <br>
+                <p>We are fortunate to be part of a community of maker-minded people at Imperial; in the Design Engineering Department and at the Advanced Hackspace. We also spoke to parents in the Department, friends and family, and educators in making. </p>
+                <br>
+                <p>In total 20+ hours of qualitative <a style="color: blue;" href="https://docs.google.com/forms/d/e/1FAIpQLSc6KoAXBtrIV0qBu7Vs1T4wgZgos4d34oR-uLv1ILZToXfi-Q/viewform?usp=sf_link">long-format user interviews</a> were undertaken with participants of all ages, and a range of experience in making and smart homes. We appreciated that the diversity of backgrounds of interviewees was limited, however this provided a good start. </p>
+                <br>
+                <br>
+                <b>Results</b>
+                <br>
+                <p>We were surprised to find that our target user group ‘makers’ was really four distinct segments. The feedback was highly valuable in showing that interest in the product was motivated by various different needs. Personas were developed to capture these segments.</p>
+                <br>
+                <br>
+                <b>Changes</b>
+                <br>
+                <p>Analysis and review of user interviews, helping develop accurate persona profiles that encapsulated the needs and preferences of the four specific subgroups. </p>
+                <br>
+                <br>
+                <br>
+        </div>
+        <div class="cont" style="background-color: <?php echo $tertiary_colour; ?>;">
+            <h6>Persona Development</h6>
+            <br>
+            <br>
+            <div>
+                <div class="row">
+                    <div class="col-sm">
+                        <b>The Tech Junkie</b><br><br>
+                        <p>The tech junkie loves using smart home technology and integrating it into their home; even if the interactions are not that useful, it is all about the novelty factor. They buy products that are fun, quirky and easy to set up. They jump on the latest tech trends and enjoy showing off their smart home tech.</p>
                     </div>
-                    <br>
-                    <br>
-                    <br>
-                    <div class="row">
-                        <div class="col-sm">
-                            <b>The Home Improver</b><br><br>
-                            <p>The home improver enjoys optimising their home and automating their devices. They are looking for tech that will provide useful experiences and are willing to pay for high quality devices. They may be concerned about privacy issues but they lack the technical knowledge to develop their own systems. They value a reliable product that is easy to set up and fits in well with their home.</p>
-                        </div>
-                        <div class="col-sm">
-                            <br>
-                            <br>
-                            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
-                        </div>
+                    <div class="col-sm">
+                        <br>
+                        <br>
+                        <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/personas/1.png">
                     </div>
-                    <br>
-                    <br>
-                    <br>
-                    <div class="row">
-                        <div class="col-sm">
-                            <b>The Beginner Tinkerer</b><br><br>
-                            <p>The maker enjoys the challenge, learning experience and satisfaction of creating something useful. They love to share their creations and learn from like minded people. Makers can have a broad range of technical skills, some are experts and some are casual hobbyists. Maker’s will pay a premium for hardware that allows maximum ‘hackability’ but that is also reliable and easy to set up.</p>
-                        </div>
-                        <div class="col-sm">
-                            <br>
-                            <br>
-                            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
-                        </div>
-                    </div>
-                    <br>
-                    <br>
-                    <br>
-                    <div class="row">
-                        <div class="col-sm">
-                            <b>The Advanced Hacker</b><br><br>
-                            <p>The maker enjoys the challenge, learning experience and satisfaction of creating something useful. They love to share their creations and learn from like minded people. Makers can have a broad range of technical skills, some are experts and some are casual hobbyists. Maker’s will pay a premium for hardware that allows maximum ‘hackability’ but that is also reliable and easy to set up.</p>
-                        </div>
-                        <div class="col-sm">
-                            <br>
-                            <br>
-                            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
-                        </div>
-                        <div style="clear: both"></div>
-                    </div>
-                    <br>
-                    <br>
-                    <br>
                 </div>
+                <br>
+                <br>
+                <br>
+                <div class="row">
+                    <div class="col-sm">
+                        <b>The Home Improver</b><br><br>
+                        <p>The home improver enjoys optimising their home and automating their devices. They are looking for tech that will provide useful functionality, customizability and are willing to pay for high quality devices. They may be concerned about privacy issues but they lack the technical knowledge to develop their own systems. They value a reliable product that is easy to set up and fits in well with their home.</p>
+                    </div>
+                    <div class="col-sm">
+                        <br>
+                        <br>
+                        <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/personas/2.png">
+                    </div>
+                </div>
+                <br>
+                <br>
+                <br>
+                <div class="row">
+                    <div class="col-sm">
+                        <b>The Beginner Tinkerer</b><br><br>
+                        <p>The beginner tinkerer enjoys the challenge, learning experience and satisfaction of creating something themselves. They might be new to making but they are keen to get stuck in. The project might not be useful to daily life but they hope to move towards that. The beginner tinkerer loves to share their creations and learn from like minded people. </p>
+                    </div>
+                    <div class="col-sm">
+                        <br>
+                        <br>
+                        <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/personas/3.png">
+                    </div>
+                </div>
+                <br>
+                <br>
+                <br>
+                <div class="row">
+                    <div class="col-sm">
+                        <b>The Advanced Hacker</b><br><br>
+                        <p>Advanced Hackers are expert makers. They will pay a premium for hardware that is designed for maximum ‘hackability’ and is well-documented online. Projects can either be useful or useless, what is important is that the building process is an exciting challenge. They may share their creations with the community online, and will certainly use the community to help solve errors!</p>
+                    </div>
+                    <div class="col-sm">
+                        <br>
+                        <br>
+                        <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/personas/4.png">
+                    </div>
+                    <div style="clear: both"></div>
+                </div>
+                <br>
+                <br>
+                <br>
+            </div>
             </section>
         </div>
         <div class="cont">
-            <section id="customer_base">
-                <br>
-                <br>
-                <br>
-                <br>
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png" class="d-block h-100 w-100" style="object-fit: cover; max-width: 800px; margin: auto;">
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-                <div class="background1">
-                    <h6>Conclusion</h6><br>
-                    <p>From primary and secondary research (detailed below), Voxel has decided to focus on the makers market. The lack of current products suited to this privacy aware demographic, its favourable spending power, receptivity to less developed products and the fact that we are makers ourselves has also helped to inform this decision. <br><br>
-                        In addition to this, makers love to contribute to open source software which is an important facet of our business model; as Voxel grows we will rely on a dedicated and engaged user base to populate our community hub with tutorials, projects and contributions to our source code.<br><br>
-                        A core value of our business is accessibility, whilst we target makers we also aim to excite smart home customers of all levels of expertise through a freely available open source programming platform that does not require pre-existing knowledge. Voxel aims to speak to all branches of the smart home market and expand laterally to meet the needs of an expanding user base.<br><br>
-                    </p>
-                </div>
-            </section>
             <br>
             <br>
+            <h6>User Preference Analysis</h6><br>
             <br>
+            <br>
+            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png" class="d-block h-100 w-100" style="object-fit: cover; max-width: 800px; margin: auto;">
             <br>
             <br>
             <section id="competitor_analysis">
-                <h4>Competitor Analysis</h4>
+                <h4>Competitive Product Analysis </h4>
                 <br>
-                <div>
-                    <div class="row">
-                        <div class="col-sm">
-                            <b>Arduino</b><br><br>
-                            <ul>
-                                <li>Well established electronics standard who sell open source microcontroller boards.</li>
-                                <li>Strong community and dedicated user base.</li>
-                                <li>Business model involves selling quality hardware and developing open source software. </li>
-                                <li>Can be difficult for beginners and is not suitable for more advanced smart home applications.</li>
-                            </ul>
-                        </div>
-
-                        <div class="col-sm">
-                            <br><br>
-                            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
-                        </div>
-                    </div>
-                    <br><br>
-                    <div class="row">
-                        <div class="col-sm">
-                            <b>Sonoff</b><br><br>
-                            <ul>
-                                <li>Sonoff sell cheap smart home hardware such as plugs, switches and basic sensors.</li>
-                                <li>Their products are popular with makers because they are easy to dissassemble, modify and reprogram.</li>
-                                <li>Sonoff do not officially endorse modifications of their products, despite this being a popular use case.</li>
-                                <li>They have their own app and cloud platform for users who wish to use the stock firmware.</li>
-                            </ul>
-                        </div>
-                        <div class="col-sm">
-                            <br><br>
-                            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
-                        </div>
-                    </div>
-                    <br><br>
-                    <div class="row">
-                        <div class="col-sm">
-                            <b>Home Assistant</b><br><br>
-                            <ul>
-                                <li>Purely open source software, a central smart home server that runs on a raspberry pi or virtual machine.</li>
-                                <li>Fremium business model, a paid cloud service is available to enable remote access easily.</li>
-                                <li>Hundreds of integrations and is able to support highly sophisticated setups. </li>
-                                <li>Requires IT skills and programming knowledge to use. </li>
-                            </ul>
-                        </div>
-                        <div class="col-sm">
-                            <br><br>
-                            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
-                        </div>
-                    </div>
-                    <div style="clear: both"></div>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <div class="background1">
-                        <p>Voxel offers three unique differentiators. Firstly, it’s completely open source. It puts privacy at the centre of its product by selling great hardware and not data. Second, it’s modular and infinitely customisable. It allows users to build whatever they can dream of in a matter of seconds. Last but not least, it has a powerful online platform that links directly the community to the product, making it extremely easy to upload, share and download projects. </p>
-                    </div>
-                    <br>
-                    <br>
-                    <br>
-
-                    <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png" class="d-block h-100 w-100" style="object-fit: cover; max-width: 800px; margin: auto;">
-                    <br>
-                    <br>
-                    <br>
-                </div>
-
+                <br>
+                <b>Key objectives:</b>
+                <p>To understand why a customer would or would not choose to invest in a Voxel product, and the price points at which we are competing. To understand commonalities between customers and areas in which Voxel can differentiate itself. </p>
+                <br>
+                <br>
+                <b>Activities: </b>
+                <p>Desk research into products available online, including a deep dive into the reviews for each. </p>
+                <br>
+                <br>
+                <b>Results:</b>
+                <p>Table summarising functions, price, pro and cons of competitors for each subgroup. </p>
+                <br>
+                <br>
+                <h6>The Tech Junkie: Competition</h6>
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
+                <br>
+                <br>
+                <h6>The Home Improver: Competition</h6>
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
+                <br>
+                <br>
+                <br>
+                <h6>The Beginner Tinkerer: Competition</h6>
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
+                <br>
+                <br>
+                <br>
+                <h6>The Advanced Hacker: Competition</h6>
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
+                <br>
+                <br>
+                <br>
             </section>
+        </div>
+        <div class="cont">
+            <section id="competitor_analysis" style="padding: 20px; background-color: <?php echo $tertiary_colour; ?>;">
+                <h6>How Does Voxel Differ From the Competition?</h6>
+                <br>
+                <p>Our vision is unique in encapsulating all of the below:</p>
+                <ol>
+                    <li> A fully open-source, privacy first ecosystem.</li>
+                    <li> Modular, infinitely expandable and easy to use hardware. </li>
+                    <li> An exciting community where creators can share their projects and find inspiration. </li>
+                </ol>
+            </section>
+            <br>
             <br>
             <br>
             <br>
             <section id="concept_development">
                 <h4>Concept Development</h4>
                 <br>
+                <p>The product was conceived with the mission of giving to the crazy inventors, smart home wizards and new makers the tools and flexibility to create whatever they want. The product development journey was guided by users’ feedback and focused on delivering something innovative and disruptive to the market.</p>
                 <br>
+                <p>The Cubes concept was chosen for two main reasons: first, the cubic shape is simple and iconic, suggesting in hardware the modularity of the whole system. Second, cubes were chosen as a strong form in balancing the combining of maker components with premium smart home equipment. </p>
                 <br>
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png" class="d-block h-100 w-100" style="object-fit: cover; max-width: 800px; margin: auto;">
+            </section>
+        </div>
+        <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
+            <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/3.mp4" type="video/mp4">
+            </video>
+            <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/5.mp4" type="video/mp4">
+            </video>
+            <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/6.mp4" type="video/mp4">
+            </video>
+            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/3.jpg" class="slickimage3">
+            <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/4.png" type="video/mp4">
+            </video>
+        </div>
+        <div class="cont">
+            <section id="concept_development">
+                <h6>Prototype A: Technical Validation</h6>
+
                 <br>
                 <br>
                 <br>
@@ -308,21 +314,7 @@
             <br>
         </div>
         <section id="concept_development">
-            <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
-                <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/3.mp4" type="video/mp4">
-                </video>
-                <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/5.mp4" type="video/mp4">
-                </video>
-                <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/6.mp4" type="video/mp4">
-                </video>
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/3.jpg" class="slickimage3">
-                <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/4.png" type="video/mp4">
-                </video>
-            </div>
+
             <div class="cont">
                 <br>
                 <br>
@@ -408,7 +400,7 @@
                 <br>
                 <h6>Assembly Prototype</h6>
                 <br>
-                <video style="width: 100%; height: 300px;"  playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                <video style="width: 100%; height: 300px;" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
                     <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/assem.mp4" type="video/mp4">
                 </video>
                 <br>
