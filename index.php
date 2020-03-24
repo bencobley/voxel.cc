@@ -198,7 +198,7 @@ function test_input($data)
             <!-- LightWidget WIDGET -->
             <script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script>
             <iframe src="https://cdn.lightwidget.com/widgets/93d269bd9e305556bfe48e18c0e2711e.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
-            <a href="https://www.instagram.com/voxel.cc" style="margin-top: 40px;" class="btn btn-primary">Follow Us</a>
+            <a href="https://www.instagram.com/voxel.cc" style="margin-top: 40px;" class="btn btn-primary">Follow Us On Instagram!</a>
         </div>
     </main>
     <br>

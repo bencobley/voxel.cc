@@ -74,14 +74,14 @@ if (isset($_POST['password']) && isset($_POST['email'])) {
 
             <div class="row pt-5">
                 <div class="col text-center">
-                    <h2 class="text-break">Community Vibes</h2>
+                    <h2 class="text-break">Creative Community</h2>
                 </div>
 
             </div>
             <br>
             <div class="row mt-3">
                 <div class="col-md">
-                    <h4>The powerful, modular smart home controller, open-sourced. </h4>
+                    <h4>Everything Voxel, all in one place. </h4>
 
                 </div>
                 <div class="col-md">
@@ -209,7 +209,7 @@ if (isset($_POST['password']) && isset($_POST['email'])) {
                     <img class="card-img-top" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/CO/CO10.png">
                     <div class="card-body">
                         <h5 class="card-title">Funding News</h5>
-                        <p class="card-text">New funding received, Kickstarter scheduled to start early October!</p>
+                        <p class="card-text">New funding received, Kickstarter scheduled to start late May!</p>
                         <p class="card-text"><small class="text-muted">Voxel Press</small></p>
                     </div>
                 </div>

@@ -315,10 +315,8 @@
                         <p>To test the technical feasibility of the Cubes product idea, and establish which services could be integrated. This was critical in designing a product for the maker market, as users have a strong understanding of technical feasibility.</p>
                         <br>
                         <br>
-                        <br>
                     </div>
                 </div>
-                <br>
             </section>
         </div>
         <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
@@ -355,6 +353,32 @@
 
                 <h4>Prototype B: Visual Prototype</h4>
                 <br>
+                
+                <div class="row">
+                    <div class="col-sm">
+                        <b>Activity: </b>
+                        <p>The creation of visual prototypes using magnets and 3D printed parts. User interviews were conducted including the prototypes (see next section).</p>
+                        <br>
+                        <br>
+
+                    </div>
+                    <div class="col-sm">
+                        <b>Key objective:</b>
+                        <p>To understand various product specifics:</p>
+                        <ul>
+                            <li>Magnet strength and conductivity</li>
+                            <li>Module size </li>
+                            <li>Magnets position </li>
+                            <li>Colour, material and finish</li>
+                            <li>Module shape</li>
+                        </ul>
+                        <br>
+                        <br>
+                    </div>
+                </div>            
+                
+                
+                
             </section>
         </div>
         <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
@@ -376,23 +400,6 @@
             <section id="concept_development">
                 <div class="row">
                     <div class="col-sm">
-                        <b>Activity: </b>
-                        <p>The creation of visual prototypes using magnets and 3D printed parts. User interviews were conducted including the prototypes (see next section).</p>
-                        <br>
-                        <br>
-                        <b>Key objective:</b>
-                        <p>To understand various product specifics:</p>
-                        <ul>
-                            <li>Magnet strength and conductivity</li>
-                            <li>Module size </li>
-                            <li>Magnets position </li>
-                            <li>Colour, material and finish</li>
-                            <li>Module shape</li>
-                        </ul>
-                        <br>
-                        <br>
-                    </div>
-                    <div class="col-sm">
                         <b>Feedback: </b>
                         <ul>
                             <li>Users felt that the modules were missing a visual cue after they snapped blocks together.</li>
@@ -401,6 +408,10 @@
                         </ul>
                         <br>
                         <br>
+                        
+                        
+                    </div>
+                    <div class="col-sm">
                         <b>Changes:</b>
                         <ul>
                             <li>We redesigned the modules to follow more rounded outlines and softer overall shapes, and a more homely material finish and feel. </li>
@@ -409,11 +420,9 @@
                         </ul>
                         <br>
                         <br>
-                        <br>
-                        <br>
                     </div>
                 </div>
-                <h6>Concept and Prototype User Testing </h6>
+                <h4>Concept and Prototype User Testing </h4>
             </section>
         </div>
         <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
