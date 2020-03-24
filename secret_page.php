@@ -217,13 +217,14 @@
             <br>
             <br>
             <h4>User Preference Analysis</h4><br>
-            <br>
-            <br>
+
             <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/user.png" class="d-block h-100 w-100" style="object-fit: cover; max-width: 800px; margin: auto;">
             <br>
             <br>
             <section id="competitor_analysis">
                 <h4>Competitive Product Analysis </h4>
+                <br>
+                <br>
                 <div class="row">
                     <div class="col-sm">
 
@@ -233,9 +234,6 @@
                         <br>
                     </div>
                     <div class="col-sm">
-                        <br>
-                        <br>
-                        <br>
                         <b>Activities: </b>
                         <p>Desk research into products available online, including a deep dive into the reviews for each. </p>
                         <br>
@@ -250,6 +248,7 @@
                 <h4>The Tech Junkie: Competition</h4>
                 <br>
                 <img style="max-width: 100%;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/techjunkie-comp.png">
+                <br>
                 <br>
                 <br>
                 <h4>The Home Improver: Competition</h4>
