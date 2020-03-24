@@ -357,7 +357,7 @@
 
                 <h4>Prototype B: Visual Prototype</h4>
                 <br>
-                
+
                 <div class="row">
                     <div class="col-sm">
                         <b>Activities: </b>
@@ -379,10 +379,10 @@
                         <br>
                         <br>
                     </div>
-                </div>            
-                
-                
-                
+                </div>
+
+
+
             </section>
         </div>
         <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
@@ -412,8 +412,8 @@
                         </ul>
                         <br>
                         <br>
-                        
-                        
+
+
                     </div>
                     <div class="col-sm">
                         <b>Changes:</b>
@@ -474,7 +474,7 @@
                         <br>
                     </div>
                 </div>
-            <h4>Hardware Design Iteration</h4>
+                <h4>Hardware Design Iteration</h4>
             </section>
         </div>
         <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
@@ -713,42 +713,55 @@
                 <h2>Validation: Website Roll Out!</h2>
                 <br>
                 <br>
-                <p>This website was designed to be a tool for validating whether our idea is attractive to potential customers. This was an exciting opportunity to finally expand our user testing outside London and the UK, and outside our circles. </p>
-                <br>
-                <p>To test the idea that the modules could be assembled at home, reinforcing the idea of ‘open’ design, while reducing manufacturing costs. Key ideas to test:</p>
-                <ul>
-                    <li>It can be targeted to the real audience through selectively posting material in related forums.</li>
-                    <li>It is realistic: customers will find the website through communities, forum posts and videos, just like customer acquisition in the final product.</li>
-                    <li>Design for manufacturing</li>
-                    <li>It is quantifiable: customer interest can be tracked by their journey through the site. Customers do not know they are being surveyed (unlike an interview), so act normally</li>
-                </ul>
+                <div class="row">
+                    <div class="col-sm">
+                        <p>This website was designed to be a tool for validating whether our idea is attractive to potential customers. This was an exciting opportunity to finally expand our user testing outside London and the UK, and outside our circles. </p>
+                        <br>
+                        <p>To test the idea that the modules could be assembled at home, reinforcing the idea of ‘open’ design, while reducing manufacturing costs. Key ideas to test -</p>
+
+                    </div>
+                    <div class="col-sm">
+                        <ul>
+                            <li>It can be targeted to the real audience through selectively posting material in related forums.</li>
+                            <li>It is realistic: customers will find the website through communities, forum posts and videos, just like customer acquisition in the final product.</li>
+                            <li>Design for manufacturing</li>
+                            <li>It is quantifiable: customer interest can be tracked by their journey through the site. Customers do not know they are being surveyed (unlike an interview), so act normally</li>
+                        </ul>
+                    </div>
+                </div>
                 <br>
                 <h4>Traction Testing</h4>
                 <br>
-                <br>
                 <p>The website was designed to appear, on first glance, as if a product was really for sale. This pretotyping technique, known as a ‘fake door’ is designed to gather information on the percentage of visitors that are interested in purchasing a product. Google Analytics was used to track website activity.</p>
-                <b>Activities: </b>
-                <ul>
-                    <li>A fully working website was set up a week before the deadline. y</li>
-                    <li>A short promotional video (separate to main video on home page) was prepared. </li>
-                    <li>Magnets position </li>
-                    <li>The video and website were posted on maker and smart home groups on Reddit and Facebook.</li>
-                    <li>Users were engaged with and comments replied to, facilitating conversation about the product. </li>
-                </ul> <br>
                 <br>
-                <b>Key objectives:</b>
-                <ul>
-                    <li>Estimate bounce rates, product page click-through rates, buy button click-through rates. </li>
-                    <li>Solicit feedback through a web form and forum comments.</li>
-                    <li>Gauge interest in open-source contribution through contributor sign-up form. </li>
-                    <li>Gauge Kickstarter campaign interest through newsletter sign-up form. </li>
-                    <li>Determine global geographic interest to identify target markets.</li>
-                </ul>
-                <br>
+                <div class="row">
+                    <div class="col-sm">
+                        <b>Activities: </b>
+                        <ul>
+                            <li>A fully working website was set up a week before the deadline. y</li>
+                            <li>A short promotional video (separate to main video on home page) was prepared. </li>
+                            <li>Magnets position </li>
+                            <li>The video and website were posted on maker and smart home groups on Reddit and Facebook.</li>
+                            <li>Users were engaged with and comments replied to, facilitating conversation about the product. </li>
+                        </ul> <br>
+                        <br>
+                    </div>
+                    <div class="col-sm">
+
+                        <b>Key objectives:</b>
+                        <ul>
+                            <li>Estimate bounce rates, product page click-through rates, buy button click-through rates. </li>
+                            <li>Solicit feedback through a web form and forum comments.</li>
+                            <li>Gauge interest in open-source contribution through contributor sign-up form. </li>
+                            <li>Gauge Kickstarter campaign interest through newsletter sign-up form. </li>
+                            <li>Determine global geographic interest to identify target markets.</li>
+                        </ul>
+                        <br>
+                    </div>
+                </div>
                 <b>Results:</b>
                 <p>Website Metrics as of 24/03/2020<br>
                     The video, description and links were shared in 10-15 small maker groups. Amazingly, the website has received: </p>
-                <br>
                 <br>
 
                 <span style="font-size: 35px;">1178</span><span style="font-size: 25px;"> unique sessions </span><span style="font-size: 18px;">from </span><span style="font-size: 35px;">68</span><span style="font-size: 25px;"> countries</span>
