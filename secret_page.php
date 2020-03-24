@@ -737,6 +737,9 @@
                 <br>
                 <p>The website was designed to appear, on first glance, as if a product was really for sale. This pretotyping technique, known as a ‘fake door’ is designed to gather information on the percentage of visitors that are interested in purchasing a product. Google Analytics was used to track website activity.</p>
                 <br>
+                
+                <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/laptop-valid.png">
+                <br><br>
                 <div class="row">
                     <div class="col-sm">
                         <b>Activities: </b>
@@ -987,18 +990,18 @@
                         <br>
                     </div>
                     <div class="col-sm">
-                        <h6>Validation Conclusions</h6>
+                        <h4>Validation Conclusions</h4>
                         <ol>
-                            <li>There is certainly interest from our target audience in the product idea. </li>
-                            <li>There is a good indication that valuable support for the open-source project movement could be found. </li>
-                            <li>Perceived value appears higher than expected, but response to a particular price point is still relatively unknown. </li>
+                            <li>There is <b>certainly</b> interest from our target audience in the product idea. </li>
+                            <li>There is a <b>good indication</b> that valuable support for the open-source project movement could be found. </li>
+                            <li>Perceived value appears <b>higher than expected</b>, but response to a particular price point is still relatively unknown. </li>
                         </ol>
                     </div>
                 </div>
                 <br>
                 <br>
-                <h6>Pricing strategy</h6>
-                <p>The following price points were chosen based on the competitor research and initial feedback on perceived value. These price points are the basis for the financial forecasting shown below. In the future, AB testing will be undertaken to trial user response at different price points. </p>
+                <h4>Pricing strategy</h4>
+                <p>The price points of £55 and £50 for the Starter Pack and Smart Plug pack were chosen based on the competitor research and initial feedback on perceived value. These price points are the basis for the financial forecasting in the Investment Note (Final Report). In the future, AB testing will be undertaken to trial user response at different price points. </p>
                 <div style="margin: auto;" class="card-deck pt-3">
                     <div class="card">
                         <img class="card-img-top" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH1.png">
@@ -1037,14 +1040,14 @@
             <div class="cont">
                 <br>
                 <br>
-                <h4>Product Development Path</h4>
+                <h4>Summary of Product Development Path</h4>
                 <br>
-                <h6>Steps Completed To-date </h6>
+                <h4>Steps Completed To-date </h4>
                 <br>
                 <img style="width:100%;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/blob.png">
                 <br>
                 <br>
-                <h6>Future Steps Towards Kickstarter and Beyond</h6>
+                <h4>Future Steps Towards Kickstarter and Beyond</h4>
                 <br>
                 <br>
                 <img style="width:100%;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/blob2.png">
