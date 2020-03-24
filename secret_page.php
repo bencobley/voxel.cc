@@ -353,7 +353,7 @@
                 </div>
                 <br>
 
-                <h4>Prototype B: Visual Prototype</h4>
+                <h4> <br>Prototype B: Visual Prototype</h4>
                 <br>
 
                 <div class="row">
@@ -484,7 +484,7 @@
                         <br>
                     </div>
                 </div>
-                <h4>Hardware Design Iteration</h4>
+                <h4 <br><br><br>>Hardware Design Iteration</h4>
             </section>
         </div>
         <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
@@ -510,7 +510,6 @@
                 <div class="row">
                     
                     <h4>
-                    <br>
                     <br>
                     <br>Prototype C: Assemble-at-home Prototype</h4>
                     <br>
