@@ -448,14 +448,8 @@
             <section id="concept_development">
                 <div class="row">
                     <div class="col-sm">
-<<<<<<< HEAD
-                        <br>
-                        <b>Activity: </b>
-                        <p>Running a stand at the Autodesk Makeathon 2020 to interview users. Brand imagery, visual prototype prompts and post-it note inspiration boards were used to discuss ideas. </p>
-=======
                         <b>Activities: </b>
-                        <p>Running a stand at the <a style="color:blue;" href="https://www.imperialhackspace.com/events/design-engineering-society-makeathon-2020/">Autodesk Makeathon 2020 <a>to interview users. Brand imagery, visual prototype prompts and post-it note inspiration boards were used to discuss ideas. </p>
->>>>>>> 4ddbd9e3c0172904b50aa6377be61b888e73fdd6
+                        <p>Running a stand at the Autodesk Makeathon 2020 to interview users. Brand imagery, visual prototype prompts and post-it note inspiration boards were used to discuss ideas. </p>
                         <br>
                         <br>
                         <b>Key objectives: </b>
@@ -480,12 +474,6 @@
                         <br>
                     </div>
                 </div>
-<<<<<<< HEAD
-            </section>
-            <br>
-            <br>
-=======
->>>>>>> 4ddbd9e3c0172904b50aa6377be61b888e73fdd6
             <h4>Hardware Design Iteration</h4>
             </section>
         </div>
@@ -599,14 +587,8 @@
                     <br>
                     <br>
                     <div class="col-sm">
-<<<<<<< HEAD
-                        <br>
-                        <br>
-                        <b>Activity: </b>
-=======
 
                         <b>Activities: </b>
->>>>>>> 4ddbd9e3c0172904b50aa6377be61b888e73fdd6
                         <p>Mock-up of the software aspect of the Voxel platform. </p>
                         <br>
                         <br>
