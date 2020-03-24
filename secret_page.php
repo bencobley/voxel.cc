@@ -41,23 +41,28 @@
                 <br>
                 <h2>Welcome</h2>
                 <br>
-                <p>This page provides investors with an overview of Voxel’s prototyping and user testing process, the feedback gained, and the resulting changes made.</p>
-                <br>
-                <p>Voxel is looking for £50,000 Seed Funding to support manufacturing efforts and fund development of a Kickstarter campaign.</a></p>
-                <a href="https://voxelmedia.s3.eu-west-2.amazonaws.com/report.pdf" class="btn btn-primary">Download May 2020 Investment Note</a>
-                <br>
-                <br>
-                <br>
-                <h4>About Us</h4>
-                <br>
-                <p>We are Voxel. We are a team of passionate makers, and we started this project after identifying a need in the community for a smart home that puts privacy, creativity and exploration first. Frustrated by data concerns and lack of configurability and customizability with existing solutions, we believe everyone deserves complete control over products they own.</p>
-                <br>
-                <p>In user testing, this idea strongly resonated with a diversity of like-minded people. <a style="color:blue;" href="#tractiontesting">Traction Testing <a> also showed good retention and click-through with makers on the site. Feedback has been overwhelmingly positive, so we will be launching a Kickstarter campaign.</p>
+                <div class="row">
+                <div class="col-sm"><p>This page provides investors with an overview of Voxel’s prototyping and user testing process, the feedback gained, and the resulting changes made.</p></div>
+                <div class="col-sm"><p>Voxel is looking for £50,000 Seed Funding to support manufacturing efforts and fund development of a Kickstarter campaign.</a></p>
+                <a href="https://voxelmedia.s3.eu-west-2.amazonaws.com/report.pdf" class="btn btn-primary">Download May 2020 Investment Note</a></div>
+                </div>
 
+                
+                <br>
+                <br>
+                <h2>About Us</h2>
+                <br>
+                <div class="row">
+        
+                <div class="col-sm"><p>We are Voxel. We are a team of passionate makers, and we started this project after identifying a need in the community for a smart home that puts privacy, creativity and exploration first. Frustrated by data concerns and lack of configurability and customizability with existing solutions, we believe everyone deserves complete control over products they own.</p><br></div>
+                <div class="col-sm"><p>In user testing, this idea strongly resonated with a diversity of like-minded people. <a style="color:blue;" href="#tractiontesting">Traction Testing <a> also showed good retention and click-through with makers on the site. Feedback has been overwhelmingly positive, so we will be launching a Kickstarter campaign.</p><br></div>
+        
+                </div>
+            
 
                 <br>
                 <br>
-                <h4>Team</h4>
+                <h2>Team</h2>
             </section>
         </div>
         <div style="margin: auto;">
