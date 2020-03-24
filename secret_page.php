@@ -677,12 +677,13 @@
                 <div class="cont">
                     <h4>User Feedback</h4>
                     <br>
-                    <p>We were blown away by the number of positive comments and uplifting feedback: the maker communities showed their strong supportive nature.  Our posts received approximately 1000+ likes/upvotes and 100 comments, all really well thought out. </p>
+                    <p>We were blown away by the number of positive comments and uplifting feedback: the maker communities showed their strong supportive nature. Our posts received approximately 1000+ likes/upvotes and 100 comments, all really well thought out. </p>
                     <br>
                     <br>
                     <b>General comments</b>
                     <br>
                     <br>
+                    <p>We targeted maker communities and forums on reddit and facebook and received over 100 pieces written of feedback from makers, including many who were evidently experts in the field. In particular, the project was well received with regard to being open-source and private. Click to see some of the comments below. </p>
                     <br>
                     <div style="max-width: 50%; margin: auto;">
                         <blockquote class="blockquote">
@@ -731,8 +732,9 @@
                 </div>
                 <div class="cont">
                     <br>
-                    <b>Specific Tech Questions</b>
+                    <b>Tech Questions</b>
                     <br>
+                    <p>From this research we realised we needed to show deeper technical specification and to differentiate ourselves from existing open source smart home platforms that only provide software. Click to see some of the comments below. </p>
                     <br>
                     <br>
                     <div style="max-width: 50%; margin: auto;">
@@ -783,7 +785,7 @@
                     <b>Price</b>
                     <br>
                     <br>
-                    <p>Specific research was conducted to establish how much the target market would be willing to pay for the starter pack. From x results the average price was around $x, and this figure was used to inform the P&L spreadsheet. Several makers also expressed interest in collaborating and contributing to the open source software and we have created an email database of these potential contributors, as well as a database of those interested in updates about the kickstarter.</p>
+                    <p>Specific research was conducted to establish how much the target market would be willing to pay for the starter pack. Based on the user feedback, again prices ranged around £50-100. Click to see some of the comments below. </p>
                     <br>
                     <br>
                     <div style="max-width: 50%; margin: auto;">
@@ -818,13 +820,11 @@
                     <b>Contributers</b>
                     <br>
                     <br>
+                    <p>The manufacturer of the ESP8266 chip, around which our concept is based, has contacted us both by commenting directly under the posts and our Facebook page. We are currently in contact with them to discuss further collaboration opportunities. </p>
                     <br>
                     <div style="max-width: 50%; margin: auto;">
                         <blockquote class="blockquote">
-                            <p>I think one of the main things missing from what's out there at the moment, is plug and play hardware combined with a decent reporting interface. That someone non - techie but interested in automating/monitoring their homes, would enjoy looking at and derive value and insight from.
-
-                                Where are you based? Are you looking for collaborators?</p>
-                        </blockquote>
+                        <img style="width: 100%; height: 450px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/esp.png">                        </blockquote>
                         <button class="btn btn-primary" onclick="hide3()" style="margin-left: 35px;">Show All Comments</button>
                     </div>
                     <br>
@@ -845,7 +845,7 @@
                 <br>
                 <br>
                 <br>
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/10.jpg" class="d-block h-100 w-100" style="object-fit: cover; max-width: 800px; margin: auto;">
+
                 <br>
                 <br>
                 <ul style="text-align:center">
