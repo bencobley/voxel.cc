@@ -42,23 +42,31 @@
                 <h2>Welcome</h2>
                 <br>
                 <div class="row">
-                <div class="col-sm"><p>This page provides investors with an overview of Voxel’s prototyping and user testing process, the feedback gained, and the resulting changes made.</p></div>
-                <div class="col-sm"><p>Voxel is looking for £50,000 Seed Funding to support manufacturing efforts and fund development of a Kickstarter campaign.</a></p>
-                <a href="https://voxelmedia.s3.eu-west-2.amazonaws.com/report.pdf" class="btn btn-primary">Download May 2020 Investment Note</a></div>
+                    <div class="col-sm">
+                        <p>This page provides investors with an overview of Voxel’s prototyping and user testing process, the feedback gained, and the resulting changes made.</p>
+                    </div>
+                    <div class="col-sm">
+                        <p>Voxel is looking for £50,000 Seed Funding to support manufacturing efforts and fund development of a Kickstarter campaign.</a></p>
+                        <a href="https://voxelmedia.s3.eu-west-2.amazonaws.com/report.pdf" class="btn btn-primary">Download May 2020 Investment Note</a>
+                    </div>
                 </div>
 
-                
+
                 <br>
                 <br>
                 <h2>About Us</h2>
                 <br>
                 <div class="row">
-        
-                <div class="col-sm"><p>We are Voxel. We are a team of passionate makers, and we started this project after identifying a need in the community for a smart home that puts privacy, creativity and exploration first. Frustrated by data concerns and lack of configurability and customizability with existing solutions, we believe everyone deserves complete control over products they own.</p><br></div>
-                <div class="col-sm"><p>In user testing, this idea strongly resonated with a diversity of like-minded people. <a style="color:blue;" href="#tractiontesting">Traction Testing <a> also showed good retention and click-through with makers on the site. Feedback has been overwhelmingly positive, so we will be launching a Kickstarter campaign.</p><br></div>
-        
+
+                    <div class="col-sm">
+                        <p>We are Voxel. We are a team of passionate makers, and we started this project after identifying a need in the community for a smart home that puts privacy, creativity and exploration first. Frustrated by data concerns and lack of configurability and customizability with existing solutions, we believe everyone deserves complete control over products they own.</p><br>
+                    </div>
+                    <div class="col-sm">
+                        <p>In user testing, this idea strongly resonated with a diversity of like-minded people. <a style="color:blue;" href="#tractiontesting">Traction Testing <a> also showed good retention and click-through with makers on the site. Feedback has been overwhelmingly positive, so we will be launching a Kickstarter campaign.</p><br>
+                    </div>
+
                 </div>
-            
+
 
                 <br>
                 <br>
@@ -216,7 +224,7 @@
             <br>
             <br>
             <section id="competitor_analysis">
-            <h4>Competitive Product Analysis </h4>
+                <h4>Competitive Product Analysis </h4>
                 <div class="row">
                     <div class="col-sm">
                         <br>
@@ -240,7 +248,7 @@
                         <br>
                     </div>
                 </div>
-                
+
                 <h6>The Tech Junkie: Competition</h6>
                 <img style="max-width: 100%;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/techjunkie-comp.png">
                 <br>
@@ -302,13 +310,14 @@
                         <br>
                         <br>
                     </div>
-                <div class="col-sm"></div>
-                    <b>Key objectives:</b>
-                    <p>To test the technical feasibility of the Cubes product idea, and establish which services could be integrated. This was critical in designing a product for the maker market, as users have a strong understanding of technical feasibility.</p>
-                    <br>
-                    <br>
-                    <br>
-                </div>                
+                    <div class="col-sm">
+                        <b>Key objectives:</b>
+                        <p>To test the technical feasibility of the Cubes product idea, and establish which services could be integrated. This was critical in designing a product for the maker market, as users have a strong understanding of technical feasibility.</p>
+                        <br>
+                        <br>
+                        <br>
+                    </div>
+                </div>
                 <br>
             </section>
         </div>
@@ -327,7 +336,6 @@
 
         <div class="cont">
             <section>
-                
                 <br>
                 <div class="row">
                     <div class="col-sm"><b>Feedback: </b>
@@ -335,35 +343,17 @@
                         <br>
                         <br>
                     </div>
-                <div class="col-sm">
-                       <b>Changes:</b>
+                    <div class="col-sm">
+                        <b>Changes:</b>
                         <p> We realised that while the LED matrix fully matched the block dimensions, the sensors’ circuit was considerably smaller. To optimise space and reduce costs, the sensors’ embodiment was reimagined into a flat tile-shaped module.</p>
                         <br>
                         <br>
                         <br>
-                </div>                
+                    </div>
+                </div>
                 <br>
-                
-                
-                
-             
+
                 <h4>Prototype B: Visual Prototype</h4>
-                <br>
-                <br>
-                <b>Activities: </b>
-                <p>The creation of visual prototypes using magnets and 3D printed parts. User interviews were conducted including the prototypes (see next section).</p>
-                <br>
-                <br>
-                <b>Key objectives:</b>
-                <p>To understand various product specifics:</p>
-                <ul>
-                    <li>Magnet strength and conductivity</li>
-                    <li>Module size </li>
-                    <li>Magnets position </li>
-                    <li>Colour, material and finish</li>
-                    <li>Module shape</li>
-                </ul>
-                <br>
                 <br>
             </section>
         </div>
