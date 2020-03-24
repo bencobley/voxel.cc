@@ -117,14 +117,11 @@
                     <p>The idea for this business was motivated by a desire to solve a problem that affected us personally as makers. It was now time to explore whether the same problems are faced by other people.</p>
                     <br>
                     <div class="col-sm">
-                        <br>
-                        <br>
-                        <b>Key objectives</b>
+                        <b>Key objectives:</b>
                         <br>
                         <p>To understand what being a ‘maker’ really means, understand who this product applies to, and develop personas that will enable us to meet user needs. </p>
                         <br>
-                        <br>
-                        <b>Activities</b>
+                        <b>Activities:</b>
                         <br>
                         <p>We are fortunate to be part of a community of maker-minded people at Imperial; in the Design Engineering Department and at the Advanced Hackspace. We also spoke to parents in the Department, friends and family, and educators in making. </p>
                         <br>
@@ -133,12 +130,11 @@
                         <br>
                     </div>
                     <div class="col-sm">
-                        <b>Results</b>
+                        <b>Results:</b>
                         <br>
                         <p>We were surprised to find that our target user group ‘makers’ was really four distinct segments. The feedback was highly valuable in showing that interest in the product was motivated by various different needs. Personas were developed to capture these segments.</p>
                         <br>
-                        <br>
-                        <b>Changes</b>
+                        <b>Changes:</b>
                         <br>
                         <p>Analysis and review of user interviews, helping develop accurate persona profiles that encapsulated the needs and preferences of the four specific subgroups. </p>
                         <br>
@@ -147,8 +143,7 @@
                     </div>
                 </div>
                 <div class="cont" style="background-color: <?php echo $tertiary_colour; ?>;">
-                    <h6>Persona Development</h6>
-                    <br>
+                    <h4>Persona Development</h4>
                     <br>
                     <div>
                         <div class="row">
@@ -238,13 +233,14 @@
                         <b>Activities: </b>
                         <p>Desk research into products available online, including a deep dive into the reviews for each. </p>
                         <br>
-                    </div>
-                </div>
-                <b>Results:</b>
+                        <b>Results:</b>
                         <p>Table summarising functions, price, pro and cons of competitors for each subgroup. </p>
                         <br>
                         <br>
                         <br>
+                    </div>
+                </div>
+                
                 <h6>The Tech Junkie: Competition</h6>
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
                 <br>
@@ -270,11 +266,11 @@
             <section id="competitor_analysis" style="padding: 20px; background-color: <?php echo $tertiary_colour; ?>;">
                 <h4>How Does Voxel Differ From the Competition?</h4>
                 <br>
-                <p>Our vision is unique in encapsulating all of the below:</p>
+                <p style="font-style: italic">Our vision is unique in encapsulating all of the below:</p>
                 <ol>
-                    <li> A fully open-source, privacy first ecosystem.</li>
-                    <li> Modular, infinitely expandable and easy to use hardware. </li>
-                    <li> An exciting community where creators can share their projects and find inspiration. </li>
+                    <li style="font-style: italic"> A fully open-source, privacy first ecosystem.</li>
+                    <li style="font-style: italic"> Modular, infinitely expandable and easy to use hardware. </li>
+                    <li style="font-style: italic"> An exciting community where creators can share their projects and find inspiration. </li>
                 </ol>
             </section>
             <br>
