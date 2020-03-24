@@ -738,7 +738,7 @@
                     <div class="col-sm">
                         <b>Activities: </b>
                         <ul>
-                            <li>A fully working website was set up a week before the deadline. y</li>
+                            <li>A fully working website was set up a week before the deadline.</li>
                             <li>A short promotional video (separate to main video on home page) was prepared. </li>
                             <li>Magnets position </li>
                             <li>The video and website were posted on maker and smart home groups on Reddit and Facebook.</li>
