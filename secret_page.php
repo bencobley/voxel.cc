@@ -217,7 +217,7 @@
             <h4>User Preference Analysis</h4><br>
             <br>
             <br>
-            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png" class="d-block h-100 w-100" style="object-fit: cover; max-width: 800px; margin: auto;">
+            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/user.png" class="d-block h-100 w-100" style="object-fit: cover; max-width: 800px; margin: auto;">
             <br>
             <br>
             <section id="competitor_analysis">
