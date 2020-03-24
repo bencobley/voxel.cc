@@ -444,7 +444,6 @@
             <section id="concept_development">
                 <div class="row">
                     <div class="col-sm">
-                        <br>
                         <b>Activities: </b>
                         <p>Running a stand at the <a style="color:blue;" href="https://www.imperialhackspace.com/events/design-engineering-society-makeathon-2020/">Autodesk Makeathon 2020 <a>to interview users. Brand imagery, visual prototype prompts and post-it note inspiration boards were used to discuss ideas. </p>
                         <br>
