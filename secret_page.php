@@ -940,33 +940,6 @@
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cont/4.jpg" class="slickimage3">
                 </div>
             </div>
-
-            <div class="cont">
-                <br>
-                <br>
-                <h4>Traction Testing</h4>
-                <p>During our research on social media we left links to our website and sign-up links to our community. Our website portrays our starter pack as a finished product and includes a ‘fake door’ buy button to gather information on what percentage of website visitors would purchase our starter pack. We used google analytics to track our website activity.</p>
-                <br>
-                <br>
-                <br>
-
-                <br>
-                <br>
-                <ul style="text-align:center">
-                    <h2>&bull; 11% buy button click-through rate</h2><br>
-                    <h2>&bull; 37.6% product page click-through rate</h2><br>
-                    <h2>&bull; 1000 unique sessions from 68 countries</h2><br>
-                </ul>
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-
-
-
-            </div>
         </section>
     </main>
 
