@@ -132,7 +132,7 @@
                         <br>
                         <p>We are fortunate to be part of a community of maker-minded people at Imperial; in the Design Engineering Department and at the Advanced Hackspace. We also spoke to parents in the Department, friends and family, and educators in making. </p>
                         <br>
-                        <p>In total 20+ hours of qualitative <a style="color: blue;" href="https://docs.google.com/forms/d/e/1FAIpQLSc6KoAXBtrIV0qBu7Vs1T4wgZgos4d34oR-uLv1ILZToXfi-Q/viewform?usp=sf_link">long-format user interviews</a> were undertaken with participants of all ages, and a range of experience in making and smart homes. We appreciated that the diversity of backgrounds of interviewees was limited, however this provided a good start. </p>
+                        <p>In total 20+ hours of qualitative long-format user interviews were undertaken with participants of all ages, and a range of experience in making and smart homes. We appreciated that the diversity of backgrounds of interviewees was limited, however this provided a good start. </p>
                         <br>
                         <br>
                     </div>
@@ -226,8 +226,7 @@
                 <h4>Competitive Product Analysis </h4>
                 <div class="row">
                     <div class="col-sm">
-                        <br>
-                        <br>
+
                         <b>Key objectives:</b>
                         <p>To understand why a customer would or would not choose to invest in a Voxel product, and the price points at which we are competing. To understand commonalities between customers and areas in which Voxel can differentiate itself. </p>
                         <br>
@@ -248,7 +247,7 @@
                     </div>
                 </div>
 
-                <h6>The Tech Junkie: Competition</h6>
+                <h4>The Tech Junkie: Competition</h4>
                 <br>
                 <img style="max-width: 100%;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/techjunkie-comp.png">
                 <br>
@@ -552,7 +551,6 @@
                         <ul>
                             <li>We simplified the assembly process by narrowing it down to 4 steps.</li>
                             <li>The internal CAD design of the device was redesigned to guide the user as it slides in the components.</li>
-                            <li>Design for manufacturing</li>
                             <li>We improved the packaging by designing and including a storyboard that users can refer to during the assembly process.</li>
                         </ul>
                         <br>
@@ -562,7 +560,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <h6>Software UI Development</h6>
+                    <h4>Software UI Development</h4>
                     <br>
                     <br>
                     <br>
@@ -721,7 +719,6 @@
                         <ul>
                             <li>It can be targeted to the real audience through selectively posting material in related forums.</li>
                             <li>It is realistic: customers will find the website through communities, forum posts and videos, just like customer acquisition in the final product.</li>
-                            <li>Design for manufacturing</li>
                             <li>It is quantifiable: customer interest can be tracked by their journey through the site. Customers do not know they are being surveyed (unlike an interview), so act normally</li>
                         </ul>
                     </div>
@@ -735,7 +732,7 @@
                     <div class="col-sm">
                         <b>Activities: </b>
                         <ul>
-                            <li>A fully working website was set up a week before the deadline. y</li>
+                            <li>A fully working website was set up a week before the deadline.</li>
                             <li>A short promotional video (separate to main video on home page) was prepared. </li>
                             <li>Magnets position </li>
                             <li>The video and website were posted on maker and smart home groups on Reddit and Facebook.</li>
