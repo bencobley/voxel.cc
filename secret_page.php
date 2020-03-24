@@ -428,7 +428,26 @@
                         <br>
                     </div>
                 </div>
-                <h4>Concept and Prototype User Testing </h4>
+                
+                <h4> <br>
+                <br>
+                <br>Concept and Prototype User Testing </h4>
+                    <div class="row">
+                    <div class="col-sm">
+                        <b>Activities: </b>
+                        <p>Running a stand at the Autodesk Makeathon 2020 to interview users. Brand imagery, visual prototype prompts and post-it note inspiration boards were used to discuss ideas. </p>
+                        <br>
+                        <br>
+
+                    </div>
+                    <div class="col-sm">
+                        <b>Feedback: </b>
+                        <b>Key objectives: </b>
+                        <p>To investigate the user interaction appeal of snapping modules together to assemble the components needed for a project. To understand whether the perceived value added in packaging components into modules warrants the additional price. To discuss what projects users might be interested in undertaking with Voxel. </p>
+                        <br>
+                        <br>
+                    </div>
+                </div>
             </section>
         </div>
         <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
@@ -450,16 +469,6 @@
             <section id="concept_development">
                 <div class="row">
                     <div class="col-sm">
-                        <b>Activities: </b>
-                        <p>Running a stand at the Autodesk Makeathon 2020 to interview users. Brand imagery, visual prototype prompts and post-it note inspiration boards were used to discuss ideas. </p>
-                        <br>
-                        <br>
-                        <b>Key objectives: </b>
-                        <p>To investigate the user interaction appeal of snapping modules together to assemble the components needed for a project. To understand whether the perceived value added in packaging components into modules warrants the additional price. To discuss what projects users might be interested in undertaking with Voxel. </p>
-                        <br>
-                        <br>
-                    </div>
-                    <div class="col-sm">
                         <b>Feedback: </b>
                         <ul>
                             <li>The price users were expecting to pay was far higher than our original expectations, perceived value was high: averaging around £100, we expected around £50. </li>
@@ -467,6 +476,9 @@
                             <li>The possibility in projects did not come across well in communication. </li>
                         </ul>
                         <br>
+                    </div>
+                    <div class="col-sm">
+
                         <b>Changes:</b>
                         <ul>
                             <li>We designed more than 20 new demonstration display interactions for specific use cases suggested by users.</li>
@@ -500,12 +512,11 @@
         <div class="cont">
             <section id="concept_development">
                 <div class="row">
+                    
+                    <h4>
                     <br>
                     <br>
-                    <br>
-                    <br>
-                    <br>
-                    <h4>Prototype C: Assemble-at-home Prototype</h4>
+                    <br>Prototype C: Assemble-at-home Prototype</h4>
                     <br>
                     <br>
                     <video style="width: 100%; height: 450px;" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
@@ -790,7 +801,7 @@
             </div>
             <div style="background-color: <?php echo $tertiary_colour; ?>; padding: 20px 0;">
                 <div class="cont">
-                    <h2>User Feedback</h2>
+                    <h4>User Feedback</h4>
                     <br>
                     <p>We were blown away by the number of positive comments and uplifting feedback: the maker communities showed their strong supportive nature. Our posts received approximately 1000+ likes/upvotes and 100 comments, all really well thought out. </p>
                     <br>
