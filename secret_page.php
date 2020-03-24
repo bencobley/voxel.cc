@@ -293,18 +293,22 @@
         </div>
 
         <div class="cont">
-            <section id="concept_development">
+            <section>
                 <h4>Prototype A: Technical Validation</h4>
                 <br>
-                <br>
-                <b>Activities: </b>
-                <p>A technical prototype was built, made up of the components that form the modules in the Cubes concept. </p>
-                <br>
-                <br>
-                <b>Key objectives:</b>
-                <p>To test the technical feasibility of the Cubes product idea, and establish which services could be integrated. This was critical in designing a product for the maker market, as users have a strong understanding of technical feasibility.</p>
-                <br>
-                <br>
+                <div class="row">
+                    <div class="col-sm"><b>Activities: </b>
+                        <p>A technical prototype was built, made up of the components that form the modules in the Cubes concept. </p>
+                        <br>
+                        <br>
+                    </div>
+                <div class="col-sm"></div>
+                    <b>Key objectives:</b>
+                    <p>To test the technical feasibility of the Cubes product idea, and establish which services could be integrated. This was critical in designing a product for the maker market, as users have a strong understanding of technical feasibility.</p>
+                    <br>
+                    <br>
+                    <br>
+                </div>                
                 <br>
             </section>
         </div>
@@ -322,16 +326,27 @@
         <br>
 
         <div class="cont">
-            <section id="concept_development">
-                <b>Feedback: </b>
-                <p> The prototype demonstrated that the technical challenge of assembling a diverse range of modules into a modularised system was possible. The internal components are fundamentally simple, the next challenge was to package them in such a way that communicates the added value of a modular system.</p>
+            <section>
+                
                 <br>
+                <div class="row">
+                    <div class="col-sm"><b>Feedback: </b>
+                        <p> The prototype demonstrated that the technical challenge of assembling a diverse range of modules into a modularised system was possible. The internal components are fundamentally simple, the next challenge was to package them in such a way that communicates the added value of a modular system.</p>
+                        <br>
+                        <br>
+                    </div>
+                <div class="col-sm">
+                       <b>Changes:</b>
+                        <p> We realised that while the LED matrix fully matched the block dimensions, the sensors’ circuit was considerably smaller. To optimise space and reduce costs, the sensors’ embodiment was reimagined into a flat tile-shaped module.</p>
+                        <br>
+                        <br>
+                        <br>
+                </div>                
                 <br>
-                <b>Changes:</b>
-                <p> We realised that while the LED matrix fully matched the block dimensions, the sensors’ circuit was considerably smaller. To optimise space and reduce costs, the sensors’ embodiment was reimagined into a flat tile-shaped module.</p>
-                <br>
-                <br>
-                <br>
+                
+                
+                
+             
                 <h4>Prototype B: Visual Prototype</h4>
                 <br>
                 <br>
