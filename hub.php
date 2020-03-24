@@ -37,7 +37,7 @@ if (isset($_POST['password']) && isset($_POST['email'])) {
 
     <main role="main">
 
-        <div class="jumbotron pt-5 pb-5">
+        <div class="jumbotron pt-5 pb-5" style="background-size: 100vw; background-image: url('https://voxelmedia.s3.eu-west-2.amazonaws.com/CO/banner.png');">
             <h1 class="pt-5">Join the movement</h1>
 
             <div class="mx-auto p-4 mt-5 mb-5" style="max-width: 400px; background-color: #ddd; border-radius: 5px;">

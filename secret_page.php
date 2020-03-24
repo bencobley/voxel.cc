@@ -403,22 +403,30 @@
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cad/6.png" class="slickimage3">
             </div>
             <div class="cont">
-            <br>
+                <br>
                 <br>
                 <br>
                 <h6>Assembly Prototype</h6>
                 <br>
-                <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                <video style="width: 100%; height: 300px;"  playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
                     <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/assem.mp4" type="video/mp4">
                 </video>
                 <br>
                 <br>
                 <br>
-                <h6>Software UI Development</h6>
-                <br>
-                <p>When developing the software user interface and programming platform, it was important to cater for all ability levels. The beginner user who has no experience programming is able to download projects from our community with a single click, or use simple ‘drag and drop’ graphical coding based on an open source project such as blockly.</p>
-                <br>
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png" class="d-block h-100 w-100" style="object-fit: cover; max-width: 800px; margin: auto;">
+                <div class="row">
+                    <div class="col-sm">
+                        <h6>Software UI Development</h6>
+                        <br>
+                        <p>When developing the software user interface and programming platform, it was important to cater for all ability levels. The beginner user who has no experience programming is able to download projects from our community with a single click, or use simple ‘drag and drop’ graphical coding based on an open source project such as blockly.</p>
+                        <br>
+                    </div>
+                    <div class="col-sm">
+                        <video style="width: 100%; height: 300px;" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                            <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/ui.mp4" type="video/mp4">
+                        </video>
+                    </div>
+                </div>
                 <br>
                 <p>More advanced users are able to dig deeper into the platform and unlock greater control using Python and those with the highest technical knowledge can leave the Voxel platform behind completely, write their own firmware in c++ and flash it to their devices. Our products are designed to make this process as easy as possible.</p>
                 <br>
@@ -426,7 +434,6 @@
                 <br>
                 <br>
                 <br>
-
                 <div class="row">
                     <div class="col-sm">
                         <h6>Working Prototype</h6>
