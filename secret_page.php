@@ -50,24 +50,27 @@
                         <a href="https://voxelmedia.s3.eu-west-2.amazonaws.com/Final_report.pdf" class="btn btn-primary">Download May 2020 Investment Note</a>
                     </div>
                 </div>
-
-
+                <br>
+                <br>
+                <br>
+            </section>
+        </div>
+        <img style="padding-left: auto; padding-right: auto; width: 90vw;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/blob.png">
+        <div class="cont">
+            <section id="company_summary">
+                <br>
                 <br>
                 <br>
                 <h2>About Us</h2>
                 <br>
                 <div class="row">
-
                     <div class="col-sm">
                         <p>We are Voxel. We are a team of passionate makers, and we started this project after identifying a need in the community for a smart home that puts privacy, creativity and exploration first. Frustrated by data concerns and lack of configurability and customizability with existing solutions, we believe everyone deserves complete control over products they own.</p><br>
                     </div>
                     <div class="col-sm">
-                        <p>In user testing, this idea strongly resonated with a diversity of like-minded people. <a style="color:blue;" href="#tractiontesting">Traction Testing <a> also showed good retention and click-through with makers on the site. Feedback has been overwhelmingly positive, so we will be launching a Kickstarter campaign.</p><br>
+                        <p>In user testing, this idea strongly resonated with a diversity of like-minded people. <a style="color: <?php echo $effortless_monitoring_background; ?>;" href="#validation">Traction Testing <a> also showed good retention and click-through with makers on the site. Feedback has been overwhelmingly positive, so we will be launching a Kickstarter campaign.</p><br>
                     </div>
-
                 </div>
-
-
                 <br>
                 <br>
                 <h2>Team</h2>
@@ -550,7 +553,6 @@
                         <br>
                         <br>
                         <b>Changes:</b>
-                        <p>To test the idea that the modules could be assembled at home, reinforcing the idea of ‘open’ design, while reducing manufacturing costs. Key ideas to test:</p>
                         <ul>
                             <li>We simplified the assembly process by narrowing it down to 4 steps.</li>
                             <li>The internal CAD design of the device was redesigned to guide the user as it slides in the components.</li>
@@ -717,10 +719,9 @@
                     <div class="col-sm">
                         <p>This website was designed to be a tool for validating whether our idea is attractive to potential customers. This was an exciting opportunity to finally expand our user testing outside London and the UK, and outside our circles. </p>
                         <br>
-                        <p>To test the idea that the modules could be assembled at home, reinforcing the idea of ‘open’ design, while reducing manufacturing costs. Key ideas to test -</p>
-
                     </div>
                     <div class="col-sm">
+                        <p>This method is believed to be an extremely accurate indicator of consumer interest:</p>
                         <ul>
                             <li>It can be targeted to the real audience through selectively posting material in related forums.</li>
                             <li>It is realistic: customers will find the website through communities, forum posts and videos, just like customer acquisition in the final product.</li>
