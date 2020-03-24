@@ -505,18 +505,16 @@
         </div>
         <div class="cont">
             <section id="concept_development">
-                <br>
-                <br>
                 <h4>Prototype C: Assemble-at-home Prototype</h4>
-                    <br>
                     <br>
                     <br>
                 
                 <div class="row">
 
                     <div class="col-sm">
-                        <b>Activities: </b>
+                        <br> <b>Activities: </b>
                         <p>Hands-on testing with assemble-at-home prototype. For this quick test, participants were readily available friends and family (and other group members!).</p>
+                        <br>
                         <br>
                         
                     </div>
@@ -550,10 +548,10 @@
                         <p>Hands-on testing with assemble-at-home prototype. For this quick test, participants were readily available friends and family (and other group members!).</p>
                         <br>
                         <br>
-                        <b>Changes:</b>
-                        <p>To test the idea that the modules could be assembled at home, reinforcing the idea of ‘open’ design, while reducing manufacturing costs. Key ideas to test:</p>
                     </div>
                     <div class="col-sm">
+                        <b>Changes:</b>
+                        <p>To test the idea that the modules could be assembled at home, reinforcing the idea of ‘open’ design, while reducing manufacturing costs. Key ideas to test:</p>
                         <ul>
                             <li>We simplified the assembly process by narrowing it down to 4 steps.</li>
                             <li>The internal CAD design of the device was redesigned to guide the user as it slides in the components.</li>
