@@ -334,8 +334,7 @@
                 <br>
                 <br>
             </div>
-            <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;" id="carousel4">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/7.jpg" class="slickimage3">
+            <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
                 <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
                     <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/front_sound.MP4" type="video/mp4">
                 </video>
@@ -348,6 +347,7 @@
                 <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
                     <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/sound_block1.MP4" type="video/mp4">
                 </video>
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/7.jpg" class="slickimage3">
             </div>
             <div class="cont">
                 <br>
@@ -363,10 +363,10 @@
                 <br>
                 <br>
             </div>
-            <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;" id="carousel4">
+            <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/12.jpg" class="slickimage3">
                 <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/11.mp4" type="video/mp4">
+                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/pcb.mp4" type="video/mp4">
                 </video>
                 <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
                     <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/13.mp4" type="video/mp4">
@@ -380,7 +380,7 @@
                 <h6>Design and Development</h6>
                 <br>
             </div>
-            <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;" id="carousel4">
+            <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/sketch/1.PNG" class="slickimage3">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/sketch/3.PNG" class="slickimage3">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/sketch/4.PNG" class="slickimage3">
@@ -395,7 +395,7 @@
                 <h6>Hardware Design Iteration</h6>
                 <br>
             </div>
-            <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;" id="carousel4">
+            <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cad/1.png" class="slickimage3">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cad/3.png" class="slickimage3">
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cad/4.png" class="slickimage3">
@@ -453,15 +453,20 @@
                 <p>The working prototype allowed us to conduct one on one interviews demonstrating hands-on interaction with the prototype and gaining more feedback about the product and concept. We expanded our reach beyond users with maker and tech experience and found that our privacy values resonated well in our focus groups.</p>
                 <br>
             </div>
-            <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;" id="carousel4">
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/FG3.JPG" class="slickimage3">
+            <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
+                <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/11.mp4" type="video/mp4">
+                </video>
                 <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
                     <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/FG2.mp4" type="video/mp4">
                 </video>
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/3.jpg" class="slickimage3">
+                <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/10.mp4" type="video/mp4">
+                </video>
                 <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
                     <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/FG1.mp4" type="video/mp4">
                 </video>
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/FG3.JPG" class="slickimage3">
             </div>
             <div class="cont">
                 <br>
@@ -539,7 +544,7 @@
                         <blockquote class="blockquote">
                             <p>The best feature is probably that it integrates with those other platforms. I think integration is probably the key to success in this field. Home automation and IoT in general are just starting to get past the stage where personal computers were in the mid-80s, when we had Apple, IBM, Commodore, Amiga and a host of others, each in its own silo.</p>
                         </blockquote>
-                        <button class="btn btn-primary" style="margin-left: 35px;">Show All Comments</button>
+                        <button class="btn btn-primary" onclick="hide2()" style="margin-left: 35px;">Show All Comments</button>
                     </div>
                     <br>
                 </div>
@@ -590,7 +595,7 @@
                         <blockquote class="blockquote">
                             <p>My suggestion is use a SMB for a server (if required), as it's a pain to run openhab sometimes. I would say, for a starter pack between $50-100, again depending on what goes in it.</p>
                         </blockquote>
-                        <button class="btn btn-primary" style="margin-left: 35px;">Show All Comments</button>
+                        <button class="btn btn-primary" onclick="hide3()" style="margin-left: 35px;">Show All Comments</button>
                     </div>
                     <br>
                 </div>
@@ -625,11 +630,11 @@
 
                                 Where are you based? Are you looking for collaborators?</p>
                         </blockquote>
-                        <button class="btn btn-primary" style="margin-left: 35px;">Show All Comments</button>
+                        <button class="btn btn-primary" onclick="hide3()" style="margin-left: 35px;">Show All Comments</button>
                     </div>
                     <br>
                 </div>
-                <div class="slickcarousel mx-auto" style="display: none; max-width: 2000px; padding: 10px;" id="carousel5">
+                <div class="slickcarousel mx-auto" style="display: none; max-width: 2000px; padding: 10px;" id="carousel4">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cont/1.jpg" class="slickimage3">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cont/2.jpg" class="slickimage3">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cont/3.jpg" class="slickimage3">
@@ -706,7 +711,7 @@
         }
 
         function hide4() {
-            var x = document.getElementById("carousel5");
+            var x = document.getElementById("carousel4");
             if (x.style.display === "none") {
                 x.style.display = "block";
             } else {
