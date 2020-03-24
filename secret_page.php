@@ -470,7 +470,6 @@
                         <br>
                     </div>
                 </div>
-            </section>
             <h4>Hardware Design Iteration</h4>
             </section>
         </div>
