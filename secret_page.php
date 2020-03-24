@@ -154,7 +154,7 @@
                             <div class="col-sm">
                                 <br>
                                 <br>
-                                <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/techjunkie-comp.png">
+                                <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/personas/1.png">
                             </div>
                         </div>
                         <br>
@@ -168,7 +168,7 @@
                             <div class="col-sm">
                                 <br>
                                 <br>
-                                <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/homeimprover-comp.png">
+                                <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/personas/2.png">
                             </div>
                         </div>
                         <br>
@@ -182,7 +182,7 @@
                             <div class="col-sm">
                                 <br>
                                 <br>
-                                <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/beginnertinkerer-comp.png">
+                                <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/personas/3.png">
                             </div>
                         </div>
                         <br>
@@ -196,7 +196,7 @@
                             <div class="col-sm">
                                 <br>
                                 <br>
-                                <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/advancedhacker-comp.png">
+                                <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/personas/4.png">
                             </div>
                             <div style="clear: both"></div>
                         </div>
@@ -222,7 +222,7 @@
                         <br>
                         <br>
                         <b>Key objectives:</b>
-                        <p>To understand why a customer would or would not choose to invest in a Voxel product, and the price points at which we are competing. <br><br> To understand commonalities between customers and areas in which Voxel can differentiate itself. </p>
+                        <p>To understand why a customer would or would not choose to invest in a Voxel product, and the price points at which we are competing. To understand commonalities between customers and areas in which Voxel can differentiate itself. </p>
                         <br>
                         <br>
                     </div>
@@ -242,21 +242,21 @@
                 </div>
                 
                 <h6>The Tech Junkie: Competition</h6>
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/sp/techjunkie-comp.png">
                 <br>
                 <br>
                 <h4>The Home Improver: Competition</h4>
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/homeimprover-comp.png">
                 <br>
                 <br>
                 <br>
                 <h4>The Beginner Tinkerer: Competition</h4>
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/beginnertinkerer-comp.png">
                 <br>
                 <br>
                 <br>
                 <h4>The Advanced Hacker: Competition</h4>
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/advancedhacker-comp.png">
                 <br>
                 <br>
                 <br>
@@ -302,13 +302,14 @@
                         <br>
                         <br>
                     </div>
-                    <div class="col-sm"><b>Key objectives:</b>
-                        <p>To test the technical feasibility of the Cubes product idea, and establish which services could be integrated. This was critical in designing a product for the maker market, as users have a strong understanding of technical feasibility.</p>
-                        <br>
-                        <br>
-                        <br>
-                    </div>                
-                </div>
+                <div class="col-sm"></div>
+                    <b>Key objectives:</b>
+                    <p>To test the technical feasibility of the Cubes product idea, and establish which services could be integrated. This was critical in designing a product for the maker market, as users have a strong understanding of technical feasibility.</p>
+                    <br>
+                    <br>
+                    <br>
+                </div>                
+                <br>
             </section>
         </div>
         <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
@@ -340,36 +341,30 @@
                         <br>
                         <br>
                         <br>
-                    </div>                
+                </div>                
                 <br>
-                </div>
                 
                 
                 
+             
                 <h4>Prototype B: Visual Prototype</h4>
                 <br>
-                <div class="row">
-                    <div class="col-sm">
-                        <b>Activities: </b>
-                        <p>The creation of visual prototypes using magnets and 3D printed parts. User interviews were conducted including the prototypes (see next section).</p>
-                        <br>
-                        <br>
-                    </div>
-                    <div class="col-sm">
-                        <b>Key objectives:</b>
-                        <p>To understand various product specifics:</p>
-                        <ul>
-                            <li>Magnet strength and conductivity</li>
-                            <li>Module size </li>
-                            <li>Magnets position </li>
-                            <li>Colour, material and finish</li>
-                            <li>Module shape</li>
-                        </ul>
-                        <br>
-                        <br>
-                    </div>
-                </div>    
-                    
+                <br>
+                <b>Activities: </b>
+                <p>The creation of visual prototypes using magnets and 3D printed parts. User interviews were conducted including the prototypes (see next section).</p>
+                <br>
+                <br>
+                <b>Key objectives:</b>
+                <p>To understand various product specifics:</p>
+                <ul>
+                    <li>Magnet strength and conductivity</li>
+                    <li>Module size </li>
+                    <li>Magnets position </li>
+                    <li>Colour, material and finish</li>
+                    <li>Module shape</li>
+                </ul>
+                <br>
+                <br>
             </section>
         </div>
         <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
