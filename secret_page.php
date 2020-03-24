@@ -649,24 +649,36 @@
                 <br>
                 <br>
 
-                <span style="vertical-align: bottom; clear: both">
-                    <h3 style="float: left;">1178<h3>
-                            <h4 style="float: left;"> unique sesions</h4>
-                            <p style="vertical-align: bottom; float: left;"> from</p>
-                            <h3 style="vertical-align: bottom; float: left;"> 68<h3>
-                                    <h4 style="vertical-align: bottom; float: left;"> countries</h4>
+                <span style="font-size: 35px;">1178</span><span style="font-size: 25px;"> unique sessions </span><span style="font-size: 18px;">from </span><span style="font-size: 35px;">68</span><span style="font-size: 25px;"> countries</span>
                 </span>
                 <hr />
                 <br>
                 <br>
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/FG3.JPG" class="slickimage3">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/10.jpg" class="slickimage3">
+                <br>
+                <br>
+                <span style="font-size: 18px;">The majority of traffic comes from </span><span style="font-size: 35px;">the US and UK.</span>
+                <br><br>
+                <span style="font-size: 35px;">28% </span><span style="font-size: 18px;"> of home page landings navigated to the Starter Pack page [48% exited, the rest navigated away]. This is particularly exciting because the Starter Pack page is not prominently advertised. </span>
+                <br><br>
+                <span style="font-size: 35px;">35% </span><span style="font-size: 18px;"> of users who reached the Starter Pack product page clicked on the buy button. [28% exited, the remainder navigated away]. They are then informed that Voxel is a work in progress. </span>
+                <br><br>
+                <span style="font-size: 18px;">Overall </span><span style="font-size: 35px;">19% </span><span style="font-size: 25px;"> of sessions </span><span style="font-size: 18px;">included an unique page view of the fake ‘buy’ page. [This gives an indication of clickthrough rate, however this does not account for customers clicking to see the price, decisions made on price, nor cart abandonment.] </span>
+                <br><br>
+                <span style="font-size: 18px;">Leading to </span><span style="font-size: 35px;"> 304 unique clicks on the buy button </span><span style="font-size: 18px;">in total.</span>
+                <br><br>
+                <span style="font-size: 18px;">Average session duration was </span><span style="font-size: 35px;"> 1 minute 55 </span><span style="font-size: 18px;">with 2.37 pages visited per session. That means a cumulative</span>
+                <span style="font-size: 35px;"> 38 hours </span><span style="font-size: 18px;">has been spent exploring the voxel website, despite limited content being published so far. </span>
 
 
 
             </div>
             <div style="background-color: <?php echo $tertiary_colour; ?>; padding: 20px 0;">
                 <div class="cont">
-                    <h4>Online User Feedback</h4>
+                    <h4>User Feedback</h4>
+                    <br>
+                    <p>We were blown away by the number of positive comments and uplifting feedback: the maker communities showed their strong supportive nature.  Our posts received approximately 1000+ likes/upvotes and 100 comments, all really well thought out. </p>
+                    <br>
                     <br>
                     <b>General comments</b>
                     <br>
