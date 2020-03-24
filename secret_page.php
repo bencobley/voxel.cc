@@ -121,19 +121,19 @@
                 <p>To understand what being a ‘maker’ really means, understand who this product applies to, and develop personas that will enable us to meet user needs. </p>
                 <br>
                 <br>
-                <b>Activities</b>
+                <b>Activities:</b>
                 <br>
                 <p>We are fortunate to be part of a community of maker-minded people at Imperial; in the Design Engineering Department and at the Advanced Hackspace. We also spoke to parents in the Department, friends and family, and educators in making. </p>
                 <br>
                 <p>In total 20+ hours of qualitative <a style="color: blue;" href="https://docs.google.com/forms/d/e/1FAIpQLSc6KoAXBtrIV0qBu7Vs1T4wgZgos4d34oR-uLv1ILZToXfi-Q/viewform?usp=sf_link">long-format user interviews</a> were undertaken with participants of all ages, and a range of experience in making and smart homes. We appreciated that the diversity of backgrounds of interviewees was limited, however this provided a good start. </p>
                 <br>
                 <br>
-                <b>Results</b>
+                <b>Results:</b>
                 <br>
                 <p>We were surprised to find that our target user group ‘makers’ was really four distinct segments. The feedback was highly valuable in showing that interest in the product was motivated by various different needs. Personas were developed to capture these segments.</p>
                 <br>
                 <br>
-                <b>Changes</b>
+                <b>Changes:</b>
                 <br>
                 <p>Analysis and review of user interviews, helping develop accurate persona profiles that encapsulated the needs and preferences of the four specific subgroups. </p>
                 <br>
@@ -281,11 +281,11 @@
                 <h4>Prototype A: Technical Validation</h4>
                 <br>
                 <br>
-                <b>Activity: </b>
+                <b>Activities: </b>
                 <p>A technical prototype was built, made up of the components that form the modules in the Cubes concept. </p>
                 <br>
                 <br>
-                <b>Key objective:</b>
+                <b>Key objectives:</b>
                 <p>To test the technical feasibility of the Cubes product idea, and establish which services could be integrated. This was critical in designing a product for the maker market, as users have a strong understanding of technical feasibility.</p>
                 <br>
                 <br>
@@ -316,11 +316,11 @@
                 <h4>Prototype B: Visual Prototype</h4>
                 <br>
                 <br>
-                <b>Activity: </b>
+                <b>Activities: </b>
                 <p>The creation of visual prototypes using magnets and 3D printed parts. User interviews were conducted including the prototypes (see next section).</p>
                 <br>
                 <br>
-                <b>Key objective:</b>
+                <b>Key objectives:</b>
                 <p>To understand various product specifics:</p>
                 <ul>
                     <li>Magnet strength and conductivity</li>
@@ -371,7 +371,7 @@
                     <h4>Concept and Prototype User Testing </h4>
                     <br>
                     <br>
-                    <b>Activity: </b>
+                    <b>Activities: </b>
                     <p>Running a stand at the <a style="color:blue;" href="https://www.imperialhackspace.com/events/design-engineering-society-makeathon-2020/">Autodesk Makeathon 2020 <a>to interview users. Brand imagery, visual prototype prompts and post-it note inspiration boards were used to discuss ideas. </p>
                     <br>
                     <br>
@@ -442,11 +442,11 @@
                 <h4>Prototype C: Assemble-at-home Prototype</h4>
                 <br>
                 <br>
-                <b>Activity: </b>
+                <b>Activities: </b>
                 <p>Hands-on testing with assemble-at-home prototype. For this quick test, participants were readily available friends and family (and other group members!).</p>
                 <br>
                 <br>
-                <b>Key objective:</b>
+                <b>Key objectives:</b>
                 <p>To test the idea that the modules could be assembled at home, reinforcing the idea of ‘open’ design, while reducing manufacturing costs. Key ideas to test:</p>
                 <ul>
                     <li>User self-assembly feasibility</li>
@@ -488,11 +488,11 @@
                     <div class="col-sm">
                         <br>
                         <br>
-                        <b>Activity: </b>
+                        <b>Activities: </b>
                         <p>Mock-up of the software aspect of the Voxel platform. </p>
                         <br>
                         <br>
-                        <b>Key objective:</b>
+                        <b>Key objectives:</b>
                         <p>To demonstrate the potential of customised software to surveyed users, without over-investing time in building a full app. To test the idea that programming a smart home can be accessible to a range of users from beginner to expert. To test the idea that users might like to download creations from the platform, and upload their own creations. </p>
                         <br>
                         <br>
@@ -529,11 +529,11 @@
                     <div class="col-sm">
                         <br>
                         <br>
-                        <b>Activity: </b>
+                        <b>Activities: </b>
                         <p>With the industrial design complete and the early stage user feedback incorporated, a working prototype was developed for the next stage of testing. A screen of the correct size was not available off-the-shelf, so a PCB was fabricated (these were still made up of well-understood maker components). </p>
                         <br>
                         <br>
-                        <b>Key objective:</b>
+                        <b>Key objectives:</b>
                         <p>To bring us closer to a saleable product and enable more accurate video assets in order to spark interest in the next stage of validation.</p>
                         <br>
                         <br>
@@ -578,11 +578,11 @@
                     <div class="col-sm">
                         <br>
                         <br>
-                        <b>Activity: </b>
+                        <b>Activities: </b>
                         <p>Testing the final hardware, website and branding with users deliberately outside of the target market. Voxel is aimed at smart home owners who already have one or more devices. We were aware that our testing so far had been with highly receptive audiences, how do other audiences respond? </p>
                         <br>
                         <br>
-                        <b>Key objective:</b>
+                        <b>Key objectives:</b>
                         <p>Understand how the product resonates with non-experts. Understand how to communicate the product clearly. Gain an idea of broader appeal, outside makers. </p>
                         <br>
                         <br>
@@ -627,7 +627,7 @@
                 <br>
                 <br>
                 <p>The website was designed to appear, on first glance, as if a product was really for sale. This pretotyping technique, known as a ‘fake door’ is designed to gather information on the percentage of visitors that are interested in purchasing a product. Google Analytics was used to track website activity.</p>
-                <b>Activity: </b>
+                <b>Activities: </b>
                 <ul>
                     <li>A fully working website was set up a week before the deadline. y</li>
                     <li>A short promotional video (separate to main video on home page) was prepared. </li>
@@ -636,7 +636,7 @@
                     <li>Users were engaged with and comments replied to, facilitating conversation about the product. </li>
                 </ul> <br>
                 <br>
-                <b>Key objective:</b>
+                <b>Key objectives:</b>
                 <ul>
                     <li>Estimate bounce rates, product page click-through rates, buy button click-through rates. </li>
                     <li>Solicit feedback through a web form and forum comments.</li>
