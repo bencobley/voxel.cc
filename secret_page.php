@@ -373,6 +373,10 @@
                     <b>Activity: </b>
                     <p>Running a stand at the <a style="color:blue;" href="https://www.imperialhackspace.com/events/design-engineering-society-makeathon-2020/">Autodesk Makeathon 2020 <a>to interview users. Brand imagery, visual prototype prompts and post-it note inspiration boards were used to discuss ideas. </p>
                     <br>
+                    <br>
+                    <b>Key Objectives: </b>
+                    <p>To investigate the user interaction appeal of snapping modules together to assemble the components needed for a project. To understand whether the perceived value added in packaging components into modules warrants the additional price. To discuss what projects users might be interested in undertaking with Voxel. </p>
+                    <br>
             </section>
         </div>
         <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
@@ -450,6 +454,9 @@
                     <li>User experience in assembly interaction</li>
                 </ul>
                 <br>
+                <video style="width: 100%; height: 450px;" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/assem.mp4" type="video/mp4">
+                </video>
                 <br>
                 <b>Feedback: </b>
                 <p>Hands-on testing with assemble-at-home prototype. For this quick test, participants were readily available friends and family (and other group members!).</p>
@@ -464,65 +471,137 @@
                     <li>We improved the packaging by designing and including a storyboard that users can refer to during the assembly process.</li>
                 </ul>
                 <br>
+                <br>
+                <br>
+                <br>
                 <div class="row">
+                    <h6>Software UI Development</h6>
+                    <br>
+                    <br>
+                    <br>
+                    <video style="width: 100%; height: 450px;" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                        <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/ui.mp4" type="video/mp4">
+                    </video>
+
+                    <br>
                     <div class="col-sm">
-                        <h6>Software UI Development</h6>
                         <br>
                         <br>
                         <b>Activity: </b>
-                        <p>Hands-on testing with assemble-at-home prototype. For this quick test, participants were readily available friends and family (and other group members!).</p>
+                        <p>Mock-up of the software aspect of the Voxel platform. </p>
                         <br>
                         <br>
                         <b>Key objective:</b>
-                        <p>To test the idea that the modules could be assembled at home, reinforcing the idea of ‘open’ design, while reducing manufacturing costs. Key ideas to test:</p>
-                        <ul>
-                            <li>User self-assembly feasibility</li>
-                            <li>Ease of assembly - targeting 4 minute maximum assembly time</li>
-                            <li>Design for manufacturing</li>
-                            <li>User experience in assembly interaction</li>
-                        </ul>
+                        <p>To demonstrate the potential of customised software to surveyed users, without over-investing time in building a full app. To test the idea that programming a smart home can be accessible to a range of users from beginner to expert. To test the idea that users might like to download creations from the platform, and upload their own creations. </p>
                         <br>
                         <br>
+                    </div>
+                    <div class="col-sm">
+                        <br>
+                        <br>
+
                         <b>Feedback: </b>
-                        <p>Hands-on testing with assemble-at-home prototype. For this quick test, participants were readily available friends and family (and other group members!).</p>
+                        <ul>
+                            <li>By offering “drag and drop” coding or “scratch” coding, users with intermediate expertise wanted a solution that was in between the two extreme ends we originally prototyped</li>
+                            <li>Users wanted to receive suggestions of what modules they could add to improve their project directly while coding</li>
+                            <li>Users suggested multiple times to introduce a way of allowing in-app purchases of modules as otherwise they would have forgotten</li>
+                        </ul>
                         <br>
                         <br>
                         <b>Changes:</b>
-                        <p>To test the idea that the modules could be assembled at home, reinforcing the idea of ‘open’ design, while reducing manufacturing costs. Key ideas to test:</p>
                         <ul>
-                            <li>We simplified the assembly process by narrowing it down to 4 steps.</li>
-                            <li>The internal CAD design of the device was redesigned to guide the user as it slides in the components.</li>
-                            <li>Design for manufacturing</li>
-                            <li>We improved the packaging by designing and including a storyboard that users can refer to during the assembly process.</li>
+                            <li>We designed an “intermediate” coding experience to fill the expertise gap highlighted in feedback</li>
+                            <li>We added a new UI element in the app that prompted users to buy new modules directly while browsing projects</li>
                         </ul>
                         <br>
                     </div>
+                </div>
+                <div class="row">
+                    <h6>Prototype D: Initial Working Prototype</h6>
+                    <br>
+                    <br>
+                    <br>
+                    <video style="width: 100%; height: 450px;" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                        <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH11_old.mp4" type="video/mp4">
+                    </video>
+                    <br>
                     <div class="col-sm">
-                        <video style="width: 100%; height: 300px;" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                            <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/ui.mp4" type="video/mp4">
-                        </video>
+                        <br>
+                        <br>
+                        <b>Activity: </b>
+                        <p>With the industrial design complete and the early stage user feedback incorporated, a working prototype was developed for the next stage of testing. A screen of the correct size was not available off-the-shelf, so a PCB was fabricated (these were still made up of well-understood maker components). </p>
+                        <br>
+                        <br>
+                        <b>Key objective:</b>
+                        <p>To bring us closer to a saleable product and enable more accurate video assets in order to spark interest in the next stage of validation.</p>
+                        <br>
+                        <br>
+                    </div>
+                    <div class="col-sm">
+                        <br>
+                        <br>
+                        <b>Feedback: </b>
+                        <p>The prototype, combined with some editing wizardry, creates a convincing product!</p>
+                        <br>
+                        <br>
+                        <b>Changes:</b>
+                        <p>The final prototype diffused light from the LED matrix in a poor way. Therefore, we redesigned the front of the cubes, printed it at different thicknesses, and chose the one that transmitted light in the most homogenous way. </p>
+                        <br>
                     </div>
                 </div>
                 <br>
-                <p>More advanced users are able to dig deeper into the platform and unlock greater control using Python and those with the highest technical knowledge can leave the Voxel platform behind completely, write their own firmware in c++ and flash it to their devices. Our products are designed to make this process as easy as possible.</p>
                 <br>
                 <br>
                 <br>
-                <br>
-                <br>
+                <h6>Testing Outside the Target Market</h6>
+            </section>
+        </div>
+        <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
+            <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/11.mp4" type="video/mp4">
+            </video>
+            <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/FG2.mp4" type="video/mp4">
+            </video>
+            <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/10.mp4" type="video/mp4">
+            </video>
+            <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/FG1.mp4" type="video/mp4">
+            </video>
+            <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/FG3.JPG" class="slickimage3">
+        </div>
+        <div class="cont">
+            <section id="concept_development">
                 <div class="row">
                     <div class="col-sm">
-                        <h6>Working Prototype</h6>
                         <br>
-                        <p>With the industrial design complete and the early stage user feedback incorporated, a working prototype was developed for the next stage of testing. This was important as it brought us closer to a saleable product and would enable us to produce more accurate video assets in order to spark interest in the next stage of validation.</p>
+                        <br>
+                        <b>Activity: </b>
+                        <p>Testing the final hardware, website and branding with users deliberately outside of the target market. Voxel is aimed at smart home owners who already have one or more devices. We were aware that our testing so far had been with highly receptive audiences, how do other audiences respond? </p>
+                        <br>
+                        <br>
+                        <b>Key objective:</b>
+                        <p>Understand how the product resonates with non-experts. Understand how to communicate the product clearly. Gain an idea of broader appeal, outside makers. </p>
+                        <br>
                         <br>
                     </div>
                     <div class="col-sm">
-                        <video style="width: 100%; height: 300px;" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                            <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH11_old.mp4" type="video/mp4">
-                        </video>
+                        <br>
+                        <br>
+
+                        <b>Feedback: </b>
+                        <p>The working prototype allowed us to conduct one-on-one interviews demonstrating hands-on interaction with the prototype and gaining more feedback about the product and concept. We expanded our reach beyond users with maker and tech experience and found that our privacy values resonated well with all users. As expected, those who were not previously smart home owners were intrigued but unlikely to purchase.</p>
+                        <br>
+                        <br>
+                        <b>Changes:</b>
+                        <ul>
+                            <li>Various website and video storytelling changes to aid clear communication of the product such that anyone can understand it! </li>
+                            <li>No changes to target market: Voxel targets existing smart home owners. </li>
+                        </ul>
+                        <br>
                     </div>
-                    <br>
+                </div>
             </section>
             <br>
             <br>
@@ -530,39 +609,60 @@
         </div>
         <section id="validation">
             <div class="cont">
+                <h6>Validation: Website Roll Out!</h6>
                 <br>
-                <h6>Focus Groups</h6>
                 <br>
-                <p>The working prototype allowed us to conduct one on one interviews demonstrating hands-on interaction with the prototype and gaining more feedback about the product and concept. We expanded our reach beyond users with maker and tech experience and found that our privacy values resonated well in our focus groups.</p>
+                <p>This website was designed to be a tool for validating whether our idea is attractive to potential customers. This was an exciting opportunity to finally expand our user testing outside London and the UK, and outside our circles. </p>
                 <br>
-            </div>
-            <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
-                <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/11.mp4" type="video/mp4">
-                </video>
-                <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/FG2.mp4" type="video/mp4">
-                </video>
-                <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/10.mp4" type="video/mp4">
-                </video>
-                <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/FG1.mp4" type="video/mp4">
-                </video>
+                <p>To test the idea that the modules could be assembled at home, reinforcing the idea of ‘open’ design, while reducing manufacturing costs. Key ideas to test:</p>
+                <ul>
+                    <li>It can be targeted to the real audience through selectively posting material in related forums.</li>
+                    <li>It is realistic: customers will find the website through communities, forum posts and videos, just like customer acquisition in the final product.</li>
+                    <li>Design for manufacturing</li>
+                    <li>It is quantifiable: customer interest can be tracked by their journey through the site. Customers do not know they are being surveyed (unlike an interview), so act normally</li>
+                </ul>
+                <br>
+                <h4>Traction Testing</h4>
+                <br>
+                <p>The website was designed to appear, on first glance, as if a product was really for sale. This pretotyping technique, known as a ‘fake door’ is designed to gather information on the percentage of visitors that are interested in purchasing a product. Google Analytics was used to track website activity.</p>
+                <b>Activity: </b>
+                <ul>
+                    <li>A fully working website was set up a week before the deadline. y</li>
+                    <li>A short promotional video (separate to main video on home page) was prepared. </li>
+                    <li>Magnets position </li>
+                    <li>The video and website were posted on maker and smart home groups on Reddit and Facebook.</li>
+                    <li>Users were engaged with and comments replied to, facilitating conversation about the product. </li>
+                </ul> <br>
+                <br>
+                <b>Key objective:</b>
+                <ul>
+                    <li>Estimate bounce rates, product page click-through rates, buy button click-through rates. </li>
+                    <li>Solicit feedback through a web form and forum comments.</li>
+                    <li>Gauge interest in open-source contribution through contributor sign-up form. </li>
+                    <li>Gauge Kickstarter campaign interest through newsletter sign-up form. </li>
+                    <li>Determine global geographic interest to identify target markets.</li>
+                </ul>
+                <br>
+                <b>Results:</b>
+                <p>Website Metrics as of 24/03/2020<br>
+                    The video, description and links were shared in 10-15 small maker groups. Amazingly, the website has received: </p>
+                <br>
+                <br>
+
+                <span style="vertical-align: bottom; clear: both">
+                    <h3 style="float: left;">1178<h3>
+                            <h4 style="float: left;"> unique sesions</h4>
+                            <p style="vertical-align: bottom; float: left;"> from</p>
+                            <h3 style="vertical-align: bottom; float: left;"> 68<h3>
+                                    <h4 style="vertical-align: bottom; float: left;"> countries</h4>
+                </span>
+                <hr />
+                <br>
+                <br>
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/FG3.JPG" class="slickimage3">
-            </div>
-            <div class="cont">
-                <br>
-                <br>
-                <br>
-                <br>
-                <h6>Social Media Makers Communities </h6>
-                <br>
-                <p>We targeted maker communities and forums on reddit and facebook and received over 100 pieces written of feedback from makers, including many experts in the field, including the manufacturer of the ESP8266 chip, around which our concept is based.The project was well received especially with regard to being open source and private.
-                    From this research we realised we needed deeper technical specification and to differentiate ourselves from existing open source smart home platforms that only provide software. We adjusted our website accordingly and added an FAQ section.
-                </p>
-                <br>
-                <br>
+
+
+
             </div>
             <div style="background-color: <?php echo $tertiary_colour; ?>; padding: 20px 0;">
                 <div class="cont">
