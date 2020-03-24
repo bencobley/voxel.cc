@@ -340,30 +340,36 @@
                         <br>
                         <br>
                         <br>
-                </div>                
+                    </div>                
                 <br>
+                </div>
                 
                 
                 
-             
                 <h4>Prototype B: Visual Prototype</h4>
                 <br>
-                <br>
-                <b>Activities: </b>
-                <p>The creation of visual prototypes using magnets and 3D printed parts. User interviews were conducted including the prototypes (see next section).</p>
-                <br>
-                <br>
-                <b>Key objectives:</b>
-                <p>To understand various product specifics:</p>
-                <ul>
-                    <li>Magnet strength and conductivity</li>
-                    <li>Module size </li>
-                    <li>Magnets position </li>
-                    <li>Colour, material and finish</li>
-                    <li>Module shape</li>
-                </ul>
-                <br>
-                <br>
+                <div class="row">
+                    <div class="col-sm">
+                        <b>Activities: </b>
+                        <p>The creation of visual prototypes using magnets and 3D printed parts. User interviews were conducted including the prototypes (see next section).</p>
+                        <br>
+                        <br>
+                    </div>
+                    <div class="col-sm">
+                        <b>Key objectives:</b>
+                        <p>To understand various product specifics:</p>
+                        <ul>
+                            <li>Magnet strength and conductivity</li>
+                            <li>Module size </li>
+                            <li>Magnets position </li>
+                            <li>Colour, material and finish</li>
+                            <li>Module shape</li>
+                        </ul>
+                        <br>
+                        <br>
+                    </div>
+                </div>    
+                    
             </section>
         </div>
         <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
