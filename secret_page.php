@@ -47,13 +47,12 @@
                     </div>
                     <div class="col-sm">
                         <p>Voxel is looking for £50,000 Seed Funding to support manufacturing efforts and fund development of a Kickstarter campaign.</a></p>
-                        <a href="https://voxelmedia.s3.eu-west-2.amazonaws.com/Final_report.pdf" class="btn btn-primary">Download May 2020 Investment Note</a>
+
                     </div>
+
                 </div>
+                <a style="margin: auto;" href="https://voxelmedia.s3.eu-west-2.amazonaws.com/Final_report.pdf" class="btn btn-primary">Download May 2020 Investment Note</a>
                 <br>
-                <br>
-                <br>
-                <img style="width:100%;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/blob.png">>
                 <br>
                 <br>
                 <br>
@@ -986,7 +985,60 @@
                         </ol>
                     </div>
                 </div>
+                <br>
+                <br>
+                <h6>Pricing strategy</h6>
+                <p>The following price points were chosen based on the competitor research and initial feedback on perceived value. These price points are the basis for the financial forecasting shown below. In the future, AB testing will be undertaken to trial user response at different price points. </p>
+                <div style="margin: auto;" class="card-deck pt-3">
+                    <div class="card">
+                        <img class="card-img-top" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH1.png">
+                        <div class="card-body">
+                            <h5 class="card-title">Starter Pack</h5>
+                            <p class="card-text">
+                                <ul>
+                                    <li>Brain + dot-matrix display</li>
+                                    <li>Brain + smart plug</li>
+                                    <li>Temperature + humidity + ambient light</li>
+                                    <li>Motion and gesture sensor</li>
+                                </ul>
+                            </p>
+                            <br>
+                            <p class="btn btn-primary">£55</p>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <img class="card-img-top" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH26.png">
+                        <div class="card-body">
+                            <h5 class="card-title">Smart Plug Pack</h5>
+                            <p class="card-text">3 x Voxel Brain Smart plugs with Magic Magnetic I2C connectors. </p>
+                            <br>
+                            <br>
+                            <br>
+                            <p style="margin-top: 7px;" class="btn btn-primary">£40</p>
+                        </div>
+                    </div>
+                </div>
+
             </div>
+        </section>
+
+        <section id="path">
+            <div class="cont">
+                <br>
+                <br>
+                <h4>Product Development Path</h4>
+                <br>
+                <h6>Steps Completed To-date </h6>
+                <br>
+                <img style="width:100%;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/blob.png">
+                <br>
+                <br>
+                <h6>Future Steps Towards Kickstarter and Beyond</h6>
+                <br>
+                <br>
+                <img style="width:100%;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/blob2.png">
+
         </section>
     </main>
 
