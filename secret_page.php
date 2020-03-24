@@ -755,7 +755,7 @@
                 <hr />
                 <br>
                 <br>
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/10.jpg" class="slickimage3">
+                <img style="max-width: 100%;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/10.jpg">
                 <br>
                 <br>
                 <span style="font-size: 18px;">The majority of traffic comes from </span><span style="font-size: 35px;">the US and UK.</span>
