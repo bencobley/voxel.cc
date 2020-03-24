@@ -311,25 +311,30 @@
                 <p> We realised that while the LED matrix fully matched the block dimensions, the sensors’ circuit was considerably smaller. To optimise space and reduce costs, the sensors’ embodiment was reimagined into a flat tile-shaped module.</p>
                 <br>
                 <br>
-                <br>
-                <h6>Prototype B: Visual Prototype</h6>
-                <br>
-                <br>
-                <b>Activity: </b>
-                <p>The creation of visual prototypes using magnets and 3D printed parts. User interviews were conducted including the prototypes (see next section).</p>
-                <br>
-                <br>
-                <b>Key objective:</b>
-                <p>To understand various product specifics:</p>
-                <ul>
-                    <li>Magnet strength and conductivity</li>
-                    <li>Module size </li>
-                    <li>Magnets position </li>
-                    <li>Colour, material and finish</li>
-                    <li>Module shape</li>
-                </ul>
-                <br>
-                <br>
+                <div class="row">
+                    <br>
+                    <h6>Prototype B: Visual Prototype</h6>
+                    <br>
+                    <br>
+
+
+
+                    <div class="col-sm">
+                        <b>Activity: </b>
+                        <p>The creation of visual prototypes using magnets and 3D printed parts. User interviews were conducted including the prototypes (see next section).</p>
+                        <br>
+                        <br>
+                        <b>Key objective:</b>
+                        <p>To understand various product specifics:</p>
+                        <ul>
+                            <li>Magnet strength and conductivity</li>
+                            <li>Module size </li>
+                            <li>Magnets position </li>
+                            <li>Colour, material and finish</li>
+                            <li>Module shape</li>
+                        </ul>
+                        <br>
+                        <br>
             </section>
         </div>
         <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
@@ -350,6 +355,7 @@
         <div class="cont">
             <section id="concept_development">
                 <div class="cont">
+
                     <b>Feedback: </b>
                     <ul>
                         <li>Users felt that the modules were missing a visual cue after they snapped blocks together.</li>
@@ -367,16 +373,8 @@
                     <br>
                     <br>
                     <br>
+                    <br>
                     <h6>Concept and Prototype User Testing </h6>
-                    <br>
-                    <br>
-                    <b>Activity: </b>
-                    <p>Running a stand at the <a style="color:blue;" href="https://www.imperialhackspace.com/events/design-engineering-society-makeathon-2020/">Autodesk Makeathon 2020 <a>to interview users. Brand imagery, visual prototype prompts and post-it note inspiration boards were used to discuss ideas. </p>
-                    <br>
-                    <br>
-                    <b>Key Objectives: </b>
-                    <p>To investigate the user interaction appeal of snapping modules together to assemble the components needed for a project. To understand whether the perceived value added in packaging components into modules warrants the additional price. To discuss what projects users might be interested in undertaking with Voxel. </p>
-                    <br>
             </section>
         </div>
         <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
@@ -396,23 +394,40 @@
         </div>
         <div class="cont">
             <section id="concept_development">
-                <b>Feedback: </b>
-                <ul>
-                    <li>The price users were expecting to pay was far higher than our original expectations, perceived value was high: averaging around £100, we expected around £50. </li>
-                    <li>Users showed a surprising amount of interest in the use cases offered by the LED matrix display, pushing us to develop further its UI and possible interactions.</li>
-                    <li>The possibility in projects did not come across well in communication. </li>
-                </ul>
-                <br>
-                <br>
-                <b>Changes:</b>
-                <ul>
-                    <li>We designed more than 20 new demonstration display interactions for specific use cases suggested by users.</li>
-                    <li>Higher perceived value feedback was incorporated into financial forecasting happening in parallel. </li>
-                    <li>We went back to the drawing board with brand communication, resulting in the ‘Own your smart home’ branding you see today. </li>
-                </ul>
-                <br>
-                <br>
-                <h4>Hardware Design Iteration</h4>
+                <div class="row">
+                    <div class="col-sm">
+                        <br>
+                        <br>
+                        <b>Activity: </b>
+                        <p>Running a stand at the <a style="color:blue;" href="https://www.imperialhackspace.com/events/design-engineering-society-makeathon-2020/">Autodesk Makeathon 2020 <a>to interview users. Brand imagery, visual prototype prompts and post-it note inspiration boards were used to discuss ideas. </p>
+                        <br>
+                        <br>
+                        <b>Key Objectives: </b>
+                        <p>To investigate the user interaction appeal of snapping modules together to assemble the components needed for a project. To understand whether the perceived value added in packaging components into modules warrants the additional price. To discuss what projects users might be interested in undertaking with Voxel. </p>
+                        <br>
+                        <br>
+                    </div>
+                    <div class="col-sm">
+                        <br>
+                        <br>
+                        <b>Feedback: </b>
+                        <ul>
+                            <li>The price users were expecting to pay was far higher than our original expectations, perceived value was high: averaging around £100, we expected around £50. </li>
+                            <li>Users showed a surprising amount of interest in the use cases offered by the LED matrix display, pushing us to develop further its UI and possible interactions.</li>
+                            <li>The possibility in projects did not come across well in communication. </li>
+                        </ul> <br>
+                        <br>
+                        <b>Changes:</b>
+                        <ul>
+                            <li>We designed more than 20 new demonstration display interactions for specific use cases suggested by users.</li>
+                            <li>Higher perceived value feedback was incorporated into financial forecasting happening in parallel. </li>
+                            <li>We went back to the drawing board with brand communication, resulting in the ‘Own your smart home’ branding you see today. </li>
+                        </ul>
+                        <br>
+                    </div>
+                </div>
+            </section>
+            <h4>Hardware Design Iteration</h4>
             </section>
         </div>
         <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
@@ -435,45 +450,72 @@
         </div>
         <div class="cont">
             <section id="concept_development">
-                <br>
-                <br>
-                <br>
-                <h6>Prototype C: Assemble-at-home Prototype</h6>
-                <br>
-                <br>
-                <b>Activity: </b>
-                <p>Hands-on testing with assemble-at-home prototype. For this quick test, participants were readily available friends and family (and other group members!).</p>
-                <br>
-                <br>
-                <b>Key objective:</b>
-                <p>To test the idea that the modules could be assembled at home, reinforcing the idea of ‘open’ design, while reducing manufacturing costs. Key ideas to test:</p>
-                <ul>
-                    <li>User self-assembly feasibility</li>
-                    <li>Ease of assembly - targeting 4 minute maximum assembly time</li>
-                    <li>Design for manufacturing</li>
-                    <li>User experience in assembly interaction</li>
-                </ul>
-                <br>
-                <video style="width: 100%; height: 450px;" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/assem.mp4" type="video/mp4">
-                </video>
-                <br>
-                <b>Feedback: </b>
-                <p>Hands-on testing with assemble-at-home prototype. For this quick test, participants were readily available friends and family (and other group members!).</p>
-                <br>
-                <br>
-                <b>Changes:</b>
-                <p>To test the idea that the modules could be assembled at home, reinforcing the idea of ‘open’ design, while reducing manufacturing costs. Key ideas to test:</p>
-                <ul>
-                    <li>We simplified the assembly process by narrowing it down to 4 steps.</li>
-                    <li>The internal CAD design of the device was redesigned to guide the user as it slides in the components.</li>
-                    <li>Design for manufacturing</li>
-                    <li>We improved the packaging by designing and including a storyboard that users can refer to during the assembly process.</li>
-                </ul>
-                <br>
-                <br>
-                <br>
-                <br>
+                <div class="row">
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <h6>Prototype C: Assemble-at-home Prototype</h6>
+                    <br>
+                    <br>
+                    <video style="width: 100%; height: 450px;" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                        <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/assem.mp4" type="video/mp4">
+                    </video>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+
+                    <div class="col-sm">
+                        <br> <b>Activity: </b>
+                        <p>Hands-on testing with assemble-at-home prototype. For this quick test, participants were readily available friends and family (and other group members!).</p>
+                        <br>
+                        <br>
+                        <b>Key objective:</b>
+                        <p>To test the idea that the modules could be assembled at home, reinforcing the idea of ‘open’ design, while reducing manufacturing costs. Key ideas to test:</p>
+                        <ul>
+                            <li>User self-assembly feasibility</li>
+                            <li>Ease of assembly - targeting 4 minute maximum assembly time</li>
+                            <li>Design for manufacturing</li>
+                            <li>User experience in assembly interaction</li>
+                        </ul>
+                        <br>
+                    </div>
+                    <div class="col-sm">
+                        <br>
+                        <b>Feedback: </b>
+                        <p>Hands-on testing with assemble-at-home prototype. For this quick test, participants were readily available friends and family (and other group members!).</p>
+                        <br>
+                        <br>
+                        <b>Changes:</b>
+                        <p>To test the idea that the modules could be assembled at home, reinforcing the idea of ‘open’ design, while reducing manufacturing costs. Key ideas to test:</p>
+                        <ul>
+                            <li>We simplified the assembly process by narrowing it down to 4 steps.</li>
+                            <li>The internal CAD design of the device was redesigned to guide the user as it slides in the components.</li>
+                            <li>Design for manufacturing</li>
+                            <li>We improved the packaging by designing and including a storyboard that users can refer to during the assembly process.</li>
+                        </ul>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                    </div>
+                </div>
                 <div class="row">
                     <h6>Software UI Development</h6>
                     <br>
@@ -482,11 +524,23 @@
                     <video style="width: 100%; height: 450px;" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
                         <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/ui.mp4" type="video/mp4">
                     </video>
-
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
                     <br>
                     <div class="col-sm">
-                        <br>
-                        <br>
+
                         <b>Activity: </b>
                         <p>Mock-up of the software aspect of the Voxel platform. </p>
                         <br>
