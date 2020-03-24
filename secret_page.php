@@ -112,96 +112,102 @@
 
                 <h4>Understanding our Customers</h4>
                 <br>
-                <p>The idea for this business was motivated by a desire to solve a problem that affected us personally as makers. It was now time to explore whether the same problems are faced by other people.</p>
-                <br>
-                <br>
-                <b>Key objectives</b>
-                <br>
-                <p>To understand what being a ‘maker’ really means, understand who this product applies to, and develop personas that will enable us to meet user needs. </p>
-                <br>
-                <br>
-                <b>Activities</b>
-                <br>
-                <p>We are fortunate to be part of a community of maker-minded people at Imperial; in the Design Engineering Department and at the Advanced Hackspace. We also spoke to parents in the Department, friends and family, and educators in making. </p>
-                <br>
-                <p>In total 20+ hours of qualitative <a style="color: blue;" href="https://docs.google.com/forms/d/e/1FAIpQLSc6KoAXBtrIV0qBu7Vs1T4wgZgos4d34oR-uLv1ILZToXfi-Q/viewform?usp=sf_link">long-format user interviews</a> were undertaken with participants of all ages, and a range of experience in making and smart homes. We appreciated that the diversity of backgrounds of interviewees was limited, however this provided a good start. </p>
-                <br>
-                <br>
-                <b>Results</b>
-                <br>
-                <p>We were surprised to find that our target user group ‘makers’ was really four distinct segments. The feedback was highly valuable in showing that interest in the product was motivated by various different needs. Personas were developed to capture these segments.</p>
-                <br>
-                <br>
-                <b>Changes</b>
-                <br>
-                <p>Analysis and review of user interviews, helping develop accurate persona profiles that encapsulated the needs and preferences of the four specific subgroups. </p>
-                <br>
-                <br>
-                <br>
-        </div>
-        <div class="cont" style="background-color: <?php echo $tertiary_colour; ?>;">
-            <h6>Persona Development</h6>
-            <br>
-            <br>
-            <div>
                 <div class="row">
+                    <p>The idea for this business was motivated by a desire to solve a problem that affected us personally as makers. It was now time to explore whether the same problems are faced by other people.</p>
+                    <br>
                     <div class="col-sm">
-                        <b>The Tech Junkie</b><br><br>
-                        <p>The tech junkie loves using smart home technology and integrating it into their home; even if the interactions are not that useful, it is all about the novelty factor. They buy products that are fun, quirky and easy to set up. They jump on the latest tech trends and enjoy showing off their smart home tech.</p>
+                        <br>
+                        <br>
+                        <b>Key objectives</b>
+                        <br>
+                        <p>To understand what being a ‘maker’ really means, understand who this product applies to, and develop personas that will enable us to meet user needs. </p>
+                        <br>
+                        <br>
+                        <b>Activities</b>
+                        <br>
+                        <p>We are fortunate to be part of a community of maker-minded people at Imperial; in the Design Engineering Department and at the Advanced Hackspace. We also spoke to parents in the Department, friends and family, and educators in making. </p>
+                        <br>
+                        <p>In total 20+ hours of qualitative <a style="color: blue;" href="https://docs.google.com/forms/d/e/1FAIpQLSc6KoAXBtrIV0qBu7Vs1T4wgZgos4d34oR-uLv1ILZToXfi-Q/viewform?usp=sf_link">long-format user interviews</a> were undertaken with participants of all ages, and a range of experience in making and smart homes. We appreciated that the diversity of backgrounds of interviewees was limited, however this provided a good start. </p>
+                        <br>
+                        <br>
                     </div>
                     <div class="col-sm">
+                        <b>Results</b>
+                        <br>
+                        <p>We were surprised to find that our target user group ‘makers’ was really four distinct segments. The feedback was highly valuable in showing that interest in the product was motivated by various different needs. Personas were developed to capture these segments.</p>
                         <br>
                         <br>
-                        <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/personas/1.png">
+                        <b>Changes</b>
+                        <br>
+                        <p>Analysis and review of user interviews, helping develop accurate persona profiles that encapsulated the needs and preferences of the four specific subgroups. </p>
+                        <br>
+                        <br>
+                        <br>
                     </div>
                 </div>
-                <br>
-                <br>
-                <br>
-                <div class="row">
-                    <div class="col-sm">
-                        <b>The Home Improver</b><br><br>
-                        <p>The home improver enjoys optimising their home and automating their devices. They are looking for tech that will provide useful functionality, customizability and are willing to pay for high quality devices. They may be concerned about privacy issues but they lack the technical knowledge to develop their own systems. They value a reliable product that is easy to set up and fits in well with their home.</p>
-                    </div>
-                    <div class="col-sm">
+                <div class="cont" style="background-color: <?php echo $tertiary_colour; ?>;">
+                    <h6>Persona Development</h6>
+                    <br>
+                    <br>
+                    <div>
+                        <div class="row">
+                            <div class="col-sm">
+                                <b>The Tech Junkie</b><br><br>
+                                <p>The tech junkie loves using smart home technology and integrating it into their home; even if the interactions are not that useful, it is all about the novelty factor. They buy products that are fun, quirky and easy to set up. They jump on the latest tech trends and enjoy showing off their smart home tech.</p>
+                            </div>
+                            <div class="col-sm">
+                                <br>
+                                <br>
+                                <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/personas/1.png">
+                            </div>
+                        </div>
                         <br>
                         <br>
-                        <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/personas/2.png">
-                    </div>
-                </div>
-                <br>
-                <br>
-                <br>
-                <div class="row">
-                    <div class="col-sm">
-                        <b>The Beginner Tinkerer</b><br><br>
-                        <p>The beginner tinkerer enjoys the challenge, learning experience and satisfaction of creating something themselves. They might be new to making but they are keen to get stuck in. The project might not be useful to daily life but they hope to move towards that. The beginner tinkerer loves to share their creations and learn from like minded people. </p>
-                    </div>
-                    <div class="col-sm">
+                        <br>
+                        <div class="row">
+                            <div class="col-sm">
+                                <b>The Home Improver</b><br><br>
+                                <p>The home improver enjoys optimising their home and automating their devices. They are looking for tech that will provide useful functionality, customizability and are willing to pay for high quality devices. They may be concerned about privacy issues but they lack the technical knowledge to develop their own systems. They value a reliable product that is easy to set up and fits in well with their home.</p>
+                            </div>
+                            <div class="col-sm">
+                                <br>
+                                <br>
+                                <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/personas/2.png">
+                            </div>
+                        </div>
                         <br>
                         <br>
-                        <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/personas/3.png">
-                    </div>
-                </div>
-                <br>
-                <br>
-                <br>
-                <div class="row">
-                    <div class="col-sm">
-                        <b>The Advanced Hacker</b><br><br>
-                        <p>Advanced Hackers are expert makers. They will pay a premium for hardware that is designed for maximum ‘hackability’ and is well-documented online. Projects can either be useful or useless, what is important is that the building process is an exciting challenge. They may share their creations with the community online, and will certainly use the community to help solve errors!</p>
-                    </div>
-                    <div class="col-sm">
+                        <br>
+                        <div class="row">
+                            <div class="col-sm">
+                                <b>The Beginner Tinkerer</b><br><br>
+                                <p>The beginner tinkerer enjoys the challenge, learning experience and satisfaction of creating something themselves. They might be new to making but they are keen to get stuck in. The project might not be useful to daily life but they hope to move towards that. The beginner tinkerer loves to share their creations and learn from like minded people. </p>
+                            </div>
+                            <div class="col-sm">
+                                <br>
+                                <br>
+                                <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/personas/3.png">
+                            </div>
+                        </div>
                         <br>
                         <br>
-                        <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/personas/4.png">
+                        <br>
+                        <div class="row">
+                            <div class="col-sm">
+                                <b>The Advanced Hacker</b><br><br>
+                                <p>Advanced Hackers are expert makers. They will pay a premium for hardware that is designed for maximum ‘hackability’ and is well-documented online. Projects can either be useful or useless, what is important is that the building process is an exciting challenge. They may share their creations with the community online, and will certainly use the community to help solve errors!</p>
+                            </div>
+                            <div class="col-sm">
+                                <br>
+                                <br>
+                                <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/personas/4.png">
+                            </div>
+                            <div style="clear: both"></div>
+                        </div>
+                        <br>
+                        <br>
+                        <br>
                     </div>
-                    <div style="clear: both"></div>
-                </div>
-                <br>
-                <br>
-                <br>
-            </div>
             </section>
         </div>
         <div class="cont">
@@ -214,21 +220,30 @@
             <br>
             <br>
             <section id="competitor_analysis">
-                <h4>Competitive Product Analysis </h4>
-                <br>
-                <br>
-                <b>Key objectives:</b>
-                <p>To understand why a customer would or would not choose to invest in a Voxel product, and the price points at which we are competing. To understand commonalities between customers and areas in which Voxel can differentiate itself. </p>
-                <br>
-                <br>
-                <b>Activities: </b>
-                <p>Desk research into products available online, including a deep dive into the reviews for each. </p>
-                <br>
-                <br>
+            <h4>Competitive Product Analysis </h4>
+                <div class="row">
+                    <div class="col-sm">
+                        <br>
+                        <br>
+                        <b>Key objectives:</b>
+                        <p>To understand why a customer would or would not choose to invest in a Voxel product, and the price points at which we are competing. To understand commonalities between customers and areas in which Voxel can differentiate itself. </p>
+                        <br>
+                        <br>
+                    </div>
+                    <div class="col-sm">
+                        <br>
+                        <br>
+                        <br>
+                        <b>Activities: </b>
+                        <p>Desk research into products available online, including a deep dive into the reviews for each. </p>
+                        <br>
+                    </div>
+                </div>
                 <b>Results:</b>
-                <p>Table summarising functions, price, pro and cons of competitors for each subgroup. </p>
-                <br>
-                <br>
+                        <p>Table summarising functions, price, pro and cons of competitors for each subgroup. </p>
+                        <br>
+                        <br>
+                        <br>
                 <h6>The Tech Junkie: Competition</h6>
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
                 <br>
@@ -268,28 +283,20 @@
             <section id="concept_development">
                 <h4>Concept Development</h4>
                 <br>
-                <p>The product was conceived with the mission of giving to the crazy inventors, smart home wizards and new makers the tools and flexibility to create whatever they want. The product development journey was guided by users’ feedback and focused on delivering something innovative and disruptive to the market.</p>
-                <br>
-                <p>The Cubes concept was chosen for two main reasons: first, the cubic shape is simple and iconic, suggesting in hardware the modularity of the whole system. Second, cubes were chosen as a strong form in balancing the combining of maker components with premium smart home equipment. </p>
-                <br>
+                <div class="row">
+                    <div class="col-sm">
+                        <p>The product was conceived with the mission of giving to the crazy inventors, smart home wizards and new makers the tools and flexibility to create whatever they want. The product development journey was guided by users’ feedback and focused on delivering something innovative and disruptive to the market.</p>
+                        <br>
+                    </div>
+                    <div class="col-sm">
+                        <p>The Cubes concept was chosen for two main reasons: first, the cubic shape is simple and iconic, suggesting in hardware the modularity of the whole system. Second, cubes were chosen as a strong form in balancing the combining of maker components with premium smart home equipment. </p>
+                    </div>
+                    <br>
             </section>
         </div>
 
         <div class="cont">
-            <section id="concept_development">
-                <h6>Prototype A: Technical Validation</h6>
-                <br>
-                <br>
-                <b>Activity: </b>
-                <p>A technical prototype was built, made up of the components that form the modules in the Cubes concept. </p>
-                <br>
-                <br>
-                <b>Key objective:</b>
-                <p>To test the technical feasibility of the Cubes product idea, and establish which services could be integrated. This was critical in designing a product for the maker market, as users have a strong understanding of technical feasibility.</p>
-                <br>
-                <br>
-                <br>
-            </section>
+            <h6>Prototype A: Technical Validation</h6>
         </div>
         <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
             <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/12.jpg" class="slickimage3">
@@ -301,40 +308,40 @@
             </video>
             <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/8.jpg" class="slickimage3">
         </div>
+        <br>
+        <br>
+
         <div class="cont">
             <section id="concept_development">
-                <b>Feedback: </b>
-                <p> The prototype demonstrated that the technical challenge of assembling a diverse range of modules into a modularised system was possible. The internal components are fundamentally simple, the next challenge was to package them in such a way that communicates the added value of a modular system.</p>
-                <br>
-                <br>
-                <b>Changes:</b>
-                <p> We realised that while the LED matrix fully matched the block dimensions, the sensors’ circuit was considerably smaller. To optimise space and reduce costs, the sensors’ embodiment was reimagined into a flat tile-shaped module.</p>
-                <br>
-                <br>
                 <div class="row">
-                    <br>
-                    <h6>Prototype B: Visual Prototype</h6>
-                    <br>
-                    <br>
-
-
-
                     <div class="col-sm">
+
                         <b>Activity: </b>
-                        <p>The creation of visual prototypes using magnets and 3D printed parts. User interviews were conducted including the prototypes (see next section).</p>
+                        <p>A technical prototype was built, made up of the components that form the modules in the Cubes concept. </p>
                         <br>
                         <br>
                         <b>Key objective:</b>
-                        <p>To understand various product specifics:</p>
-                        <ul>
-                            <li>Magnet strength and conductivity</li>
-                            <li>Module size </li>
-                            <li>Magnets position </li>
-                            <li>Colour, material and finish</li>
-                            <li>Module shape</li>
-                        </ul>
+                        <p>To test the technical feasibility of the Cubes product idea, and establish which services could be integrated. This was critical in designing a product for the maker market, as users have a strong understanding of technical feasibility.</p>
                         <br>
                         <br>
+                        <br>
+                    </div>
+                    <div class="col-sm">
+                        <b>Feedback: </b>
+                        <p> The prototype demonstrated that the technical challenge of assembling a diverse range of modules into a modularised system was possible. The internal components are fundamentally simple, the next challenge was to package them in such a way that communicates the added value of a modular system.</p>
+                        <br>
+                        <br>
+                        <b>Changes:</b>
+                        <p> We realised that while the LED matrix fully matched the block dimensions, the sensors’ circuit was considerably smaller. To optimise space and reduce costs, the sensors’ embodiment was reimagined into a flat tile-shaped module.</p>
+                        <br>
+                        <br>
+                        <br>
+                    </div>
+                </div>
+                <h6>Prototype B: Visual Prototype</h6>
+                <br>
+                <br>
+
             </section>
         </div>
         <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
@@ -354,27 +361,46 @@
         </div>
         <div class="cont">
             <section id="concept_development">
-                <div class="cont">
-
-                    <b>Feedback: </b>
-                    <ul>
-                        <li>Users felt that the modules were missing a visual cue after they snapped blocks together.</li>
-                        <li>Users were expecting smaller cubes and tiles for easier use with one hand. </li>
-                        <li>Users expressed interest in placing the modules in their room, kitchen and living room, pushing us to focus on the development of sensors that matched the needs of those rooms.</li>
-                    </ul>
-                    <br>
-                    <br>
-                    <b>Changes:</b>
-                    <ul>
-                        <li>We redesigned the modules to follow more rounded outlines and softer overall shapes, and a more homely material finish and feel. </li>
-                        <li>We redesigned several key interactions such as the multi-input module as it did not provide the desired affordance. </li>
-                        <li>We designed a UI for the LED matrix that showed a visual cue after every snapping interaction.</li>
-                    </ul>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <h6>Concept and Prototype User Testing </h6>
+                <div class="row">
+                    <div class="col-sm">
+                        <b>Activity: </b>
+                        <p>The creation of visual prototypes using magnets and 3D printed parts. User interviews were conducted including the prototypes (see next section).</p>
+                        <br>
+                        <br>
+                        <b>Key objective:</b>
+                        <p>To understand various product specifics:</p>
+                        <ul>
+                            <li>Magnet strength and conductivity</li>
+                            <li>Module size </li>
+                            <li>Magnets position </li>
+                            <li>Colour, material and finish</li>
+                            <li>Module shape</li>
+                        </ul>
+                        <br>
+                        <br>
+                    </div>
+                    <div class="col-sm">
+                        <b>Feedback: </b>
+                        <ul>
+                            <li>Users felt that the modules were missing a visual cue after they snapped blocks together.</li>
+                            <li>Users were expecting smaller cubes and tiles for easier use with one hand. </li>
+                            <li>Users expressed interest in placing the modules in their room, kitchen and living room, pushing us to focus on the development of sensors that matched the needs of those rooms.</li>
+                        </ul>
+                        <br>
+                        <br>
+                        <b>Changes:</b>
+                        <ul>
+                            <li>We redesigned the modules to follow more rounded outlines and softer overall shapes, and a more homely material finish and feel. </li>
+                            <li>We redesigned several key interactions such as the multi-input module as it did not provide the desired affordance. </li>
+                            <li>We designed a UI for the LED matrix that showed a visual cue after every snapping interaction.</li>
+                        </ul>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                    </div>
+                </div>
+                <h6>Concept and Prototype User Testing </h6>
             </section>
         </div>
         <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
@@ -397,7 +423,6 @@
                 <div class="row">
                     <div class="col-sm">
                         <br>
-                        <br>
                         <b>Activity: </b>
                         <p>Running a stand at the <a style="color:blue;" href="https://www.imperialhackspace.com/events/design-engineering-society-makeathon-2020/">Autodesk Makeathon 2020 <a>to interview users. Brand imagery, visual prototype prompts and post-it note inspiration boards were used to discuss ideas. </p>
                         <br>
@@ -408,8 +433,6 @@
                         <br>
                     </div>
                     <div class="col-sm">
-                        <br>
-                        <br>
                         <b>Feedback: </b>
                         <ul>
                             <li>The price users were expecting to pay was far higher than our original expectations, perceived value was high: averaging around £100, we expected around £50. </li>
