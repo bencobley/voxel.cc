@@ -61,7 +61,7 @@
                 <h6>Deal</h6>
                 <br>
                 <p>Voxel is looking for £50,000 Seed Funding to support manufacturing efforts and fund development of a Kickstarter campaign.</a></p>
-                <a href="#" class="btn btn-primary">Download May 2020 Investment Note</a>
+                <a href="https://voxelmedia.s3.eu-west-2.amazonaws.com/report.pdf" class="btn btn-primary">Download May 2020 Investment Note</a>
                 <br>
                 <br>
                 <br>
@@ -70,39 +70,39 @@
                 <h6>Team</h6>
             </section>
         </div>
-        <div style="max-width: 95vw; margin: auto;">
-            <div class="slickcarousel mx-auto pt-5">
+        <div style="margin: auto;">
+            <div class="slickcarousel mx-auto" style="max-width: 2000px;">
                 <div><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU2.png" class="slickimage">
-                    <div class="aboutuscontainer">
-                        <p style="padding: 10px; text-align: center;">Ben - CEO</p>
+                    <div style="padding: 15px;" class="aboutuscontainer">
+                        <p style="text-align: center;">Ben - CEO</p>
                         <p>A former engineer at Google X and Dyson, Ben has both leadership experience and extensive engineering skills spanning hardware and software. </p>
                         <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU7.jpg" class="internshiplogo">
                     </div>
                 </div>
                 <div><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU3.png" class="slickimage">
-                    <div class="aboutuscontainer">
-                        <p style="padding: 10px; text-align: center;">Ellie - COO</p>
+                    <div style="padding: 15px;" class="aboutuscontainer">
+                        <p style=" text-align: center;">Ellie - COO</p>
                         <p>Ellie is passionate about user driven technology, and has professional experience of developing user focused installations at Jason Bruges Studio.</p>
                         <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU8.png" class="internshiplogo" style="padding-top: 20px;">
                     </div>
                 </div>
                 <div><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU4.png" class="slickimage">
-                    <div class="aboutuscontainer">
-                        <p style="padding: 10px; text-align: center;">Gabi - CCO</p>
+                    <div style="padding: 15px;" class="aboutuscontainer">
+                        <p style="text-align: center;">Gabi - CCO</p>
                         <p>Gabi loves quick prototypes, but hates wiring things up and coding. Working at Apple made him realise the importance of designing user-friendly, powerful tools that allow people to focus just on creating.</p>
                         <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU9.jpg" class="internshiplogo">
                     </div>
                 </div>
                 <div><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU5.png" class="slickimage">
-                    <div class="aboutuscontainer">
-                        <p style="padding: 10px; text-align: center;">Melisa - CMO</p>
+                    <div style="padding: 15px;" class="aboutuscontainer">
+                        <p style="text-align: center;">Melisa - CMO</p>
                         <p>Melisa is an expert in graphic design and user experience. She has professional experience designing marketing material and graphics at CD Projekt. </p>
                         <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU10.png" class="internshiplogo">
                     </div>
                 </div>
                 <div><img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU6.png" class="slickimage">
-                    <div class="aboutuscontainer">
-                        <p style="padding: 10px; text-align: center;">Oli - CTO</p>
+                    <div style="padding: 15px;" class="aboutuscontainer">
+                        <p style="text-align: center;">Oli - CTO</p>
                         <p>Oli is our hardware expert, he is a keen smart home enthusiast and has professional experience developing consumer facing IOT tech from working at Magic Of Things Ltd.</p>
                         <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/AU/AU11.png" class="internshiplogo">
                     </div>
@@ -308,7 +308,7 @@
             <br>
         </div>
         <section id="concept_development">
-            <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;" id="carousel4">
+            <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
                 <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
                     <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/3.mp4" type="video/mp4">
                 </video>
@@ -340,7 +340,7 @@
                     <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/front_sound.MP4" type="video/mp4">
                 </video>
                 <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/multi_play.MP4" type="video/mp4">
+                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/multiplay.MP4" type="video/mp4">
                 </video>
                 <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
                     <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/BC_closeup_blocks.MP4" type="video/mp4">
@@ -379,10 +379,16 @@
                 <br>
                 <h6>Design and Development</h6>
                 <br>
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png" class="d-block h-100 w-100" style="object-fit: cover; max-width: 800px; margin: auto;">
-                <br>
-                <br>
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png" class="d-block h-100 w-100" style="object-fit: cover; max-width: 800px; margin: auto;">
+            </div>
+            <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;" id="carousel4">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/sketch/1.PNG" class="slickimage3">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/sketch/3.PNG" class="slickimage3">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/sketch/4.PNG" class="slickimage3">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/sketch/5.PNG" class="slickimage3">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/sketch/6.PNG" class="slickimage3">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/sketch/7.PNG" class="slickimage3">
+            </div>
+            <div class="cont">
                 <br>
                 <br>
                 <br>
@@ -418,7 +424,7 @@
         <br>
         </div>
         <section id="validation">
-            <div class="cont;">
+            <div class="cont">
                 <br>
                 <h6>Focus Groups</h6>
                 <br>
@@ -435,7 +441,7 @@
                     <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/FG1.mp4" type="video/mp4">
                 </video>
             </div>
-            <div class="cont;">
+            <div class="cont">
                 <br>
                 <br>
                 <br>
