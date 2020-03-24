@@ -25,10 +25,10 @@
         <nav class="horizontal_nav">
             <ul id="mainNav">
                 <div class="container flex-shrink-0">
-                    <li class="active"><a href="#company_summary">Welcome</a></li>
+                    <li class="active"><a href="#company_summary">About Us</a></li>
                     <li><a href="#customer">Understanding Our Customers</a></li>
                     <li><a href="#competitor_analysis">Competitor Analysis</a></li>
-                    <li><a href="#concept_development">Development & Feedback</a></li>
+                    <li><a href="#concept_development">Prototyping & Feedback</a></li>
                     <li><a href="#validation">Validation</a></li>
                 </div>
             </ul>
@@ -47,7 +47,7 @@
                     </div>
                     <div class="col-sm">
                         <p>Voxel is looking for £50,000 Seed Funding to support manufacturing efforts and fund development of a Kickstarter campaign.</a></p>
-                        <a href="https://voxelmedia.s3.eu-west-2.amazonaws.com/report.pdf" class="btn btn-primary">Download May 2020 Investment Note</a>
+                        <a href="https://voxelmedia.s3.eu-west-2.amazonaws.com/Final_report.pdf" class="btn btn-primary">Download May 2020 Investment Note</a>
                     </div>
                 </div>
 
