@@ -154,7 +154,7 @@
                             <div class="col-sm">
                                 <br>
                                 <br>
-                                <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/personas/1.png">
+                                <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/techjunkie-comp.png">
                             </div>
                         </div>
                         <br>
@@ -168,7 +168,7 @@
                             <div class="col-sm">
                                 <br>
                                 <br>
-                                <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/personas/2.png">
+                                <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/homeimprover-comp.png">
                             </div>
                         </div>
                         <br>
@@ -182,7 +182,7 @@
                             <div class="col-sm">
                                 <br>
                                 <br>
-                                <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/personas/3.png">
+                                <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/beginnertinkerer-comp.png">
                             </div>
                         </div>
                         <br>
@@ -196,7 +196,7 @@
                             <div class="col-sm">
                                 <br>
                                 <br>
-                                <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/personas/4.png">
+                                <img style="max-width: 400px;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/advancedhacker-comp.png">
                             </div>
                             <div style="clear: both"></div>
                         </div>
