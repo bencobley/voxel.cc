@@ -392,6 +392,28 @@
                 <br>
                 <br>
                 <br>
+                <h6>Hardware Design Iteration</h6>
+                <br>
+            </div>
+            <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;" id="carousel4">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cad/1.png" class="slickimage3">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cad/3.png" class="slickimage3">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cad/4.png" class="slickimage3">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cad/5.png" class="slickimage3">
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cad/6.png" class="slickimage3">
+            </div>
+            <div class="cont">
+            <br>
+                <br>
+                <br>
+                <h6>Assembly Prototype</h6>
+                <br>
+                <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                    <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/assem.mp4" type="video/mp4">
+                </video>
+                <br>
+                <br>
+                <br>
                 <h6>Software UI Development</h6>
                 <br>
                 <p>When developing the software user interface and programming platform, it was important to cater for all ability levels. The beginner user who has no experience programming is able to download projects from our community with a single click, or use simple ‘drag and drop’ graphical coding based on an open source project such as blockly.</p>
