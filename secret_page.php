@@ -53,11 +53,7 @@
                 <br>
                 <br>
                 <br>
-            </section>
-        </div>
-        <img style="padding-left: auto; padding-right: auto; width: 90vw;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/blob.png">
-        <div class="cont">
-            <section id="company_summary">
+                <img style="width:100%;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/blob.png">>
                 <br>
                 <br>
                 <br>
@@ -933,16 +929,18 @@
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/price/16.jpg" class="slickimage3">
                 </div>
                 <div class="cont">
-
                     <br>
-                    <b>Contributers</b>
+                    <b>Contribution</b>
                     <br>
                     <br>
-                    <p>The manufacturer of the ESP8266 chip, around which our concept is based, has contacted us both by commenting directly under the posts and our Facebook page. We are currently in contact with them to discuss further collaboration opportunities. </p>
+                    <p>Several makers also expressed interest in collaborating and contributing to the open source software and we have created an email database of these potential contributors, as well as a database of those interested in updates about the kickstarter. Click to see some of the comments below. </p>
                     <br>
-                    <div style="max-width: 90%; margin: auto;">
+                    <div style="max-width: 50%; margin: auto;">
                         <blockquote class="blockquote">
-                            <img style="width: 170%;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/esp.png">
+                            <p>I think one of the main things missing from what's out there at the moment, is plug and play hardware combined with a decent reporting interface. That someone non - techie but interested in automating/monitoring their homes, would enjoy looking at and derive value and insight from.
+
+                                Where are you based? Are you looking for contributors?
+                            </p>
                         </blockquote>
                         <button class="btn btn-primary" onclick="hide4()" style="margin-left: 35px;">Show All Comments</button>
                     </div>
@@ -953,6 +951,43 @@
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cont/2.jpg" class="slickimage3">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cont/3.jpg" class="slickimage3">
                     <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/cont/4.jpg" class="slickimage3">
+                </div>
+                <div class="cont">
+                    <br>
+                    <b>Collaboration</b>
+                    <br>
+                    <br>
+                    <p>The manufacturer of the ESP8266 chip, around which our concept is based, has contacted us both by commenting directly under the posts and our Facebook page. We are currently in contact with them to discuss further collaboration opportunities. </p>
+                    <br>
+                    <div style="max-width: 90%; margin: auto;">
+                        <blockquote class="blockquote">
+                            <img style="width: 170%;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/esp.png">
+                        </blockquote>
+                    </div>
+                    <br>
+                </div>
+            </div>
+            <div class="cont">
+                <br>
+                <br>
+                <br>
+                <div class="row">
+                    <div class="col-sm">
+                        <b>Changes:</b>
+                        <ul>
+                            <li>We included on the website deeper technical specifications as they were required by makers and added an FAQ section to answer common technical queries. </li>
+                            <li>On both the video and the website we made the presentation of the integration of our modules with current existing products and services. </li>
+                        </ul>
+                        <br>
+                    </div>
+                    <div class="col-sm">
+                        <h6>Validation Conclusions</h6>
+                        <ol>
+                            <li>There is certainly interest from our target audience in the product idea. </li>
+                            <li>There is a good indication that valuable support for the open-source project movement could be found. </li>
+                            <li>Perceived value appears higher than expected, but response to a particular price point is still relatively unknown. </li>
+                        </ol>
+                    </div>
                 </div>
             </div>
         </section>
