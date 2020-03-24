@@ -250,20 +250,24 @@
                 </div>
 
                 <h6>The Tech Junkie: Competition</h6>
+                <br>
                 <img style="max-width: 100%;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/techjunkie-comp.png">
                 <br>
                 <br>
                 <h4>The Home Improver: Competition</h4>
+                <br>
                 <img style="max-width: 100%;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/homeimprover-comp.png">
                 <br>
                 <br>
                 <br>
                 <h4>The Beginner Tinkerer: Competition</h4>
+                <br>
                 <img style="max-width: 100%;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/beginnertinkerer-comp.png">
                 <br>
                 <br>
                 <br>
                 <h4>The Advanced Hacker: Competition</h4>
+                <br>
                 <img style="max-width: 100%;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/advancedhacker-comp.png">
                 <br>
                 <br>
@@ -446,7 +450,7 @@
                     <div class="col-sm">
                         <br>
                         <b>Activity: </b>
-                        <p>Running a stand at the <a style="color:blue;" href="https://www.imperialhackspace.com/events/design-engineering-society-makeathon-2020/">Autodesk Makeathon 2020 <a>to interview users. Brand imagery, visual prototype prompts and post-it note inspiration boards were used to discuss ideas. </p>
+                        <p>Running a stand at the Autodesk Makeathon 2020 to interview users. Brand imagery, visual prototype prompts and post-it note inspiration boards were used to discuss ideas. </p>
                         <br>
                         <br>
                         <b>Key Objectives: </b>
@@ -460,7 +464,7 @@
                             <li>The price users were expecting to pay was far higher than our original expectations, perceived value was high: averaging around £100, we expected around £50. </li>
                             <li>Users showed a surprising amount of interest in the use cases offered by the LED matrix display, pushing us to develop further its UI and possible interactions.</li>
                             <li>The possibility in projects did not come across well in communication. </li>
-                        </ul> <br>
+                        </ul>
                         <br>
                         <b>Changes:</b>
                         <ul>
@@ -472,6 +476,8 @@
                     </div>
                 </div>
             </section>
+            <br>
+            <br>
             <h4>Hardware Design Iteration</h4>
             </section>
         </div>
@@ -585,7 +591,8 @@
                     <br>
                     <br>
                     <div class="col-sm">
-
+                        <br>
+                        <br>
                         <b>Activity: </b>
                         <p>Mock-up of the software aspect of the Voxel platform. </p>
                         <br>
