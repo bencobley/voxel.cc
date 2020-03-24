@@ -360,7 +360,7 @@
                 
                 <div class="row">
                     <div class="col-sm">
-                        <b>Activity: </b>
+                        <b>Activities: </b>
                         <p>The creation of visual prototypes using magnets and 3D printed parts. User interviews were conducted including the prototypes (see next section).</p>
                         <br>
                         <br>
@@ -448,12 +448,17 @@
             <section id="concept_development">
                 <div class="row">
                     <div class="col-sm">
+<<<<<<< HEAD
                         <br>
                         <b>Activity: </b>
                         <p>Running a stand at the Autodesk Makeathon 2020 to interview users. Brand imagery, visual prototype prompts and post-it note inspiration boards were used to discuss ideas. </p>
+=======
+                        <b>Activities: </b>
+                        <p>Running a stand at the <a style="color:blue;" href="https://www.imperialhackspace.com/events/design-engineering-society-makeathon-2020/">Autodesk Makeathon 2020 <a>to interview users. Brand imagery, visual prototype prompts and post-it note inspiration boards were used to discuss ideas. </p>
+>>>>>>> 4ddbd9e3c0172904b50aa6377be61b888e73fdd6
                         <br>
                         <br>
-                        <b>Key Objectives: </b>
+                        <b>Key objectives: </b>
                         <p>To investigate the user interaction appeal of snapping modules together to assemble the components needed for a project. To understand whether the perceived value added in packaging components into modules warrants the additional price. To discuss what projects users might be interested in undertaking with Voxel. </p>
                         <br>
                         <br>
@@ -475,9 +480,12 @@
                         <br>
                     </div>
                 </div>
+<<<<<<< HEAD
             </section>
             <br>
             <br>
+=======
+>>>>>>> 4ddbd9e3c0172904b50aa6377be61b888e73fdd6
             <h4>Hardware Design Iteration</h4>
             </section>
         </div>
@@ -507,7 +515,7 @@
                     <br>
                     <br>
                     <br>
-                    <h6>Prototype C: Assemble-at-home Prototype</h6>
+                    <h4>Prototype C: Assemble-at-home Prototype</h4>
                     <br>
                     <br>
                     <video style="width: 100%; height: 450px;" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
@@ -533,7 +541,7 @@
                     <br>
 
                     <div class="col-sm">
-                        <br> <b>Activity: </b>
+                        <br> <b>Activities: </b>
                         <p>Hands-on testing with assemble-at-home prototype. For this quick test, participants were readily available friends and family (and other group members!).</p>
                         <br>
                         <br>
@@ -591,9 +599,14 @@
                     <br>
                     <br>
                     <div class="col-sm">
+<<<<<<< HEAD
                         <br>
                         <br>
                         <b>Activity: </b>
+=======
+
+                        <b>Activities: </b>
+>>>>>>> 4ddbd9e3c0172904b50aa6377be61b888e73fdd6
                         <p>Mock-up of the software aspect of the Voxel platform. </p>
                         <br>
                         <br>
