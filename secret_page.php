@@ -39,7 +39,7 @@
             <section id="company_summary">
                 <br>
                 <br>
-                <h4>Welcome</h4>
+                <h2>Welcome</h2>
                 <br>
                 <p>This page provides investors with an overview of Voxel’s prototyping and user testing process, the feedback gained, and the resulting changes made.</p>
                 <br>
@@ -48,7 +48,7 @@
                 <br>
                 <br>
                 <br>
-                <h6>About Us</h6>
+                <h4>About Us</h4>
                 <br>
                 <p>We are Voxel. We are a team of passionate makers, and we started this project after identifying a need in the community for a smart home that puts privacy, creativity and exploration first. Frustrated by data concerns and lack of configurability and customizability with existing solutions, we believe everyone deserves complete control over products they own.</p>
                 <br>
@@ -57,7 +57,7 @@
 
                 <br>
                 <br>
-                <h6>Team</h6>
+                <h4>Team</h4>
             </section>
         </div>
         <div style="margin: auto;">
@@ -106,7 +106,7 @@
         <div class="cont">
             <section id="customer">
 
-                <h4>Understanding our Customers</h4>
+                <h2>Understanding our Customers</h2>
                 <br>
                 <p>The idea for this business was motivated by a desire to solve a problem that affected us personally as makers. It was now time to explore whether the same problems are faced by other people.</p>
                 <br>
@@ -136,7 +136,7 @@
                 <br>
         </div>
         <div class="cont" style="background-color: <?php echo $tertiary_colour; ?>;">
-            <h6>Persona Development</h6>
+            <h4>Persona Development</h4>
             <br>
             <br>
             <div>
@@ -203,14 +203,14 @@
         <div class="cont">
             <br>
             <br>
-            <h6>User Preference Analysis</h6><br>
+            <h4>User Preference Analysis</h4><br>
             <br>
             <br>
             <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png" class="d-block h-100 w-100" style="object-fit: cover; max-width: 800px; margin: auto;">
             <br>
             <br>
             <section id="competitor_analysis">
-                <h4>Competitive Product Analysis </h4>
+                <h2>Competitive Product Analysis </h2>
                 <br>
                 <br>
                 <b>Key objectives:</b>
@@ -225,21 +225,21 @@
                 <p>Table summarising functions, price, pro and cons of competitors for each subgroup. </p>
                 <br>
                 <br>
-                <h6>The Tech Junkie: Competition</h6>
+                <h4>The Tech Junkie: Competition</h4>
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
                 <br>
                 <br>
-                <h6>The Home Improver: Competition</h6>
-                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
-                <br>
-                <br>
-                <br>
-                <h6>The Beginner Tinkerer: Competition</h6>
+                <h4>The Home Improver: Competition</h4>
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
                 <br>
                 <br>
                 <br>
-                <h6>The Advanced Hacker: Competition</h6>
+                <h4>The Beginner Tinkerer: Competition</h4>
+                <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
+                <br>
+                <br>
+                <br>
+                <h4>The Advanced Hacker: Competition</h4>
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
                 <br>
                 <br>
@@ -248,7 +248,7 @@
         </div>
         <div class="cont">
             <section id="competitor_analysis" style="padding: 20px; background-color: <?php echo $tertiary_colour; ?>;">
-                <h6>How Does Voxel Differ From the Competition?</h6>
+                <h4>How Does Voxel Differ From the Competition?</h4>
                 <br>
                 <p>Our vision is unique in encapsulating all of the below:</p>
                 <ol>
@@ -262,7 +262,7 @@
             <br>
             <br>
             <section id="concept_development">
-                <h4>Concept Development</h4>
+                <h2>Concept Development</h2>
                 <br>
                 <p>The product was conceived with the mission of giving to the crazy inventors, smart home wizards and new makers the tools and flexibility to create whatever they want. The product development journey was guided by users’ feedback and focused on delivering something innovative and disruptive to the market.</p>
                 <br>
@@ -273,7 +273,7 @@
 
         <div class="cont">
             <section id="concept_development">
-                <h6>Prototype A: Technical Validation</h6>
+                <h4>Prototype A: Technical Validation</h4>
                 <br>
                 <br>
                 <b>Activity: </b>
@@ -308,7 +308,7 @@
                 <br>
                 <br>
                 <br>
-                <h6>Prototype B: Visual Prototype</h6>
+                <h4>Prototype B: Visual Prototype</h4>
                 <br>
                 <br>
                 <b>Activity: </b>
@@ -363,7 +363,7 @@
                     <br>
                     <br>
                     <br>
-                    <h6>Concept and Prototype User Testing </h6>
+                    <h4>Concept and Prototype User Testing </h4>
                     <br>
                     <br>
                     <b>Activity: </b>
@@ -408,7 +408,7 @@
                 </ul>
                 <br>
                 <br>
-                <h4>Hardware Design Iteration</h4>
+                <h2>Hardware Design Iteration</h2>
             </section>
         </div>
         <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
@@ -434,7 +434,7 @@
                 <br>
                 <br>
                 <br>
-                <h6>Prototype C: Assemble-at-home Prototype</h6>
+                <h4>Prototype C: Assemble-at-home Prototype</h4>
                 <br>
                 <br>
                 <b>Activity: </b>
@@ -471,7 +471,7 @@
                 <br>
                 <br>
                 <div class="row">
-                    <h6>Software UI Development</h6>
+                    <h4>Software UI Development</h4>
                     <br>
                     <br>
                     <br>
@@ -513,7 +513,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <h6>Prototype D: Initial Working Prototype</h6>
+                    <h4>Prototype D: Initial Working Prototype</h4>
                     <br>
                     <br>
                     <br>
@@ -549,7 +549,7 @@
                 <br>
                 <br>
                 <br>
-                <h6>Testing Outside the Target Market</h6>
+                <h4>Testing Outside the Target Market</h4>
             </section>
         </div>
         <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
@@ -605,7 +605,7 @@
         </div>
         <section id="validation">
             <div class="cont">
-                <h6>Validation: Website Roll Out!</h6>
+                <h4>Validation: Website Roll Out!</h4>
                 <br>
                 <br>
                 <p>This website was designed to be a tool for validating whether our idea is attractive to potential customers. This was an exciting opportunity to finally expand our user testing outside London and the UK, and outside our circles. </p>
@@ -618,7 +618,7 @@
                     <li>It is quantifiable: customer interest can be tracked by their journey through the site. Customers do not know they are being surveyed (unlike an interview), so act normally</li>
                 </ul>
                 <br>
-                <h4>Traction Testing</h4>
+                <h2>Traction Testing</h2>
                 <br>
                 <br>
                 <p>The website was designed to appear, on first glance, as if a product was really for sale. This pretotyping technique, known as a ‘fake door’ is designed to gather information on the percentage of visitors that are interested in purchasing a product. Google Analytics was used to track website activity.</p>
@@ -674,7 +674,7 @@
             </div>
             <div style="background-color: <?php echo $tertiary_colour; ?>; padding: 20px 0;">
                 <div class="cont">
-                    <h4>User Feedback</h4>
+                    <h2>User Feedback</h2>
                     <br>
                     <p>We were blown away by the number of positive comments and uplifting feedback: the maker communities showed their strong supportive nature. Our posts received approximately 1000+ likes/upvotes and 100 comments, all really well thought out. </p>
                     <br>
@@ -840,7 +840,7 @@
             <div class="cont">
                 <br>
                 <br>
-                <h6>Traction Testing</h6>
+                <h4>Traction Testing</h4>
                 <p>During our research on social media we left links to our website and sign-up links to our community. Our website portrays our starter pack as a finished product and includes a ‘fake door’ buy button to gather information on what percentage of website visitors would purchase our starter pack. We used google analytics to track our website activity.</p>
                 <br>
                 <br>
@@ -849,9 +849,9 @@
                 <br>
                 <br>
                 <ul style="text-align:center">
-                    <h4>&bull; 11% buy button click-through rate</h4><br>
-                    <h4>&bull; 37.6% product page click-through rate</h4><br>
-                    <h4>&bull; 1000 unique sessions from 68 countries</h4><br>
+                    <h2>&bull; 11% buy button click-through rate</h2><br>
+                    <h2>&bull; 37.6% product page click-through rate</h2><br>
+                    <h2>&bull; 1000 unique sessions from 68 countries</h2><br>
                 </ul>
                 <br>
                 <br>
