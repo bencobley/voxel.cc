@@ -8,8 +8,8 @@
                 <h3><a href="hub#communityvibes">Hub</a></h3>
             </div>
             <div class="col-lg-5">
-                <h4><a href="starterpack">Starter Pack</a></h4>
                 <h4><a href="starterpack#techspecs">Tech Specs</a></h4>
+                <h4><a href="starterpack#upcoming">Upcoming Releases</a></h4>
                 <h4><a href="starterpack#faq">FAQ</a></h4>
                 <h4><a href="about">About us</a></h4>
             </div>
