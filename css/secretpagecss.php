@@ -24,6 +24,12 @@ margin: 0 auto;
 padding: 20px;
 }
 
+span {
+font-weight: 500;
+font-size: 16px;
+line-height: 1.7;
+}
+
 
 .horizontal_nav ul {
 list-style-type: none;
