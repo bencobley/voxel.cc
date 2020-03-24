@@ -709,7 +709,7 @@
         </div>
         <section id="validation">
             <div class="cont">
-                <h4>Validation: Website Roll Out!</h4>
+                <h2>Validation: Website Roll Out!</h2>
                 <br>
                 <br>
                 <p>This website was designed to be a tool for validating whether our idea is attractive to potential customers. This was an exciting opportunity to finally expand our user testing outside London and the UK, and outside our circles. </p>
@@ -722,7 +722,7 @@
                     <li>It is quantifiable: customer interest can be tracked by their journey through the site. Customers do not know they are being surveyed (unlike an interview), so act normally</li>
                 </ul>
                 <br>
-                <h2>Traction Testing</h2>
+                <h4>Traction Testing</h4>
                 <br>
                 <br>
                 <p>The website was designed to appear, on first glance, as if a product was really for sale. This pretotyping technique, known as a ‘fake door’ is designed to gather information on the percentage of visitors that are interested in purchasing a product. Google Analytics was used to track website activity.</p>
