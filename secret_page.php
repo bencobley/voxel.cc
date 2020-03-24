@@ -148,7 +148,7 @@
                     <div>
                         <div class="row">
                             <div class="col-sm">
-                                <b>The Tech Junkie</b><br>
+                                <b>The Tech Junkie</b><br><br>
                                 <p>The tech junkie loves using smart home technology and integrating it into their home; even if the interactions are not that useful, it is all about the novelty factor. They buy products that are fun, quirky and easy to set up. They jump on the latest tech trends and enjoy showing off their smart home tech.</p>
                             </div>
                             <div class="col-sm">
@@ -162,7 +162,7 @@
                         <br>
                         <div class="row">
                             <div class="col-sm">
-                                <b>The Home Improver</b><br>
+                                <b>The Home Improver</b><br><br>
                                 <p>The home improver enjoys optimising their home and automating their devices. They are looking for tech that will provide useful functionality, customizability and are willing to pay for high quality devices. They may be concerned about privacy issues but they lack the technical knowledge to develop their own systems. They value a reliable product that is easy to set up and fits in well with their home.</p>
                             </div>
                             <div class="col-sm">
@@ -176,7 +176,7 @@
                         <br>
                         <div class="row">
                             <div class="col-sm">
-                                <b>The Beginner Tinkerer</b><br>
+                                <b>The Beginner Tinkerer</b><br><br>
                                 <p>The beginner tinkerer enjoys the challenge, learning experience and satisfaction of creating something themselves. They might be new to making but they are keen to get stuck in. The project might not be useful to daily life but they hope to move towards that. The beginner tinkerer loves to share their creations and learn from like minded people. </p>
                             </div>
                             <div class="col-sm">
@@ -190,7 +190,7 @@
                         <br>
                         <div class="row">
                             <div class="col-sm">
-                                <b>The Advanced Hacker</b><br>
+                                <b>The Advanced Hacker</b><br><br>
                                 <p>Advanced Hackers are expert makers. They will pay a premium for hardware that is designed for maximum ‘hackability’ and is well-documented online. Projects can either be useful or useless, what is important is that the building process is an exciting challenge. They may share their creations with the community online, and will certainly use the community to help solve errors!</p>
                             </div>
                             <div class="col-sm">
@@ -233,13 +233,14 @@
                         <b>Activities: </b>
                         <p>Desk research into products available online, including a deep dive into the reviews for each. </p>
                         <br>
-                    </div>
-                </div>
-                <b>Results:</b>
+                        <b>Results:</b>
                         <p>Table summarising functions, price, pro and cons of competitors for each subgroup. </p>
                         <br>
                         <br>
                         <br>
+                    </div>
+                </div>
+                
                 <h6>The Tech Junkie: Competition</h6>
                 <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH13.png">
                 <br>
@@ -265,11 +266,11 @@
             <section id="competitor_analysis" style="padding: 20px; background-color: <?php echo $tertiary_colour; ?>;">
                 <h4>How Does Voxel Differ From the Competition?</h4>
                 <br>
-                <p>Our vision is unique in encapsulating all of the below:</p>
+                <p style="font-style: italic">Our vision is unique in encapsulating all of the below:</p>
                 <ol>
-                    <li> A fully open-source, privacy first ecosystem.</li>
-                    <li> Modular, infinitely expandable and easy to use hardware. </li>
-                    <li> An exciting community where creators can share their projects and find inspiration. </li>
+                    <li style="font-style: italic"> A fully open-source, privacy first ecosystem.</li>
+                    <li style="font-style: italic"> Modular, infinitely expandable and easy to use hardware. </li>
+                    <li style="font-style: italic"> An exciting community where creators can share their projects and find inspiration. </li>
                 </ol>
             </section>
             <br>
