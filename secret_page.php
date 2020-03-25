@@ -760,7 +760,6 @@
                         <ul>
                             <li>A fully working website was set up a week before the deadline.</li>
                             <li>A short promotional video (separate to main video on home page) was prepared. </li>
-                            <li>Magnets position </li>
                             <li>The video and website were posted on maker and smart home groups on Reddit and Facebook.</li>
                             <li>Users were engaged with and comments replied to, facilitating conversation about the product. </li>
                         </ul> <br>
