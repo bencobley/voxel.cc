@@ -152,9 +152,7 @@
                     <p class="text-right">An intuitive custom coding interface for beginners lets you create quick projects based on <a href="https://developers.google.com/blockly">Blockly by Google.</a> Supports Python and C++ for everything above.</p>
                     <a href="https://developers.google.com/blockly"><img src="media/blockly.png" style="height: 50px;" class="float-right"></a>
                 </div>
-
                 <div class="col-md-6 order-md-1">
-                <br>
                 <br>
                     <video class="featurette-image img-fluid mx-auto float-md-right" preload="auto" autoplay="autoplay" muted="muted" loop="loop">
                         <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH12.mp4" type="video/mp4">
