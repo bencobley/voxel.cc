@@ -399,9 +399,6 @@
                 <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/multiplay.mp4" type="video/mp4">
             </video>
             <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/BC_closeup_blocks.MP4" type="video/mp4">
-            </video>
-            <video class="slickimage3" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
                 <source src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/sound_block1.mp4" type="video/mp4">
             </video>
             <img src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/7.jpg" class="slickimage3">
