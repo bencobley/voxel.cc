@@ -489,7 +489,7 @@
                         <br>
                     </div>
                 </div>
-                <h4>>Hardware Design Iteration</h4>
+                <h4>Hardware Design Iteration</h4>
             </section>
         </div>
         <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
@@ -671,6 +671,23 @@
                 <br>
                 <br>
                 <h4>Testing Outside the Target Market</h4>
+                <br>
+                <br>
+                <div class="row">
+                    <div class="col-sm">
+                        <b>Activities: </b>
+                        <p>Testing the final hardware, website and branding with users deliberately outside of the target market. Voxel is aimed at smart home owners who already have one or more devices. We were aware that our testing so far had been with highly receptive audiences, how do other audiences respond? </p>
+                        <br>
+                        <br>
+
+                    </div>
+                    <div class="col-sm">
+                        <b>Key objectives:</b>
+                        <p>Understand how the product resonates with non-experts. Understand how to communicate the product clearly. Gain an idea of broader appeal, outside makers. </p>
+                        <br>
+                        <br>
+                    </div>
+                </div>
             </section>
         </div>
         <div class="slickcarousel mx-auto" style="max-width: 2000px; padding: 10px;">
@@ -692,30 +709,19 @@
             <section id="concept_development">
                 <div class="row">
                     <div class="col-sm">
-                        <br>
-                        <br>
-                        <b>Activities: </b>
-                        <p>Testing the final hardware, website and branding with users deliberately outside of the target market. Voxel is aimed at smart home owners who already have one or more devices. We were aware that our testing so far had been with highly receptive audiences, how do other audiences respond? </p>
-                        <br>
-                        <br>
-                        <b>Key objectives:</b>
-                        <p>Understand how the product resonates with non-experts. Understand how to communicate the product clearly. Gain an idea of broader appeal, outside makers. </p>
-                        <br>
-                        <br>
-                    </div>
-                    <div class="col-sm">
-                        <br>
-                        <br>
-
                         <b>Feedback: </b>
                         <p>The working prototype allowed us to conduct one-on-one interviews demonstrating hands-on interaction with the prototype and gaining more feedback about the product and concept. We expanded our reach beyond users with maker and tech experience and found that our privacy values resonated well with all users. As expected, those who were not previously smart home owners were intrigued but unlikely to purchase.</p>
                         <br>
                         <br>
+                    </div>
+                    <div class="col-sm">
+
                         <b>Changes:</b>
                         <ul>
                             <li>Various website and video storytelling changes to aid clear communication of the product such that anyone can understand it! </li>
                             <li>No changes to target market: Voxel targets existing smart home owners. </li>
                         </ul>
+                        <br>
                         <br>
                     </div>
                 </div>
@@ -996,21 +1002,28 @@
                         <b>Changes:</b>
                         <ul>
                             <li>We included on the website deeper technical specifications as they were required by makers and added an FAQ section to answer common technical queries. </li>
-                            <li>On both the video and the website we made the presentation of the integration of our modules with current existing products and services. </li>
                         </ul>
                         <br>
                     </div>
                     <div class="col-sm">
-                        <h4>Validation Conclusions</h4>
-                        <ol>
-                            <li>There is <b>certainly</b> interest from our target audience in the product idea. </li>
-                            <li>There is a <b>good indication</b> that valuable support for the open-source project movement could be found. </li>
-                            <li>Perceived value appears <b>higher than expected</b>, but response to a particular price point is still relatively unknown. </li>
-                        </ol>
+                        <ul>
+                            <li>On both the video and the website we made the presentation of the integration of our modules with current existing products and services. </li>
+                        </ul>
+
                     </div>
                 </div>
                 <br>
                 <br>
+
+                <h4>Validation Conclusions</h4>
+                <ol>
+                    <li>There is <b>certainly</b> interest from our target audience in the product idea. </li>
+                    <li>There is a <b>good indication</b> that valuable support for the open-source project movement could be found. </li>
+                    <li>Perceived value appears <b>higher than expected</b>, but response to a particular price point is still relatively unknown. </li>
+                </ol>
+                <br>
+                <br>
+                
                 <h4>Pricing strategy</h4>
                 <p>The price points of £55 and £50 for the Starter Pack and Smart Plug pack were chosen based on the competitor research and initial feedback on perceived value. These price points are the basis for the financial forecasting in the Investment Note (Final Report). In the future, AB testing will be undertaken to trial user response at different price points. </p>
                 <div style="margin: auto;" class="card-deck pt-3">
@@ -1053,12 +1066,12 @@
                 <br>
                 <h4>Summary of Product Development Path</h4>
                 <br>
-                <h4>Steps Completed To-date </h4>
+                <h6>Steps Completed To-date </h6>
                 <br>
                 <img style="width:100%;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/blob.png">
                 <br>
                 <br>
-                <h4>Future Steps Towards Kickstarter and Beyond</h4>
+                <h6>Future Steps Towards Kickstarter and Beyond</h6>
                 <br>
                 <br>
                 <img style="width:100%;" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/SP/blob2.png">
