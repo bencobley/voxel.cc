@@ -1025,7 +1025,7 @@
                 <br>
                 
                 <h4>Pricing strategy</h4>
-                <p>The price points of £55 and £50 for the Starter Pack and Smart Plug pack were chosen based on the competitor research and initial feedback on perceived value. These price points are the basis for the financial forecasting in the Investment Note (Final Report). In the future, AB testing will be undertaken to trial user response at different price points. </p>
+                <p>The price points of £55 and £40 for the Starter Pack and Smart Plug pack were chosen based on the competitor research and initial feedback on perceived value. These price points are the basis for the financial forecasting in the Investment Note (Final Report). In the future, AB testing will be undertaken to trial user response at different price points. </p>
                 <div style="margin: auto;" class="card-deck pt-3">
                     <div class="card">
                         <img class="card-img-top" src="https://voxelmedia.s3.eu-west-2.amazonaws.com/WH/WH1.png">
